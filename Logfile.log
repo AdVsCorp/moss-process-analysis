@@ -1,0 +1,1179 @@
+SHAS2 mode started at 2022-11-02 21:53:05 for Call of Duty Vanguard on x64
+ ping:122ms
+update 6 
+DirectX version is 12.0( )
+OS is 10.0 64 bit build 19044 
+Real OS Windows 10 or 11 
+memory: 32698 MB
+version: MOSS 6,3,5,0
+Physical: NZXTTo Be Filled By O.E.M.N7 B550M80-E3014401285
+Sign ID1: 1027937219 ID2: 1
+User: Utilisateur@DESKTOP-286AFEH
+Drive: XPG SPECTRIX S20G serial: 
+Net: /0.0.0.0 Public: 86.206.84.xxx
+Video: NVIDIA GeForce RTX 3070 driver : 31.0.15.2225
+
+Monitor: DEL AW2521HFA serial: 76MRL0310HU
+
+processor BIOS details 3701 MHz by 37.01*100. AMD Ryzen 5 5600X 6-Core Processor              
+Directx11
+Monitor Started at ping:122
+Windows Defender: enabled
+Windows Defender: enabled
+SteamId: 624705320
+
+ping:133ms
+SHAS2: 28cb4ebd59945b16e0e9e04154c7a1255b404a6e819c6c5fb4dbe4fa050c9b3b process: C:\Windows\System32\WUDFHost.exe
+SHAS2: bdbe0cab8e69c015d4c75036336da56c8a2d7d078b4626a1874dfe2cd8c0ec0a process: C:\Windows\System32\dasHost.exe
+SHAS2: 50b6fe5a4d331ec61f2b330497c714560cd667fcc150832aca4231605905ec4c process: C:\Windows\System32\spoolsv.exe
+SHAS2: 2198a7b58bccb758036b969ddae6cc2ece07565e2659a7c541a313a0492231a3 process: C:\Windows\System32\wbem\WmiPrvSE.exe
+SHAS2: 8456099deb994f309fde890e4f0e571a0a67f9b7dd079516905175cd1500fa52 process: C:\Windows\System32\wlanext.exe
+SHAS2: 3c1c6d813d2b031d988204155fc198fe4f32ff56c05dabbcfcd5486131f4fb9d process: C:\Windows\System32\conhost.exe
+SHAS2: 109b03ffc45231e5a4c8805a10926492890f7b568f8a93abe1fa495b4bd42975 Author: philandro Software GmbH process: C:\Program Files (x86)\AnyDesk\AnyDesk.exe
+SHAS2: ff1544c0aa9e62fa7bba857df6fb0a72d8934ee33509064a62ecd37b5317e737 Author: Realtek Semiconductor Corp. process: C:\Windows\System32\DriverStore\FileRepository\realtekservice.inf_amd64_951e077c5df60a51\RtkAudUService64.exe
+SHAS2: b6ac98bbe49e1893b239d67b7e690fc0bc807fb39542a9ed0385504100f525b6 Author: Electronic Arts, Inc. process: C:\Program Files (x86)\Origin\OriginWebHelperService.exe
+SHAS2: 3bdc962643042977cc088ab73bd787333a633088750c979fdb1268c99f2f50a3 Author: Nvidia Corporation process: C:\Windows\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_1b5e80ff87b1f5c8\Display.NvContainer\NVDisplay.Container.exe
+SHAS2: b023a93e13ee20a16791e98fbb6231fb83613e84255bbe8c8ea87930d4467e7a Author: Nvidia Corporation process: C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe
+SHAS2: 3c0bc02f445fea0ccb97748a025aeeb8835eacea585d58f50bba434686e1e053 process: C:\Windows\System32\MoUsoCoreWorker.exe
+SHAS2: 3305f52726bd84367f99001591e833d3b0be94240ac03a389aaf8dcff9c2e39f process: C:\Windows\System32\SearchIndexer.exe
+SHAS2: 6af57a7da31749715ba29b3b55a2f4acdd53a72b4f179398d2bca80a6c4f4841 Author: Adobe Inc. process: C:\Program Files (x86)\Common Files\Adobe\ARM\1.0\armsvc.exe
+SHAS2: 8628053cad15d3b51415174cc9f510d9f6d0298adf2aee2101859657ccd09c25 Author: NZXT, Inc. process: C:\Program Files\NZXT CAM\resources\app.asar.unpacked\node_modules\@nzxt\cam-core\dist\target\x86_64-pc-windows-msvc\release\service.exe
+SHAS2: 22223f093f50efacc09d4479f151297c2248562c2681ebbf54f11de28455d942 Author: Logitech Inc process: C:\Program Files\LGHUB\lghub_updater.exe
+SHAS2: 5d4d7c29121f22ef85f442df30c6046212de15958c1aa2649e2c0a4fa40dce41 process: C:\Windows\System32\winlogon.exe
+SHAS2: 0ac827c9e35cdaa492ddd435079415805dcc276352112b040bcd34ef122cf565 process: C:\Windows\System32\dwm.exe
+SHAS2: 3bdc962643042977cc088ab73bd787333a633088750c979fdb1268c99f2f50a3 Author: Nvidia Corporation process: C:\Windows\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_1b5e80ff87b1f5c8\Display.NvContainer\NVDisplay.Container.exe
+SHAS2: b023a93e13ee20a16791e98fbb6231fb83613e84255bbe8c8ea87930d4467e7a Author: Nvidia Corporation process: C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe
+SHAS2: 8ee21a0ba8849d31c265b4090a9e2ebe8ba66f58a8f71d4e96509e8a78f7db00 process: C:\Windows\System32\sihost.exe
+SHAS2: b023a93e13ee20a16791e98fbb6231fb83613e84255bbe8c8ea87930d4467e7a Author: Nvidia Corporation process: C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe
+SHAS2: 025dca7b9271aac624003ed7a64f56a42a68285610e74857f7e7b704d4a27a3a Author: Nvidia Corporation process: C:\Program Files (x86)\NVIDIA Corporation\NvNode\NVIDIA Web Helper.exe
+SHAS2: 3c1c6d813d2b031d988204155fc198fe4f32ff56c05dabbcfcd5486131f4fb9d process: C:\Windows\System32\conhost.exe
+SHAS2: 484fed5f039f429ed933931ba607b7efda7d1a343d79cfab60910e1843147012 process: C:\Windows\System32\ctfmon.exe
+SHAS2: fb1252f9e45ff92a1b5248a65ea238bae0289936377b65c6714c102c9adeeff9 Author: Nvidia Corporation process: C:\Program Files\NVIDIA Corporation\ShadowPlay\nvsphelper64.exe
+SHAS2: 69eeb83b9c8f2f2fe9388a8c66e798b098d0cc282991d4bc6bd506d45e6a747c Author: Nvidia Corporation process: C:\Program Files\NVIDIA Corporation\NVIDIA GeForce Experience\NVIDIA Share.exe
+SHAS2: 69eeb83b9c8f2f2fe9388a8c66e798b098d0cc282991d4bc6bd506d45e6a747c Author: Nvidia Corporation process: C:\Program Files\NVIDIA Corporation\NVIDIA GeForce Experience\NVIDIA Share.exe
+SHAS2: 69eeb83b9c8f2f2fe9388a8c66e798b098d0cc282991d4bc6bd506d45e6a747c Author: Nvidia Corporation process: C:\Program Files\NVIDIA Corporation\NVIDIA GeForce Experience\NVIDIA Share.exe
+SHAS2: 570b37a7a3ffdafcceccc33cbc1968feb857b73ca3cb4dffedc2e67e9abd0878 process: C:\Windows\System32\SecurityHealthSystray.exe
+SHAS2: ff1544c0aa9e62fa7bba857df6fb0a72d8934ee33509064a62ecd37b5317e737 Author: Realtek Semiconductor Corp. process: C:\Windows\System32\DriverStore\FileRepository\realtekservice.inf_amd64_951e077c5df60a51\RtkAudUService64.exe
+SHAS2: 144df33571fb65dd50ca11e29cfc99ffd86d348e644bf2b1a282bff1f994aceb Author: Discord Inc. process: C:\Users\Utilisateur\AppData\Local\Discord\app-1.0.9007\Discord.exe
+SHAS2: 144df33571fb65dd50ca11e29cfc99ffd86d348e644bf2b1a282bff1f994aceb Author: Discord Inc. process: C:\Users\Utilisateur\AppData\Local\Discord\app-1.0.9007\Discord.exe
+SHAS2: 144df33571fb65dd50ca11e29cfc99ffd86d348e644bf2b1a282bff1f994aceb Author: Discord Inc. process: C:\Users\Utilisateur\AppData\Local\Discord\app-1.0.9007\Discord.exe
+SHAS2: 144df33571fb65dd50ca11e29cfc99ffd86d348e644bf2b1a282bff1f994aceb Author: Discord Inc. process: C:\Users\Utilisateur\AppData\Local\Discord\app-1.0.9007\Discord.exe
+SHAS2: 378c0f8d02d277e1fecdb0b06b0f7881043395760964e095f3cde22679ecbacc Author: Blizzard Entertainment, Inc. process: C:\ProgramData\Battle.net\Agent\Agent.8022\Agent.exe
+SHAS2: 3c1c6d813d2b031d988204155fc198fe4f32ff56c05dabbcfcd5486131f4fb9d process: C:\Windows\System32\conhost.exe
+SHAS2: 144df33571fb65dd50ca11e29cfc99ffd86d348e644bf2b1a282bff1f994aceb Author: Discord Inc. process: C:\Users\Utilisateur\AppData\Local\Discord\app-1.0.9007\Discord.exe
+SHAS2: 144df33571fb65dd50ca11e29cfc99ffd86d348e644bf2b1a282bff1f994aceb Author: Discord Inc. process: C:\Users\Utilisateur\AppData\Local\Discord\app-1.0.9007\Discord.exe
+SHAS2: c04956d6c1128857191cac7cc769269a24eba505da1c5fc66290ff2628a7ccac Author: Logitech Inc process: C:\Program Files\LGHUB\lghub.exe
+SHAS2: 2b4c5a26d0692268f9da81a46f7a9763aee1ed759fdc7d9095ceb5df997a32e7 Author: Logitech Inc process: C:\Program Files\LGHUB\lghub_agent.exe
+*SHAS2: c04956d6c1128857191cac7cc769269a24eba505da1c5fc66290ff2628a7ccac Author: Logitech Inc process: C:\Program Files\LGHUB\lghub.exe
+ Dxgi ...(127) GetOutputBits 0...(153)SHAS2: c04956d6c1128857191cac7cc769269a24eba505da1c5fc66290ff2628a7ccac Author: Logitech Inc process: C:\Program Files\LGHUB\lghub.exe
+SHAS2: b1c0c7179bea750f268628e76a49fb0524b3b299e7429611077ca70f79ddab66 Author: NZXT, Inc. process: C:\Program Files\NZXT CAM\NZXT CAM.exe
+ GetOutputBits ...(372)SHAS2: fabb8cc6de82a79f1eed0976e5ce741ff3b9d5b1b40d90146052f4393cca80a3 process: C:\Windows\System32\wbem\unsecapp.exe
+ CreateBitmapFromMemory ...(398) CreateStream ...(430) InitializeFromFilename ...(448) Initialize ...(466) Propbag ...(484) GetPixelFormat ...(500) SetPixelFormat ...(526)SHAS2: b1c0c7179bea750f268628e76a49fb0524b3b299e7429611077ca70f79ddab66 Author: NZXT, Inc. process: C:\Program Files\NZXT CAM\NZXT CAM.exe
+ WriteSource ...(543)Frame Commit ...(584)Encode Commit ...(602)
+SHAS2: b1c0c7179bea750f268628e76a49fb0524b3b299e7429611077ca70f79ddab66 Author: NZXT, Inc. process: C:\Program Files\NZXT CAM\NZXT CAM.exe
+SHAS2: b1c0c7179bea750f268628e76a49fb0524b3b299e7429611077ca70f79ddab66 Author: NZXT, Inc. process: C:\Program Files\NZXT CAM\NZXT CAM.exe
+SHAS2: 6e7d902a541d52682c71172c59b8af647efb439c232081162066e49584bc2a8b Author: Valve Corp. process: C:\Program Files (x86)\Steam\steam.exe
+(Mon 1) DX11(620) : Each 60 at  file: 001.JPG- Zip CRC: 449fb2f31b26de0f85772e1721f5bf6635acce9dbf1e73a1daea1fac13dad004  
+SHAS2: b1c0c7179bea750f268628e76a49fb0524b3b299e7429611077ca70f79ddab66 Author: NZXT, Inc. process: C:\Program Files\NZXT CAM\NZXT CAM.exe
+SHAS2: bff55617439d08e176431735668c5944628646457b3f18e637950333772b1849 Author: NZXT, Inc. process: C:\Program Files\NZXT CAM\resources\app.asar.unpacked\node_modules\@nzxt\cam-core\dist\target\x86_64-pc-windows-msvc\release\cam_helper.exe
+SHAS2: 3c1c6d813d2b031d988204155fc198fe4f32ff56c05dabbcfcd5486131f4fb9d process: C:\Windows\System32\conhost.exe
+SHAS2: bff55617439d08e176431735668c5944628646457b3f18e637950333772b1849 Author: NZXT, Inc. process: C:\Program Files\NZXT CAM\resources\app.asar.unpacked\node_modules\@nzxt\cam-core\dist\target\x86_64-pc-windows-msvc\release\cam_helper.exe
+SHAS2: bff55617439d08e176431735668c5944628646457b3f18e637950333772b1849 Author: NZXT, Inc. process: C:\Program Files\NZXT CAM\resources\app.asar.unpacked\node_modules\@nzxt\cam-core\dist\target\x86_64-pc-windows-msvc\release\cam_helper.exe
+SHAS2: 97596f596fd178a46606eb36d4225ce2dd760234d5842004f427d0a4dc27f73b Author: Valve Corp. process: C:\Program Files (x86)\Steam\bin\cef\cef.win7x64\steamwebhelper.exe
+SHAS2: cca4607eda7bad6e58d01a381e9512aa9a289112c6edf32399b0793640686458 Author: Valve Corp. process: C:\Program Files (x86)\Common Files\Steam\steamservice.exe
+SHAS2: 97596f596fd178a46606eb36d4225ce2dd760234d5842004f427d0a4dc27f73b Author: Valve Corp. process: C:\Program Files (x86)\Steam\bin\cef\cef.win7x64\steamwebhelper.exe
+SHAS2: 97596f596fd178a46606eb36d4225ce2dd760234d5842004f427d0a4dc27f73b Author: Valve Corp. process: C:\Program Files (x86)\Steam\bin\cef\cef.win7x64\steamwebhelper.exe
+SHAS2: 97596f596fd178a46606eb36d4225ce2dd760234d5842004f427d0a4dc27f73b Author: Valve Corp. process: C:\Program Files (x86)\Steam\bin\cef\cef.win7x64\steamwebhelper.exe
+SHAS2: 109b03ffc45231e5a4c8805a10926492890f7b568f8a93abe1fa495b4bd42975 Author: philandro Software GmbH process: C:\Program Files (x86)\AnyDesk\AnyDesk.exe
+SHAS2: 97596f596fd178a46606eb36d4225ce2dd760234d5842004f427d0a4dc27f73b Author: Valve Corp. process: C:\Program Files (x86)\Steam\bin\cef\cef.win7x64\steamwebhelper.exe
+SHAS2: 97596f596fd178a46606eb36d4225ce2dd760234d5842004f427d0a4dc27f73b Author: Valve Corp. process: C:\Program Files (x86)\Steam\bin\cef\cef.win7x64\steamwebhelper.exe
+SHAS2: 97596f596fd178a46606eb36d4225ce2dd760234d5842004f427d0a4dc27f73b Author: Valve Corp. process: C:\Program Files (x86)\Steam\bin\cef\cef.win7x64\steamwebhelper.exe
+SHAS2: ad938c303f12ea8d164433cc7ba46fc7b9ae00f6f899e308d4317dab46e25642 process: C:\Windows\System32\oobe\UserOOBEBroker.exe
+SHAS2: 4ec9845dc674814938c04a6c1126eae3e55e63b261f274b3bb1f9c09d2cb76d4 Author: Blizzard Entertainment, Inc. process: C:\Program Files (x86)\Battle.net\Battle.net.exe
+SHAS2: 4ec9845dc674814938c04a6c1126eae3e55e63b261f274b3bb1f9c09d2cb76d4 Author: Blizzard Entertainment, Inc. process: C:\Program Files (x86)\Battle.net\Battle.net.exe
+SHAS2: 4ec9845dc674814938c04a6c1126eae3e55e63b261f274b3bb1f9c09d2cb76d4 Author: Blizzard Entertainment, Inc. process: C:\Program Files (x86)\Battle.net\Battle.net.exe
+SHAS2: 4ec9845dc674814938c04a6c1126eae3e55e63b261f274b3bb1f9c09d2cb76d4 Author: Blizzard Entertainment, Inc. process: C:\Program Files (x86)\Battle.net\Battle.net.exe
+SHAS2: 4ec9845dc674814938c04a6c1126eae3e55e63b261f274b3bb1f9c09d2cb76d4 Author: Blizzard Entertainment, Inc. process: C:\Program Files (x86)\Battle.net\Battle.net.exe
+SHAS2: 4ec9845dc674814938c04a6c1126eae3e55e63b261f274b3bb1f9c09d2cb76d4 Author: Blizzard Entertainment, Inc. process: C:\Program Files (x86)\Battle.net\Battle.net.exe
+SHAS2: 1585a0f0004b5e7181b9edeacd47379e9d0aac383ceb123935e97087e0725dd6 process: C:\Program Files\WindowsApps\Microsoft.ZuneVideo_10.22081.10041.0_x64__8wekyb3d8bbwe\Video.UI.exe
+SHAS2: de66a82ea4634b03a76ac11370c070d4a6aac1fa8d4ca907136beedcd279316a process: C:\Windows\System32\SearchProtocolHost.exe
+SHAS2: 3f09d87197a80251a55bf2d819bae9ab7b1791ac31e96413e0c06faa21a0a169 process: C:\Windows\System32\SearchFilterHost.exe
+SHAS2: 9e49a8cd932f3ae92b477621b89167abfdffb61562552b7626f1afb983138260 Author: Activision Publishing Inc process: C:\Program Files (x86)\Call of Duty\_retail_\bootstrapper.exe
+SHAS2: 687392d40c1fb37363cab41527af581594d1b26da3d38fd338731ad2d3aaa872 Author: Activision Publishing Inc process: C:\Program Files (x86)\Call of Duty\_retail_\bootstrapperCrashHandler.exe
+SHAS2: 37a78818cbde128241515058fc391c9fb2eb6536581e4e80648aea279f08d689 Author: Activision Publishing Inc process: C:\Program Files (x86)\Call of Duty\_retail_\cod.exe
+SHAS2: 320213e0e9ca58bf5de4b1b69ded1e06df191d99866fad26255a4d3fcad2f124 process: C:\Windows\System32\smartscreen.exe
+SHAS2: 12a921ec17a05d33ab5038835cb39c6d7b55388a8d042eb2091f549b568f178b Author: Activision Publishing Inc process: C:\Program Files (x86)\Call of Duty\_retail_\codCrashHandler.exe
+SHAS2: 2198a7b58bccb758036b969ddae6cc2ece07565e2659a7c541a313a0492231a3 process: C:\Windows\System32\wbem\WmiPrvSE.exe
+SHAS2: cbf60ed17a5b9cf79523f1493bccd52b3c39632c4c83de1fd49cfd2b70f01530 process: C:\Windows\System32\wbem\WmiApSrv.exe
+SHAS2: 05e104c1b4dd6f29ba30c37d0bc7b1ff23102de3b4a3710bc110775cb8cbdf3b Author: Apsynet S.A.S process: C:\Users\UTILIS~1\AppData\Local\Temp\Rar$EXb1460.2616\MossX64.exe
+SHAS2: 3dc39da6d98b60e6f6ab8d5f555ec2f8c318601fa8de7e6f97ab20a3c8f8f234 Author: Nvidia Corporation process: C:\Users\Utilisateur\AppData\Local\NVIDIA\NvBackend\ApplicationOntology\OAWrapper.exe
+SHAS2: de66a82ea4634b03a76ac11370c070d4a6aac1fa8d4ca907136beedcd279316a process: C:\Windows\System32\SearchProtocolHost.exe
+SHAS2: 3f09d87197a80251a55bf2d819bae9ab7b1791ac31e96413e0c06faa21a0a169 process: C:\Windows\System32\SearchFilterHost.exe
+SHAS2: 3f09d87197a80251a55bf2d819bae9ab7b1791ac31e96413e0c06faa21a0a169 process: C:\Windows\System32\SearchFilterHost.exe
+SHAS2: cbf60ed17a5b9cf79523f1493bccd52b3c39632c4c83de1fd49cfd2b70f01530 process: C:\Windows\System32\wbem\WmiApSrv.exe
+SHAS2: cbf60ed17a5b9cf79523f1493bccd52b3c39632c4c83de1fd49cfd2b70f01530 process: C:\Windows\System32\wbem\WmiApSrv.exe
+ Dxgi ...(76) GetOutputBits 0...(99) GetOutputBits ...(318) CreateBitmapFromMemory ...(338) CreateStream ...(358) InitializeFromFilename ...(376) Initialize ...(394) Propbag ...(412) GetPixelFormat ...(430) SetPixelFormat ...(457) WriteSource ...(475)Frame Commit ...(493)Encode Commit ...(511)
+(Mon 1) DX11(529) : Each 60 at  file: 002.JPG- Zip CRC: fa8954bb1a439fd8cdca45ab269a89dbfb68e55cd129311688634cee71958b76  
+ Dxgi ...(65) GetOutputBits 0...(83) GetOutputBits ...(299) CreateBitmapFromMemory ...(316) CreateStream ...(331) InitializeFromFilename ...(346) Initialize ...(361) Propbag ...(376) GetPixelFormat ...(391) SetPixelFormat ...(413) WriteSource ...(429)Frame Commit ...(443)Encode Commit ...(459)
+(Mon 1) DX11(473) : Each 60 at  file: 003.JPG- Zip CRC: a2c5e8ce87fe2ce597f9ea3db10781d8366927295dbe0f1684a24d75370ee67c  
+SHAS2: 3dc39da6d98b60e6f6ab8d5f555ec2f8c318601fa8de7e6f97ab20a3c8f8f234 Author: Nvidia Corporation process: C:\Users\Utilisateur\AppData\Local\NVIDIA\NvBackend\ApplicationOntology\OAWrapper.exe
+SHAS2: 3c1c6d813d2b031d988204155fc198fe4f32ff56c05dabbcfcd5486131f4fb9d process: C:\Windows\System32\conhost.exe
+SHAS2: de66a82ea4634b03a76ac11370c070d4a6aac1fa8d4ca907136beedcd279316a process: C:\Windows\System32\SearchProtocolHost.exe
+SHAS2: 3f09d87197a80251a55bf2d819bae9ab7b1791ac31e96413e0c06faa21a0a169 process: C:\Windows\System32\SearchFilterHost.exe
+SHAS2: 3f09d87197a80251a55bf2d819bae9ab7b1791ac31e96413e0c06faa21a0a169 process: C:\Windows\System32\SearchFilterHost.exe
+SHAS2: 3dc39da6d98b60e6f6ab8d5f555ec2f8c318601fa8de7e6f97ab20a3c8f8f234 Author: Nvidia Corporation process: C:\Users\Utilisateur\AppData\Local\NVIDIA\NvBackend\ApplicationOntology\OAWrapper.exe
+SHAS2: 3c1c6d813d2b031d988204155fc198fe4f32ff56c05dabbcfcd5486131f4fb9d process: C:\Windows\System32\conhost.exe
+ Dxgi ...(63) GetOutputBits 0...(82) GetOutputBits ...(299) CreateBitmapFromMemory ...(316) CreateStream ...(332) InitializeFromFilename ...(347) Initialize ...(361) Propbag ...(376) GetPixelFormat ...(392) SetPixelFormat ...(415) WriteSource ...(430)Frame Commit ...(446)Encode Commit ...(461)
+(Mon 1) DX11(476) : Each 60 at  file: 004.JPG- Zip CRC: ea952a75979f996bc2f37d04dbc5bf5f6d414264b8858306cd88e12a86d87236  
+ Dxgi ...(61) GetOutputBits 0...(80) GetOutputBits ...(296) CreateBitmapFromMemory ...(313) CreateStream ...(328) InitializeFromFilename ...(343) Initialize ...(358) Propbag ...(373) GetPixelFormat ...(388) SetPixelFormat ...(409) WriteSource ...(425)Frame Commit ...(440)Encode Commit ...(455)
+(Mon 1) DX11(470) : Each 60 at  file: 005.JPG- Zip CRC: d54a35751b851260eeb1c259bd44f306ff43e918abd270953624fe4679799dca  
+ Dxgi ...(63) GetOutputBits 0...(82) GetOutputBits ...(299) CreateBitmapFromMemory ...(316) CreateStream ...(331) InitializeFromFilename ...(345) Initialize ...(360) Propbag ...(376) GetPixelFormat ...(391) SetPixelFormat ...(413) WriteSource ...(428)Frame Commit ...(443)Encode Commit ...(458)
+(Mon 1) DX11(473) : Each 60 at  file: 006.JPG- Zip CRC: 332e567e31b5721c3e8ad8b19532b0c5f424cb6c86c1a0f40838e35d4115cf98  
+ Dxgi ...(67) GetOutputBits 0...(87) GetOutputBits ...(304) CreateBitmapFromMemory ...(320) CreateStream ...(335) InitializeFromFilename ...(350) Initialize ...(365) Propbag ...(380) GetPixelFormat ...(394) SetPixelFormat ...(416) WriteSource ...(432)Frame Commit ...(447)Encode Commit ...(462)
+(Mon 1) DX11(477) : Each 60 at  file: 007.JPG- Zip CRC: 44e52a145ccd85b2574ad937165625defb3fe712f5c9b61320b8e2758ca75814  
+ Dxgi ...(61) GetOutputBits 0...(81) GetOutputBits ...(296) CreateBitmapFromMemory ...(313) CreateStream ...(328) InitializeFromFilename ...(343) Initialize ...(359) Propbag ...(374) GetPixelFormat ...(389) SetPixelFormat ...(411) WriteSource ...(426)Frame Commit ...(442)Encode Commit ...(456)
+(Mon 1) DX11(471) : Each 60 at  file: 008.JPG- Zip CRC: 6cf82a063001dd6aaf605630375ca8b8ed49749ce4644cd4d87da7f542eeb294  
+ Dxgi ...(63) GetOutputBits 0...(83) GetOutputBits ...(299) CreateBitmapFromMemory ...(315) CreateStream ...(330) InitializeFromFilename ...(345) Initialize ...(360) Propbag ...(376) GetPixelFormat ...(391) SetPixelFormat ...(414) WriteSource ...(429)Frame Commit ...(445)Encode Commit ...(460)
+(Mon 1) DX11(475) : Each 60 at  file: 009.JPG- Zip CRC: 430feeb7cc046feb2e1ed3f7e97edbd2629ba0e1f2f46b6df4f33a3cb946819d  
+ Dxgi ...(66) GetOutputBits 0...(85) GetOutputBits ...(302) CreateBitmapFromMemory ...(319) CreateStream ...(334) InitializeFromFilename ...(350) Initialize ...(365) Propbag ...(380) GetPixelFormat ...(395) SetPixelFormat ...(417) WriteSource ...(432)Frame Commit ...(447)Encode Commit ...(463)
+(Mon 1) DX11(478) : Each 60 at  file: 010.JPG- Zip CRC: 56c6c8166229c11bc02b1fc672183d1d577fbab2e50c11b60d88bffca6997172  
+Drive: XPG SPECTRIX S20G serial: 
+:53:05 for Call of Duty Vanguard on x64
+ Dxgi ...(62) GetOutputBits 0...(81) GetOutputBits ...(297) CreateBitmapFromMemory ...(314) CreateStream ...(329) InitializeFromFilename ...(344) Initialize ...(358) Propbag ...(373) GetPixelFormat ...(388) SetPixelFormat ...(409) WriteSource ...(425)Frame Commit ...(440)Encode Commit ...(456)
+(Mon 1) DX11(471) : Each 60 at  file: 011.JPG- Zip CRC: d33325c1e2124c6f96999e803794316b4ba3e10994dc4df0932e44de77a7a6aa  
+ Dxgi ...(66) GetOutputBits 0...(85) GetOutputBits ...(300) CreateBitmapFromMemory ...(316) CreateStream ...(331) InitializeFromFilename ...(346) Initialize ...(362) Propbag ...(377) GetPixelFormat ...(391) SetPixelFormat ...(414) WriteSource ...(430)Frame Commit ...(446)Encode Commit ...(462)
+(Mon 1) DX11(477) : Each 60 at  file: 012.JPG- Zip CRC: e285fc2f21e3362d658b9e2bae86c850cedaaab357af512b86c562028217f248  
+SHAS2: de66a82ea4634b03a76ac11370c070d4a6aac1fa8d4ca907136beedcd279316a process: C:\Windows\System32\SearchProtocolHost.exe
+SHAS2: 3f09d87197a80251a55bf2d819bae9ab7b1791ac31e96413e0c06faa21a0a169 process: C:\Windows\System32\SearchFilterHost.exe
+SHAS2: 3f09d87197a80251a55bf2d819bae9ab7b1791ac31e96413e0c06faa21a0a169 process: C:\Windows\System32\SearchFilterHost.exe
+ Dxgi ...(87) GetOutputBits 0...(109) GetOutputBits ...(328) CreateBitmapFromMemory ...(349) CreateStream ...(366) InitializeFromFilename ...(384) Initialize ...(404) Propbag ...(424) GetPixelFormat ...(442) SetPixelFormat ...(469) WriteSource ...(488)Frame Commit ...(507)Encode Commit ...(526)
+(Mon 1) DX11(544) : Each 60 at  file: 013.JPG- Zip CRC: f98e3440c82b58f3f88e7139d2ec5dc49be427a54803d3d4e3fab73650ed393e  
+ Dxgi ...(83) GetOutputBits 0...(106) GetOutputBits ...(325) CreateBitmapFromMemory ...(344) CreateStream ...(361) InitializeFromFilename ...(380) Initialize ...(396) Propbag ...(412) GetPixelFormat ...(429) SetPixelFormat ...(453) WriteSource ...(470)Frame Commit ...(486)Encode Commit ...(505)
+(Mon 1) DX11(522) : Each 60 at  file: 014.JPG- Zip CRC: 682876e6d90dfefe4faddbc3211e4a7fd8193847935e8a068c92f999ab39ce3b  
+ Dxgi ...(79) GetOutputBits 0...(101) GetOutputBits ...(320) CreateBitmapFromMemory ...(338) CreateStream ...(356) InitializeFromFilename ...(375) Initialize ...(392) Propbag ...(410) GetPixelFormat ...(428) SetPixelFormat ...(456) WriteSource ...(473)Frame Commit ...(492)Encode Commit ...(511)
+(Mon 1) DX11(529) : Each 60 at  file: 015.JPG- Zip CRC: 6dd9e97e5f82f4816f8d7c99cdaf7a05c99d46ca6af1f1d9fa1c1ca5a6816bca  
+SHAS2: 3dc39da6d98b60e6f6ab8d5f555ec2f8c318601fa8de7e6f97ab20a3c8f8f234 Author: Nvidia Corporation process: C:\Users\Utilisateur\AppData\Local\NVIDIA\NvBackend\ApplicationOntology\OAWrapper.exe
+SHAS2: 3c1c6d813d2b031d988204155fc198fe4f32ff56c05dabbcfcd5486131f4fb9d process: C:\Windows\System32\conhost.exe
+ Dxgi ...(86) GetOutputBits 0...(110) GetOutputBits ...(329) CreateBitmapFromMemory ...(348) CreateStream ...(367) InitializeFromFilename ...(384) Initialize ...(401) Propbag ...(421) GetPixelFormat ...(439) SetPixelFormat ...(467) WriteSource ...(486)Frame Commit ...(505)Encode Commit ...(523)
+(Mon 1) DX11(541) : Each 60 at  file: 016.JPG- Zip CRC: 76f967b69b5494102b77693d6182ada026985f905df0e5d3da075e3e376c9732  
+SHAS2: 3dc39da6d98b60e6f6ab8d5f555ec2f8c318601fa8de7e6f97ab20a3c8f8f234 Author: Nvidia Corporation process: C:\Users\Utilisateur\AppData\Local\NVIDIA\NvBackend\ApplicationOntology\OAWrapper.exe
+SHAS2: 3c1c6d813d2b031d988204155fc198fe4f32ff56c05dabbcfcd5486131f4fb9d process: C:\Windows\System32\conhost.exe
+ Dxgi ...(78) GetOutputBits 0...(107) GetOutputBits ...(325) CreateBitmapFromMemory ...(344) CreateStream ...(362) InitializeFromFilename ...(380) Initialize ...(396) Propbag ...(413) GetPixelFormat ...(431) SetPixelFormat ...(457) WriteSource ...(475)Frame Commit ...(493)Encode Commit ...(511)
+(Mon 1) DX11(527) : Each 60 at  file: 017.JPG- Zip CRC: e57e021e18e9efe4e3d62cc62a734d8a5233ed6756244ea9677199843d9ef459  
+SHAS2: 3dc39da6d98b60e6f6ab8d5f555ec2f8c318601fa8de7e6f97ab20a3c8f8f234 Author: Nvidia Corporation process: C:\Users\Utilisateur\AppData\Local\NVIDIA\NvBackend\ApplicationOntology\OAWrapper.exe
+SHAS2: 3c1c6d813d2b031d988204155fc198fe4f32ff56c05dabbcfcd5486131f4fb9d process: C:\Windows\System32\conhost.exe
+ Dxgi ...(105) GetOutputBits 0...(130) GetOutputBits ...(348) CreateBitmapFromMemory ...(370) CreateStream ...(388) InitializeFromFilename ...(409) Initialize ...(428) Propbag ...(446) GetPixelFormat ...(463) SetPixelFormat ...(491) WriteSource ...(509)Frame Commit ...(529)Encode Commit ...(548)
+(Mon 1) DX11(566) : Each 60 at  file: 018.JPG- Zip CRC: 3bc1a9d2a8546bc979d97efa8b898c47d5011b9a070cd453efe6894527d3ba80  
+SHAS2: 3dc39da6d98b60e6f6ab8d5f555ec2f8c318601fa8de7e6f97ab20a3c8f8f234 Author: Nvidia Corporation process: C:\Users\Utilisateur\AppData\Local\NVIDIA\NvBackend\ApplicationOntology\OAWrapper.exe
+SHAS2: 3c1c6d813d2b031d988204155fc198fe4f32ff56c05dabbcfcd5486131f4fb9d process: C:\Windows\System32\conhost.exe
+ Dxgi ...(81) GetOutputBits 0...(104) GetOutputBits ...(324) CreateBitmapFromMemory ...(343) CreateStream ...(360) InitializeFromFilename ...(378) Initialize ...(395) Propbag ...(414) GetPixelFormat ...(432) SetPixelFormat ...(459) WriteSource ...(476)Frame Commit ...(494)Encode Commit ...(512)
+(Mon 1) DX11(529) : Each 60 at  file: 019.JPG- Zip CRC: 7263182b4a1dc282dfd1b7abd27930cd00ff972f750de33599859b1f7a06a9c1  
+ Dxgi ...(79) GetOutputBits 0...(102) GetOutputBits ...(321) CreateBitmapFromMemory ...(340) CreateStream ...(358) InitializeFromFilename ...(377) Initialize ...(395) Propbag ...(413) GetPixelFormat ...(430) SetPixelFormat ...(456) WriteSource ...(474)Frame Commit ...(491)Encode Commit ...(510)
+(Mon 1) DX11(527) : Each 60 at  file: 020.JPG- Zip CRC: b207e81c5bf5f647e0d8ea0a8daed64d31941996e8c48d4e31a4076c4abb5c0f  
+Drive: XPG SPECTRIX S20G serial: 
+:53:05 for Call of Duty Vanguard on x64
+SHAS2: de66a82ea4634b03a76ac11370c070d4a6aac1fa8d4ca907136beedcd279316a process: C:\Windows\System32\SearchProtocolHost.exe
+SHAS2: 3f09d87197a80251a55bf2d819bae9ab7b1791ac31e96413e0c06faa21a0a169 process: C:\Windows\System32\SearchFilterHost.exe
+SHAS2: 3f09d87197a80251a55bf2d819bae9ab7b1791ac31e96413e0c06faa21a0a169 process: C:\Windows\System32\SearchFilterHost.exe
+SHAS2: 3dc39da6d98b60e6f6ab8d5f555ec2f8c318601fa8de7e6f97ab20a3c8f8f234 Author: Nvidia Corporation process: C:\Users\Utilisateur\AppData\Local\NVIDIA\NvBackend\ApplicationOntology\OAWrapper.exe
+SHAS2: 3c1c6d813d2b031d988204155fc198fe4f32ff56c05dabbcfcd5486131f4fb9d process: C:\Windows\System32\conhost.exe
+SHAS2: 4169efdf81b61fac802a5f1086ccf78c1ce8b66712378fe4102425624138f280 process: C:\Windows\System32\MusNotification.exe
+SHAS2: 0e780c139223b7a307789774de2eda31f533e6bb78044b81eea6e44429ce4fcf process: C:\Windows\System32\MusNotificationUx.exe
+ Dxgi ...(63) GetOutputBits 0...(82) GetOutputBits ...(298) CreateBitmapFromMemory ...(315) CreateStream ...(329) InitializeFromFilename ...(344) Initialize ...(359) Propbag ...(374) GetPixelFormat ...(389) SetPixelFormat ...(412) WriteSource ...(427)Frame Commit ...(442)Encode Commit ...(457)
+(Mon 1) DX11(472) : Each 60 at  file: 021.JPG- Zip CRC: 7c84196c35fdab08e1f1a09d579bc7f31e34caf3e06b488608829bae7d5aa771  
+ Dxgi ...(65) GetOutputBits 0...(83) GetOutputBits ...(299) CreateBitmapFromMemory ...(315) CreateStream ...(330) InitializeFromFilename ...(345) Initialize ...(360) Propbag ...(374) GetPixelFormat ...(389) SetPixelFormat ...(412) WriteSource ...(428)Frame Commit ...(442)Encode Commit ...(457)
+(Mon 1) DX11(472) : Each 60 at  file: 022.JPG- Zip CRC: a64b42eaff2e6aae94f17ef3c88c60063d6364d3e1ef823c917e835056165098  
+ Dxgi ...(67) GetOutputBits 0...(85) GetOutputBits ...(301) CreateBitmapFromMemory ...(318) CreateStream ...(333) InitializeFromFilename ...(348) Initialize ...(362) Propbag ...(376) GetPixelFormat ...(391) SetPixelFormat ...(414) WriteSource ...(429)Frame Commit ...(445)Encode Commit ...(460)
+(Mon 1) DX11(475) : Each 60 at  file: 023.JPG- Zip CRC: 57cb5a73a6a3f2fdfd881eb2273b790b21b87213c7f16f36a1ddcc91fdcfd4cd  
+ Dxgi ...(63) GetOutputBits 0...(81) GetOutputBits ...(297) CreateBitmapFromMemory ...(313) CreateStream ...(328) InitializeFromFilename ...(343) Initialize ...(358) Propbag ...(374) GetPixelFormat ...(388) SetPixelFormat ...(411) WriteSource ...(426)Frame Commit ...(441)Encode Commit ...(456)
+(Mon 1) DX11(471) : Each 60 at  file: 024.JPG- Zip CRC: 695505dd917f381a35e8ee44333dc95a6f3c24ddb704550e03ebe89dbdaf4645  
+ Dxgi ...(63) GetOutputBits 0...(82) GetOutputBits ...(300) CreateBitmapFromMemory ...(317) CreateStream ...(334) InitializeFromFilename ...(350) Initialize ...(365) Propbag ...(381) GetPixelFormat ...(396) SetPixelFormat ...(418) WriteSource ...(434)Frame Commit ...(450)Encode Commit ...(466)
+(Mon 1) DX11(481) : Each 60 at  file: 025.JPG- Zip CRC: d191f9a3e574a456640d9beb738615149d5eaf225fe99dbe9895384a94f416f3  
+ Dxgi ...(68) GetOutputBits 0...(87) GetOutputBits ...(303) CreateBitmapFromMemory ...(320) CreateStream ...(334) InitializeFromFilename ...(350) Initialize ...(365) Propbag ...(380) GetPixelFormat ...(395) SetPixelFormat ...(417) WriteSource ...(432)Frame Commit ...(447)Encode Commit ...(463)
+(Mon 1) DX11(477) : Each 60 at  file: 026.JPG- Zip CRC: bd3b09be87c48d92f2ca4d170f9135e165b232af0b90a57383d1bb8f0d3ac37b  
+SHAS2: 3dc39da6d98b60e6f6ab8d5f555ec2f8c318601fa8de7e6f97ab20a3c8f8f234 Author: Nvidia Corporation process: C:\Users\Utilisateur\AppData\Local\NVIDIA\NvBackend\ApplicationOntology\OAWrapper.exe
+SHAS2: 3c1c6d813d2b031d988204155fc198fe4f32ff56c05dabbcfcd5486131f4fb9d process: C:\Windows\System32\conhost.exe
+SHAS2: de66a82ea4634b03a76ac11370c070d4a6aac1fa8d4ca907136beedcd279316a process: C:\Windows\System32\SearchProtocolHost.exe
+SHAS2: 3f09d87197a80251a55bf2d819bae9ab7b1791ac31e96413e0c06faa21a0a169 process: C:\Windows\System32\SearchFilterHost.exe
+SHAS2: 3f09d87197a80251a55bf2d819bae9ab7b1791ac31e96413e0c06faa21a0a169 process: C:\Windows\System32\SearchFilterHost.exe
+SHAS2: 3dc39da6d98b60e6f6ab8d5f555ec2f8c318601fa8de7e6f97ab20a3c8f8f234 Author: Nvidia Corporation process: C:\Users\Utilisateur\AppData\Local\NVIDIA\NvBackend\ApplicationOntology\OAWrapper.exe
+SHAS2: 3c1c6d813d2b031d988204155fc198fe4f32ff56c05dabbcfcd5486131f4fb9d process: C:\Windows\System32\conhost.exe
+ Dxgi ...(83) GetOutputBits 0...(107) GetOutputBits ...(327) CreateBitmapFromMemory ...(347) CreateStream ...(366) InitializeFromFilename ...(384) Initialize ...(401) Propbag ...(420) GetPixelFormat ...(437) SetPixelFormat ...(467) WriteSource ...(486)Frame Commit ...(504)Encode Commit ...(523)
+(Mon 1) DX11(541) : Each 60 at  file: 027.JPG- Zip CRC: 4cb8a437482b256c3c8fd62d2962eb41fcf6dba1e9f110fc3f6d0426452c8f6c  
+SHAS2: 3dc39da6d98b60e6f6ab8d5f555ec2f8c318601fa8de7e6f97ab20a3c8f8f234 Author: Nvidia Corporation process: C:\Users\Utilisateur\AppData\Local\NVIDIA\NvBackend\ApplicationOntology\OAWrapper.exe
+SHAS2: 3c1c6d813d2b031d988204155fc198fe4f32ff56c05dabbcfcd5486131f4fb9d process: C:\Windows\System32\conhost.exe
+ Dxgi ...(78) GetOutputBits 0...(102) GetOutputBits ...(322) CreateBitmapFromMemory ...(343) CreateStream ...(362) InitializeFromFilename ...(381) Initialize ...(398) Propbag ...(416) GetPixelFormat ...(434) SetPixelFormat ...(463) WriteSource ...(481)Frame Commit ...(499)Encode Commit ...(518)
+(Mon 1) DX11(535) : Each 60 at  file: 028.JPG- Zip CRC: 948a62c4b4a22e38c1fa61840223dc955ec589e700dcda9ec15d2c39b3bbceb0  
+ Dxgi ...(79) GetOutputBits 0...(110) GetOutputBits ...(329) CreateBitmapFromMemory ...(349) CreateStream ...(367) InitializeFromFilename ...(386) Initialize ...(403) Propbag ...(421) GetPixelFormat ...(438) SetPixelFormat ...(464) WriteSource ...(482)Frame Commit ...(501)Encode Commit ...(518)
+(Mon 1) DX11(536) : Each 60 at  file: 029.JPG- Zip CRC: fc906a7c595497a4ed0c9996d73af8b0f97421b27a7ab2122e7bd4ff8fdfbffb  
+ Dxgi ...(85) GetOutputBits 0...(107) GetOutputBits ...(326) CreateBitmapFromMemory ...(345) CreateStream ...(364) InitializeFromFilename ...(382) Initialize ...(400) Propbag ...(418) GetPixelFormat ...(436) SetPixelFormat ...(461) WriteSource ...(480)Frame Commit ...(498)Encode Commit ...(516)
+(Mon 1) DX11(534) : Each 60 at  file: 030.JPG- Zip CRC: bff19fcc2e55e3239b3eefdc7a685475a8ceb113aae521c0b36add28813cbd7e  
+Drive: XPG SPECTRIX S20G serial: 
+:53:05 for Call of Duty Vanguard on x64
+SHAS2: 3dc39da6d98b60e6f6ab8d5f555ec2f8c318601fa8de7e6f97ab20a3c8f8f234 Author: Nvidia Corporation process: C:\Users\Utilisateur\AppData\Local\NVIDIA\NvBackend\ApplicationOntology\OAWrapper.exe
+SHAS2: 3c1c6d813d2b031d988204155fc198fe4f32ff56c05dabbcfcd5486131f4fb9d process: C:\Windows\System32\conhost.exe
+ Dxgi ...(77) GetOutputBits 0...(99) GetOutputBits ...(318) CreateBitmapFromMemory ...(337) CreateStream ...(354) InitializeFromFilename ...(373) Initialize ...(392) Propbag ...(409) GetPixelFormat ...(427) SetPixelFormat ...(457) WriteSource ...(476)Frame Commit ...(493)Encode Commit ...(513)
+(Mon 1) DX11(531) : Each 60 at  file: 031.JPG- Zip CRC: 8ebefc1d27a2f32fd6adf708fb752194867a94c958daa5d60fb7842dae6f82ae  
+ Dxgi ...(100) GetOutputBits 0...(122) GetOutputBits ...(340) CreateBitmapFromMemory ...(360) CreateStream ...(377) InitializeFromFilename ...(396) Initialize ...(415) Propbag ...(433) GetPixelFormat ...(451) SetPixelFormat ...(479) WriteSource ...(499)Frame Commit ...(516)Encode Commit ...(535)
+(Mon 1) DX11(551) : Each 60 at  file: 032.JPG- Zip CRC: f1a239476af93724ab8d2337b6e0fe490ec097feb8f1d76f9423bfefe81be09d  
+SHAS2: 3c1c6d813d2b031d988204155fc198fe4f32ff56c05dabbcfcd5486131f4fb9d process: C:\Windows\System32\conhost.exe
+ Dxgi ...(81) GetOutputBits 0...(104) GetOutputBits ...(324) CreateBitmapFromMemory ...(344) CreateStream ...(361) InitializeFromFilename ...(379) Initialize ...(397) Propbag ...(415) GetPixelFormat ...(433) SetPixelFormat ...(464) WriteSource ...(482)Frame Commit ...(501)Encode Commit ...(519)
+(Mon 1) DX11(535) : Each 60 at  file: 033.JPG- Zip CRC: 36f0fe97a6095b3bc13a132de89e46c6b53ac36bccc6643f4491f21b63320cd0  
+ Dxgi ...(80) GetOutputBits 0...(103) GetOutputBits ...(321) CreateBitmapFromMemory ...(340) CreateStream ...(358) InitializeFromFilename ...(376) Initialize ...(393) Propbag ...(412) GetPixelFormat ...(430) SetPixelFormat ...(461) WriteSource ...(479)Frame Commit ...(496)Encode Commit ...(516)
+(Mon 1) DX11(533) : Each 60 at  file: 034.JPG- Zip CRC: 3cf8cdb502d79f37b9c96966681c00714fbd57a416d2855758845a5bd1d80b71  
+SHAS2: 3dc39da6d98b60e6f6ab8d5f555ec2f8c318601fa8de7e6f97ab20a3c8f8f234 Author: Nvidia Corporation process: C:\Users\Utilisateur\AppData\Local\NVIDIA\NvBackend\ApplicationOntology\OAWrapper.exe
+SHAS2: 3c1c6d813d2b031d988204155fc198fe4f32ff56c05dabbcfcd5486131f4fb9d process: C:\Windows\System32\conhost.exe
+ Dxgi ...(77) GetOutputBits 0...(99) GetOutputBits ...(318) CreateBitmapFromMemory ...(338) CreateStream ...(355) InitializeFromFilename ...(373) Initialize ...(391) Propbag ...(408) GetPixelFormat ...(426) SetPixelFormat ...(452) WriteSource ...(471)Frame Commit ...(490)Encode Commit ...(508)
+(Mon 1) DX11(524) : Each 60 at  file: 035.JPG- Zip CRC: d0e5e573b3be3f5113a4ce4368400e41464c084253879e5b1a7de7d1d54d0556  
+SHAS2: 3dc39da6d98b60e6f6ab8d5f555ec2f8c318601fa8de7e6f97ab20a3c8f8f234 Author: Nvidia Corporation process: C:\Users\Utilisateur\AppData\Local\NVIDIA\NvBackend\ApplicationOntology\OAWrapper.exe
+SHAS2: 3c1c6d813d2b031d988204155fc198fe4f32ff56c05dabbcfcd5486131f4fb9d process: C:\Windows\System32\conhost.exe
+ Dxgi ...(75) GetOutputBits 0...(98) GetOutputBits ...(318) CreateBitmapFromMemory ...(336) CreateStream ...(356) InitializeFromFilename ...(375) Initialize ...(396) Propbag ...(414) GetPixelFormat ...(432) SetPixelFormat ...(461) WriteSource ...(480)Frame Commit ...(498)Encode Commit ...(519)
+(Mon 1) DX11(536) : Each 60 at  file: 036.JPG- Zip CRC: 9cb39f9612cd75f02b626e39335753928c4a4b0c2c6fb4f3a2730465667b969e  
+SHAS2: de66a82ea4634b03a76ac11370c070d4a6aac1fa8d4ca907136beedcd279316a process: C:\Windows\System32\SearchProtocolHost.exe
+SHAS2: 3f09d87197a80251a55bf2d819bae9ab7b1791ac31e96413e0c06faa21a0a169 process: C:\Windows\System32\SearchFilterHost.exe
+SHAS2: 3f09d87197a80251a55bf2d819bae9ab7b1791ac31e96413e0c06faa21a0a169 process: C:\Windows\System32\SearchFilterHost.exe
+ Dxgi ...(64) GetOutputBits 0...(83) GetOutputBits ...(300) CreateBitmapFromMemory ...(317) CreateStream ...(331) InitializeFromFilename ...(346) Initialize ...(361) Propbag ...(376) GetPixelFormat ...(391) SetPixelFormat ...(413) WriteSource ...(428)Frame Commit ...(443)Encode Commit ...(459)
+(Mon 1) DX11(474) : Each 60 at  file: 037.JPG- Zip CRC: 6470aaca2699b6054655acc6698f2857f3982ef6d84fc85eec6be3304c45cbb1  
+ Dxgi ...(60) GetOutputBits 0...(78) GetOutputBits ...(294) CreateBitmapFromMemory ...(310) CreateStream ...(325) InitializeFromFilename ...(340) Initialize ...(355) Propbag ...(370) GetPixelFormat ...(385) SetPixelFormat ...(407) WriteSource ...(422)Frame Commit ...(436)Encode Commit ...(451)
+(Mon 1) DX11(466) : Each 60 at  file: 038.JPG- Zip CRC: d441fea08bd2d893920b44c1d21868ec9e72bb7c729e8b62d2fdd5ff40a0ccfb  
+ Dxgi ...(62) GetOutputBits 0...(81) GetOutputBits ...(298) CreateBitmapFromMemory ...(315) CreateStream ...(330) InitializeFromFilename ...(346) Initialize ...(361) Propbag ...(377) GetPixelFormat ...(391) SetPixelFormat ...(413) WriteSource ...(428)Frame Commit ...(444)Encode Commit ...(459)
+(Mon 1) DX11(474) : Each 60 at  file: 039.JPG- Zip CRC: 8a06dcbf4a64b9fdb41aec1a69d35539be9a0295c7f82f0a88c6b8645ca9e0a3  
+SHAS2: 3dc39da6d98b60e6f6ab8d5f555ec2f8c318601fa8de7e6f97ab20a3c8f8f234 Author: Nvidia Corporation process: C:\Users\Utilisateur\AppData\Local\NVIDIA\NvBackend\ApplicationOntology\OAWrapper.exe
+ Dxgi ...(60) GetOutputBits 0...(79) GetOutputBits ...(296) CreateBitmapFromMemory ...(313) CreateStream ...(327) InitializeFromFilename ...(342) Initialize ...(357) Propbag ...(372) GetPixelFormat ...(387) SetPixelFormat ...(409) WriteSource ...(425)Frame Commit ...(440)Encode Commit ...(455)
+(Mon 1) DX11(470) : Each 60 at  file: 040.JPG- Zip CRC: 9767e618b144a6be0f8a42a9d4d38a7cfc84347748fbf4350a2d95f5e7e8b11d  
+Drive: XPG SPECTRIX S20G serial: 
+:53:05 for Call of Duty Vanguard on x64
+ Dxgi ...(61) GetOutputBits 0...(80) GetOutputBits ...(296) CreateBitmapFromMemory ...(313) CreateStream ...(327) InitializeFromFilename ...(343) Initialize ...(358) Propbag ...(373) GetPixelFormat ...(388) SetPixelFormat ...(410) WriteSource ...(425)Frame Commit ...(440)Encode Commit ...(455)
+(Mon 1) DX11(470) : Each 60 at  file: 041.JPG- Zip CRC: 85f1970d37ca989d869ae3f652c609429ef889cf35f13996861745d7818196c0  
+ Dxgi ...(63) GetOutputBits 0...(82) GetOutputBits ...(298) CreateBitmapFromMemory ...(314) CreateStream ...(329) InitializeFromFilename ...(345) Initialize ...(359) Propbag ...(374) GetPixelFormat ...(389) SetPixelFormat ...(412) WriteSource ...(427)Frame Commit ...(442)Encode Commit ...(458)
+(Mon 1) DX11(473) : Each 60 at  file: 042.JPG- Zip CRC: 0c77fa37b7d4b37cf7f1b73b54c189885cb7e3149297be3b27bfec9ead02d5f4  
+SHAS2: 3dc39da6d98b60e6f6ab8d5f555ec2f8c318601fa8de7e6f97ab20a3c8f8f234 Author: Nvidia Corporation process: C:\Users\Utilisateur\AppData\Local\NVIDIA\NvBackend\ApplicationOntology\OAWrapper.exe
+ Dxgi ...(61) GetOutputBits 0...(82) GetOutputBits ...(298) CreateBitmapFromMemory ...(314) CreateStream ...(330) InitializeFromFilename ...(345) Initialize ...(360) Propbag ...(374) GetPixelFormat ...(388) SetPixelFormat ...(410) WriteSource ...(425)Frame Commit ...(440)Encode Commit ...(455)
+(Mon 1) DX11(469) : Each 60 at  file: 043.JPG- Zip CRC: c1bce12a2ce632ed453057b3c2a519ff24da6b453188da180d7c77d354789257  
+ Dxgi ...(60) GetOutputBits 0...(78) GetOutputBits ...(295) CreateBitmapFromMemory ...(312) CreateStream ...(327) InitializeFromFilename ...(342) Initialize ...(357) Propbag ...(372) GetPixelFormat ...(386) SetPixelFormat ...(408) WriteSource ...(423)Frame Commit ...(438)Encode Commit ...(453)
+(Mon 1) DX11(468) : Each 60 at  file: 044.JPG- Zip CRC: bf5d2bf6d5047ba4c42ef063c8725bf4293640209ac4451e28873d6f00b5aff2  
+ Dxgi ...(60) GetOutputBits 0...(78) GetOutputBits ...(293) CreateBitmapFromMemory ...(309) CreateStream ...(324) InitializeFromFilename ...(339) Initialize ...(354) Propbag ...(369) GetPixelFormat ...(383) SetPixelFormat ...(406) WriteSource ...(421)Frame Commit ...(436)Encode Commit ...(452)
+(Mon 1) DX11(467) : Each 60 at  file: 045.JPG- Zip CRC: e54fbf415f286b4e0845a86755402e47456890968f709470730bfbc6d9e330a4  
+ Dxgi ...(61) GetOutputBits 0...(80) GetOutputBits ...(296) CreateBitmapFromMemory ...(312) CreateStream ...(327) InitializeFromFilename ...(343) Initialize ...(357) Propbag ...(372) GetPixelFormat ...(387) SetPixelFormat ...(409) WriteSource ...(424)Frame Commit ...(439)Encode Commit ...(454)
+(Mon 1) DX11(468) : Each 60 at  file: 046.JPG- Zip CRC: f97c6615a182755b154e08964dee9addd2cdc7dcadc5a36ec85386873ec7f206  
+ Dxgi ...(61) GetOutputBits 0...(80) GetOutputBits ...(296) CreateBitmapFromMemory ...(313) CreateStream ...(327) InitializeFromFilename ...(342) Initialize ...(357) Propbag ...(371) GetPixelFormat ...(386) SetPixelFormat ...(408) WriteSource ...(423)Frame Commit ...(438)Encode Commit ...(454)
+(Mon 1) DX11(469) : Each 60 at  file: 047.JPG- Zip CRC: 62482d6b91deb1f7bba9985471c385170e015e97447b030eb676b097dd1bc596  
+SHAS2: 3dc39da6d98b60e6f6ab8d5f555ec2f8c318601fa8de7e6f97ab20a3c8f8f234 Author: Nvidia Corporation process: C:\Users\Utilisateur\AppData\Local\NVIDIA\NvBackend\ApplicationOntology\OAWrapper.exe
+SHAS2: 3c1c6d813d2b031d988204155fc198fe4f32ff56c05dabbcfcd5486131f4fb9d process: C:\Windows\System32\conhost.exe
+SHAS2: 417ae8819a51a2066f655d4f7212f2bb1549d65272c7dcfcb8535c6c64af1abd process: C:\Program Files\WindowsApps\microsoft.windowscommunicationsapps_16005.14326.20970.0_x64__8wekyb3d8bbwe\HxTsr.exe
+SHAS2: 3dc39da6d98b60e6f6ab8d5f555ec2f8c318601fa8de7e6f97ab20a3c8f8f234 Author: Nvidia Corporation process: C:\Users\Utilisateur\AppData\Local\NVIDIA\NvBackend\ApplicationOntology\OAWrapper.exe
+ Dxgi ...(63) GetOutputBits 0...(83) GetOutputBits ...(299) CreateBitmapFromMemory ...(315) CreateStream ...(332) InitializeFromFilename ...(348) Initialize ...(363) Propbag ...(378) GetPixelFormat ...(393) SetPixelFormat ...(414) WriteSource ...(429)Frame Commit ...(444)Encode Commit ...(460)
+(Mon 1) DX11(475) : Each 60 at  file: 048.JPG- Zip CRC: a327ea9b32392ada9f8681ed061060f2e38240556cb995471afb11c7e2b40510  
+ Dxgi ...(59) GetOutputBits 0...(78) GetOutputBits ...(294) CreateBitmapFromMemory ...(311) CreateStream ...(327) InitializeFromFilename ...(342) Initialize ...(357) Propbag ...(371) GetPixelFormat ...(386) SetPixelFormat ...(407) WriteSource ...(422)Frame Commit ...(437)Encode Commit ...(452)
+(Mon 1) DX11(467) : Each 60 at  file: 049.JPG- Zip CRC: 4b35c8e071a4bc7af5704153b7603e1f2d2e52d3ec6d694d3ff9c7dc50b4128a  
+ Dxgi ...(61) GetOutputBits 0...(79) GetOutputBits ...(295) CreateBitmapFromMemory ...(311) CreateStream ...(326) InitializeFromFilename ...(341) Initialize ...(356) Propbag ...(370) GetPixelFormat ...(385) SetPixelFormat ...(407) WriteSource ...(422)Frame Commit ...(437)Encode Commit ...(453)
+(Mon 1) DX11(468) : Each 60 at  file: 050.JPG- Zip CRC: d000cdf20604886bdb10259cb619511383d62dfe58723ac7e5ab6ae27a4bf9c2  
+Drive: XPG SPECTRIX S20G serial: 
+:53:05 for Call of Duty Vanguard on x64
+ Dxgi ...(59) GetOutputBits 0...(79) GetOutputBits ...(295) CreateBitmapFromMemory ...(313) CreateStream ...(328) InitializeFromFilename ...(344) Initialize ...(359) Propbag ...(374) GetPixelFormat ...(389) SetPixelFormat ...(411) WriteSource ...(427)Frame Commit ...(442)Encode Commit ...(458)
+(Mon 1) DX11(472) : Each 60 at  file: 051.JPG- Zip CRC: c8b3717c3b2aea9321442b357946d4a70f6ad9b3f8fd61eac197a98f8db2aaa3  
+SHAS2: 3dc39da6d98b60e6f6ab8d5f555ec2f8c318601fa8de7e6f97ab20a3c8f8f234 Author: Nvidia Corporation process: C:\Users\Utilisateur\AppData\Local\NVIDIA\NvBackend\ApplicationOntology\OAWrapper.exe
+SHAS2: 3c1c6d813d2b031d988204155fc198fe4f32ff56c05dabbcfcd5486131f4fb9d process: C:\Windows\System32\conhost.exe
+ Dxgi ...(62) GetOutputBits 0...(81) GetOutputBits ...(297) CreateBitmapFromMemory ...(314) CreateStream ...(329) InitializeFromFilename ...(344) Initialize ...(358) Propbag ...(373) GetPixelFormat ...(388) SetPixelFormat ...(410) WriteSource ...(425)Frame Commit ...(440)Encode Commit ...(456)
+(Mon 1) DX11(471) : Each 60 at  file: 052.JPG- Zip CRC: 76c8ec72c275ad2d7e1d201fd4a82e05aecc6b33b81f33f721eda34ea8a93fc9  
+ Dxgi ...(61) GetOutputBits 0...(80) GetOutputBits ...(295) CreateBitmapFromMemory ...(311) CreateStream ...(326) InitializeFromFilename ...(341) Initialize ...(355) Propbag ...(370) GetPixelFormat ...(385) SetPixelFormat ...(407) WriteSource ...(422)Frame Commit ...(437)Encode Commit ...(452)
+(Mon 1) DX11(467) : Each 60 at  file: 053.JPG- Zip CRC: 9d077a7cef844ae68c9bba1ee298ab232f7823d3f2135b1f16cbf39845f0409c  
+ Dxgi ...(60) GetOutputBits 0...(79) GetOutputBits ...(294) CreateBitmapFromMemory ...(311) CreateStream ...(325) InitializeFromFilename ...(341) Initialize ...(356) Propbag ...(371) GetPixelFormat ...(386) SetPixelFormat ...(409) WriteSource ...(424)Frame Commit ...(439)Encode Commit ...(454)
+(Mon 1) DX11(468) : Each 60 at  file: 054.JPG- Zip CRC: 21753e0a592e33b2eb5aca4b6f7ac5e485ba6b2f57525bfe5700cbe45fb1d705  
+ Dxgi ...(61) GetOutputBits 0...(80) GetOutputBits ...(296) CreateBitmapFromMemory ...(313) CreateStream ...(329) InitializeFromFilename ...(344) Initialize ...(358) Propbag ...(373) GetPixelFormat ...(389) SetPixelFormat ...(411) WriteSource ...(426)Frame Commit ...(440)Encode Commit ...(456)
+(Mon 1) DX11(470) : Each 60 at  file: 055.JPG- Zip CRC: 3261774ff9239ac4e6512aee16cc5d24707fa13ba9a3ca0519969220b8756a23  
+ Dxgi ...(60) GetOutputBits 0...(79) GetOutputBits ...(296) CreateBitmapFromMemory ...(313) CreateStream ...(328) InitializeFromFilename ...(344) Initialize ...(359) Propbag ...(373) GetPixelFormat ...(388) SetPixelFormat ...(410) WriteSource ...(425)Frame Commit ...(440)Encode Commit ...(455)
+(Mon 1) DX11(470) : Each 60 at  file: 056.JPG- Zip CRC: 4e4eb93ddfd1c0219df0be039d3e22d5b1299a10e5106f25909bfbeefd752c6c  
+SHAS2: 3dc39da6d98b60e6f6ab8d5f555ec2f8c318601fa8de7e6f97ab20a3c8f8f234 Author: Nvidia Corporation process: C:\Users\Utilisateur\AppData\Local\NVIDIA\NvBackend\ApplicationOntology\OAWrapper.exe
+SHAS2: 3c1c6d813d2b031d988204155fc198fe4f32ff56c05dabbcfcd5486131f4fb9d process: C:\Windows\System32\conhost.exe
+ Dxgi ...(62) GetOutputBits 0...(80) GetOutputBits ...(295) CreateBitmapFromMemory ...(312) CreateStream ...(327) InitializeFromFilename ...(342) Initialize ...(357) Propbag ...(371) GetPixelFormat ...(386) SetPixelFormat ...(408) WriteSource ...(423)Frame Commit ...(438)Encode Commit ...(453)
+(Mon 1) DX11(468) : Each 60 at  file: 057.JPG- Zip CRC: a921768ad5105149ab16837034de226104341ce9b05dd74f5586bea2b25a061c  
+SHAS2: 3dc39da6d98b60e6f6ab8d5f555ec2f8c318601fa8de7e6f97ab20a3c8f8f234 Author: Nvidia Corporation process: C:\Users\Utilisateur\AppData\Local\NVIDIA\NvBackend\ApplicationOntology\OAWrapper.exe
+SHAS2: 3c1c6d813d2b031d988204155fc198fe4f32ff56c05dabbcfcd5486131f4fb9d process: C:\Windows\System32\conhost.exe
+ Dxgi ...(62) GetOutputBits 0...(80) GetOutputBits ...(296) CreateBitmapFromMemory ...(313) CreateStream ...(328) InitializeFromFilename ...(343) Initialize ...(357) Propbag ...(372) GetPixelFormat ...(387) SetPixelFormat ...(409) WriteSource ...(424)Frame Commit ...(439)Encode Commit ...(454)
+(Mon 1) DX11(469) : Each 60 at  file: 058.JPG- Zip CRC: 686c7509cbf7f32085a06ffd0e1f18b44a38ac57bd5d0c959211fddb2c85597f  
+ Dxgi ...(62) GetOutputBits 0...(80) GetOutputBits ...(297) CreateBitmapFromMemory ...(314) CreateStream ...(330) InitializeFromFilename ...(345) Initialize ...(360) Propbag ...(374) GetPixelFormat ...(389) SetPixelFormat ...(412) WriteSource ...(429)Frame Commit ...(445)Encode Commit ...(461)
+(Mon 1) DX11(476) : Each 60 at  file: 059.JPG- Zip CRC: 06fe946f7819574f41a42cdda0888079aa108b817f612f43dd2abb15a8ad9f1a  
+SHAS2: de66a82ea4634b03a76ac11370c070d4a6aac1fa8d4ca907136beedcd279316a process: C:\Windows\System32\SearchProtocolHost.exe
+SHAS2: 3f09d87197a80251a55bf2d819bae9ab7b1791ac31e96413e0c06faa21a0a169 process: C:\Windows\System32\SearchFilterHost.exe
+SHAS2: 3f09d87197a80251a55bf2d819bae9ab7b1791ac31e96413e0c06faa21a0a169 process: C:\Windows\System32\SearchFilterHost.exe
+ Dxgi ...(85) GetOutputBits 0...(108) GetOutputBits ...(327) CreateBitmapFromMemory ...(347) CreateStream ...(366) InitializeFromFilename ...(384) Initialize ...(401) Propbag ...(420) GetPixelFormat ...(438) SetPixelFormat ...(468) WriteSource ...(486)Frame Commit ...(503)Encode Commit ...(522)
+(Mon 1) DX11(542) : Each 60 at  file: 060.JPG- Zip CRC: 592789ebaa684582311265c6b1bc488be3755de785db2ce6288d299c730dd36f  
+Drive: XPG SPECTRIX S20G serial: 
+:53:05 for Call of Duty Vanguard on x64
+ Dxgi ...(82) GetOutputBits 0...(104) GetOutputBits ...(322) CreateBitmapFromMemory ...(340) CreateStream ...(359) InitializeFromFilename ...(377) Initialize ...(394) Propbag ...(412) GetPixelFormat ...(430) SetPixelFormat ...(456) WriteSource ...(474)Frame Commit ...(492)Encode Commit ...(510)
+(Mon 1) DX11(528) : Each 60 at  file: 061.JPG- Zip CRC: 0a38d06bb985ee59fe6d60072a3aa1ab0826a0cc273911aadf123989858ba14e  
+ Dxgi ...(82) GetOutputBits 0...(105) GetOutputBits ...(324) CreateBitmapFromMemory ...(343) CreateStream ...(360) InitializeFromFilename ...(379) Initialize ...(397) Propbag ...(415) GetPixelFormat ...(432) SetPixelFormat ...(458) WriteSource ...(475)Frame Commit ...(493)Encode Commit ...(511)
+(Mon 1) DX11(529) : Each 60 at  file: 062.JPG- Zip CRC: 7d7ec3bad65a575be1c1c907e3f453b4664e4494737945f2502a5c70ce397047  
+ Dxgi ...(76) GetOutputBits 0...(99) GetOutputBits ...(319) CreateBitmapFromMemory ...(338) CreateStream ...(356) InitializeFromFilename ...(374) Initialize ...(392) Propbag ...(411) GetPixelFormat ...(428) SetPixelFormat ...(457) WriteSource ...(476)Frame Commit ...(494)Encode Commit ...(513)
+(Mon 1) DX11(531) : Each 60 at  file: 063.JPG- Zip CRC: 610c2ee26395cf147ce739ba6c77903b3910a9e306023d0c2c59723b99612e22  
+SHAS2: de66a82ea4634b03a76ac11370c070d4a6aac1fa8d4ca907136beedcd279316a process: C:\Windows\System32\SearchProtocolHost.exe
+SHAS2: 3f09d87197a80251a55bf2d819bae9ab7b1791ac31e96413e0c06faa21a0a169 process: C:\Windows\System32\SearchFilterHost.exe
+SHAS2: 3f09d87197a80251a55bf2d819bae9ab7b1791ac31e96413e0c06faa21a0a169 process: C:\Windows\System32\SearchFilterHost.exe
+SHAS2: 3dc39da6d98b60e6f6ab8d5f555ec2f8c318601fa8de7e6f97ab20a3c8f8f234 Author: Nvidia Corporation process: C:\Users\Utilisateur\AppData\Local\NVIDIA\NvBackend\ApplicationOntology\OAWrapper.exe
+SHAS2: 3c1c6d813d2b031d988204155fc198fe4f32ff56c05dabbcfcd5486131f4fb9d process: C:\Windows\System32\conhost.exe
+ Dxgi ...(62) GetOutputBits 0...(81) GetOutputBits ...(297) CreateBitmapFromMemory ...(314) CreateStream ...(330) InitializeFromFilename ...(345) Initialize ...(360) Propbag ...(374) GetPixelFormat ...(389) SetPixelFormat ...(411) WriteSource ...(426)Frame Commit ...(441)Encode Commit ...(457)
+(Mon 1) DX11(472) : Each 60 at  file: 064.JPG- Zip CRC: 58d225cabbeb8f6aa951a54373e3e4cc13bda73bd46519485ec2e0584ad57d6c  
+SHAS2: 3dc39da6d98b60e6f6ab8d5f555ec2f8c318601fa8de7e6f97ab20a3c8f8f234 Author: Nvidia Corporation process: C:\Users\Utilisateur\AppData\Local\NVIDIA\NvBackend\ApplicationOntology\OAWrapper.exe
+SHAS2: 3c1c6d813d2b031d988204155fc198fe4f32ff56c05dabbcfcd5486131f4fb9d process: C:\Windows\System32\conhost.exe
+ Dxgi ...(64) GetOutputBits 0...(84) GetOutputBits ...(302) CreateBitmapFromMemory ...(319) CreateStream ...(335) InitializeFromFilename ...(350) Initialize ...(365) Propbag ...(381) GetPixelFormat ...(395) SetPixelFormat ...(417) WriteSource ...(433)Frame Commit ...(449)Encode Commit ...(464)
+(Mon 1) DX11(479) : Each 60 at  file: 065.JPG- Zip CRC: a92833dd3f66f585974343d310521f96910fd6600424bf8f370ed2319604d791  
+ Dxgi ...(62) GetOutputBits 0...(81) GetOutputBits ...(297) CreateBitmapFromMemory ...(314) CreateStream ...(328) InitializeFromFilename ...(344) Initialize ...(359) Propbag ...(374) GetPixelFormat ...(389) SetPixelFormat ...(412) WriteSource ...(427)Frame Commit ...(442)Encode Commit ...(457)
+(Mon 1) DX11(472) : Each 60 at  file: 066.JPG- Zip CRC: f65ba074a389b901f911902b357af7f41ddc1ec70728f1d9b3f22e7ba654a7d1  
+ Dxgi ...(64) GetOutputBits 0...(83) GetOutputBits ...(299) CreateBitmapFromMemory ...(316) CreateStream ...(332) InitializeFromFilename ...(347) Initialize ...(361) Propbag ...(376) GetPixelFormat ...(391) SetPixelFormat ...(412) WriteSource ...(428)Frame Commit ...(443)Encode Commit ...(458)
+(Mon 1) DX11(473) : Each 60 at  file: 067.JPG- Zip CRC: 79c278259939d6570cf616759a09a20ecf22f4b486170e1d817d2319c4a77ede  
+ Dxgi ...(66) GetOutputBits 0...(85) GetOutputBits ...(302) CreateBitmapFromMemory ...(319) CreateStream ...(334) InitializeFromFilename ...(350) Initialize ...(365) Propbag ...(379) GetPixelFormat ...(394) SetPixelFormat ...(415) WriteSource ...(431)Frame Commit ...(445)Encode Commit ...(460)
+(Mon 1) DX11(475) : Each 60 at  file: 068.JPG- Zip CRC: 1019886b766bb32329f7c675c9d42df1f26542b82bfdfa32888567b8d625cf9e  
+ Dxgi ...(66) GetOutputBits 0...(86) GetOutputBits ...(302) CreateBitmapFromMemory ...(320) CreateStream ...(335) InitializeFromFilename ...(351) Initialize ...(366) Propbag ...(381) GetPixelFormat ...(396) SetPixelFormat ...(418) WriteSource ...(433)Frame Commit ...(449)Encode Commit ...(464)
+(Mon 1) DX11(479) : Each 60 at  file: 069.JPG- Zip CRC: ea565a0a4e97834f2c693d2b28f5a9e597e6650483fe856158b436871c22fc85  
+ Dxgi ...(62) GetOutputBits 0...(81) GetOutputBits ...(298) CreateBitmapFromMemory ...(315) CreateStream ...(329) InitializeFromFilename ...(345) Initialize ...(360) Propbag ...(374) GetPixelFormat ...(389) SetPixelFormat ...(411) WriteSource ...(427)Frame Commit ...(442)Encode Commit ...(458)
+(Mon 1) DX11(474) : Each 60 at  file: 070.JPG- Zip CRC: c69b4bb46b879053607565d45e1e821f041230bf744cf2c1b90cdba8e25bc719  
+Drive: XPG SPECTRIX S20G serial: 
+:53:05 for Call of Duty Vanguard on x64
+ Dxgi ...(61) GetOutputBits 0...(79) GetOutputBits ...(295) CreateBitmapFromMemory ...(312) CreateStream ...(327) InitializeFromFilename ...(342) Initialize ...(357) Propbag ...(372) GetPixelFormat ...(387) SetPixelFormat ...(409) WriteSource ...(424)Frame Commit ...(440)Encode Commit ...(455)
+(Mon 1) DX11(470) : Each 60 at  file: 071.JPG- Zip CRC: 26629f02698bf5250cc6f7cc3311d13c15596d9693d73e44b7d7984895692928  
+SHAS2: 3dc39da6d98b60e6f6ab8d5f555ec2f8c318601fa8de7e6f97ab20a3c8f8f234 Author: Nvidia Corporation process: C:\Users\Utilisateur\AppData\Local\NVIDIA\NvBackend\ApplicationOntology\OAWrapper.exe
+ Dxgi ...(65) GetOutputBits 0...(84) GetOutputBits ...(300) CreateBitmapFromMemory ...(317) CreateStream ...(331) InitializeFromFilename ...(346) Initialize ...(361) Propbag ...(375) GetPixelFormat ...(391) SetPixelFormat ...(413) WriteSource ...(428)Frame Commit ...(443)Encode Commit ...(458)
+(Mon 1) DX11(473) : Each 60 at  file: 072.JPG- Zip CRC: 6f404ab6603f550aadade93cb528acefe62934bba6353a9853012fdfa0a9eb0d  
+ Dxgi ...(62) GetOutputBits 0...(81) GetOutputBits ...(297) CreateBitmapFromMemory ...(314) CreateStream ...(329) InitializeFromFilename ...(344) Initialize ...(359) Propbag ...(374) GetPixelFormat ...(389) SetPixelFormat ...(412) WriteSource ...(428)Frame Commit ...(442)Encode Commit ...(458)
+(Mon 1) DX11(473) : Each 60 at  file: 073.JPG- Zip CRC: 5983e3e9a259746486ba2e990525277ff68b1669bdd192e18e31556b0e8eb859  
+ Dxgi ...(63) GetOutputBits 0...(81) GetOutputBits ...(297) CreateBitmapFromMemory ...(314) CreateStream ...(328) InitializeFromFilename ...(344) Initialize ...(359) Propbag ...(373) GetPixelFormat ...(389) SetPixelFormat ...(412) WriteSource ...(427)Frame Commit ...(443)Encode Commit ...(459)
+(Mon 1) DX11(474) : Each 60 at  file: 074.JPG- Zip CRC: 6e3aea355c4eafe34437c392d0852dabfc2a71192695b0d9a65fd86f969aa30c  
+ Dxgi ...(69) GetOutputBits 0...(91) GetOutputBits ...(308) CreateBitmapFromMemory ...(325) CreateStream ...(340) InitializeFromFilename ...(357) Initialize ...(372) Propbag ...(387) GetPixelFormat ...(402) SetPixelFormat ...(425) WriteSource ...(440)Frame Commit ...(455)Encode Commit ...(471)
+(Mon 1) DX11(486) : Each 60 at  file: 075.JPG- Zip CRC: 01e9b57892d51ef178cd610fac714ad20d44966d25455c2233a37f667a38de48  
+SHAS2: de66a82ea4634b03a76ac11370c070d4a6aac1fa8d4ca907136beedcd279316a process: C:\Windows\System32\SearchProtocolHost.exe
+SHAS2: 3f09d87197a80251a55bf2d819bae9ab7b1791ac31e96413e0c06faa21a0a169 process: C:\Windows\System32\SearchFilterHost.exe
+SHAS2: 3f09d87197a80251a55bf2d819bae9ab7b1791ac31e96413e0c06faa21a0a169 process: C:\Windows\System32\SearchFilterHost.exe
+ Dxgi ...(62) GetOutputBits 0...(81) GetOutputBits ...(298) CreateBitmapFromMemory ...(315) CreateStream ...(330) InitializeFromFilename ...(345) Initialize ...(360) Propbag ...(375) GetPixelFormat ...(390) SetPixelFormat ...(412) WriteSource ...(428)Frame Commit ...(443)Encode Commit ...(459)
+(Mon 1) DX11(474) : Each 60 at  file: 076.JPG- Zip CRC: 970ca7472c7cb8bd913cf01149ebe3ddb68b9ea6c65df43a4b7fb9cfa21cba11  
+ Dxgi ...(86) GetOutputBits 0...(104) GetOutputBits ...(321) CreateBitmapFromMemory ...(338) CreateStream ...(353) InitializeFromFilename ...(367) Initialize ...(382) Propbag ...(396) GetPixelFormat ...(411) SetPixelFormat ...(433) WriteSource ...(448)Frame Commit ...(463)Encode Commit ...(478)
+(Mon 1) DX11(493) : Each 60 at  file: 077.JPG- Zip CRC: 970ca7472c7cb8bd913cf01149ebe3ddb68b9ea6c65df43a4b7fb9cfa21cba11  
+ Dxgi ...(67) GetOutputBits 0...(86) GetOutputBits ...(302) CreateBitmapFromMemory ...(319) CreateStream ...(334) InitializeFromFilename ...(349) Initialize ...(364) Propbag ...(379) GetPixelFormat ...(395) SetPixelFormat ...(418) WriteSource ...(433)Frame Commit ...(448)Encode Commit ...(463)
+(Mon 1) DX11(478) : Each 60 at  file: 078.JPG- Zip CRC: 4f7a807fddfbe395cf4159c48e0b0cdbf7a5cbda0ad8c8da38fdcb2e28df4759  
+SHAS2: 3dc39da6d98b60e6f6ab8d5f555ec2f8c318601fa8de7e6f97ab20a3c8f8f234 Author: Nvidia Corporation process: C:\Users\Utilisateur\AppData\Local\NVIDIA\NvBackend\ApplicationOntology\OAWrapper.exe
+SHAS2: 3c1c6d813d2b031d988204155fc198fe4f32ff56c05dabbcfcd5486131f4fb9d process: C:\Windows\System32\conhost.exe
+ Dxgi ...(58) GetOutputBits 0...(77) GetOutputBits ...(293) CreateBitmapFromMemory ...(310) CreateStream ...(325) InitializeFromFilename ...(340) Initialize ...(355) Propbag ...(371) GetPixelFormat ...(386) SetPixelFormat ...(407) WriteSource ...(423)Frame Commit ...(438)Encode Commit ...(455)
+(Mon 1) DX11(470) : Each 60 at  file: 079.JPG- Zip CRC: 6f69e78aa2671ba1d3a1e26d57208938920f6751f320b868b92c67d270e4bbe8  
+ Dxgi ...(63) GetOutputBits 0...(82) GetOutputBits ...(298) CreateBitmapFromMemory ...(314) CreateStream ...(329) InitializeFromFilename ...(344) Initialize ...(360) Propbag ...(375) GetPixelFormat ...(390) SetPixelFormat ...(413) WriteSource ...(428)Frame Commit ...(443)Encode Commit ...(460)
+(Mon 1) DX11(476) : Each 60 at  file: 080.JPG- Zip CRC: d50ee8a447c323ef3d6bf82559bec96f3d684753c8abe469ae517f8cbf30bfb7  
+Drive: XPG SPECTRIX S20G serial: 
+:53:05 for Call of Duty Vanguard on x64
+SHAS2: de66a82ea4634b03a76ac11370c070d4a6aac1fa8d4ca907136beedcd279316a process: C:\Windows\System32\SearchProtocolHost.exe
+SHAS2: 3f09d87197a80251a55bf2d819bae9ab7b1791ac31e96413e0c06faa21a0a169 process: C:\Windows\System32\SearchFilterHost.exe
+SHAS2: 3f09d87197a80251a55bf2d819bae9ab7b1791ac31e96413e0c06faa21a0a169 process: C:\Windows\System32\SearchFilterHost.exe
+ Dxgi ...(66) GetOutputBits 0...(85) GetOutputBits ...(301) CreateBitmapFromMemory ...(318) CreateStream ...(333) InitializeFromFilename ...(348) Initialize ...(362) Propbag ...(377) GetPixelFormat ...(392) SetPixelFormat ...(413) WriteSource ...(428)Frame Commit ...(443)Encode Commit ...(458)
+(Mon 1) DX11(474) : Each 60 at  file: 081.JPG- Zip CRC: d2c7b8d213d1a1bdc2da5ecd0f26d323b7a097daf2ec6ee895dc1d740cad387f  
+ Dxgi ...(61) GetOutputBits 0...(80) GetOutputBits ...(296) CreateBitmapFromMemory ...(313) CreateStream ...(329) InitializeFromFilename ...(345) Initialize ...(360) Propbag ...(375) GetPixelFormat ...(389) SetPixelFormat ...(411) WriteSource ...(428)Frame Commit ...(443)Encode Commit ...(458)
+(Mon 1) DX11(473) : Each 60 at  file: 082.JPG- Zip CRC: 4567dd9b9f711f0611a30cdecd2d645d2fe21c135db66c87ef0a6e7c005d1a14  
+ Dxgi ...(60) GetOutputBits 0...(80) GetOutputBits ...(297) CreateBitmapFromMemory ...(314) CreateStream ...(330) InitializeFromFilename ...(346) Initialize ...(362) Propbag ...(377) GetPixelFormat ...(391) SetPixelFormat ...(413) WriteSource ...(429)Frame Commit ...(444)Encode Commit ...(460)
+(Mon 1) DX11(475) : Each 60 at  file: 083.JPG- Zip CRC: 86c080242c84f3b123881177527aeefbb45e8e962a70c29c64bb29913b72d57c  
+ Dxgi ...(63) GetOutputBits 0...(82) GetOutputBits ...(298) CreateBitmapFromMemory ...(315) CreateStream ...(332) InitializeFromFilename ...(347) Initialize ...(362) Propbag ...(377) GetPixelFormat ...(392) SetPixelFormat ...(414) WriteSource ...(429)Frame Commit ...(444)Encode Commit ...(459)
+(Mon 1) DX11(474) : Each 60 at  file: 084.JPG- Zip CRC: 07bf8d602d8c04d4c4a0c04b21cdd8bb17f6970e1bf7d6a6365bdfd9988843b6  
+SHAS2: 3dc39da6d98b60e6f6ab8d5f555ec2f8c318601fa8de7e6f97ab20a3c8f8f234 Author: Nvidia Corporation process: C:\Users\Utilisateur\AppData\Local\NVIDIA\NvBackend\ApplicationOntology\OAWrapper.exe
+SHAS2: 3c1c6d813d2b031d988204155fc198fe4f32ff56c05dabbcfcd5486131f4fb9d process: C:\Windows\System32\conhost.exe
+SHAS2: 3dc39da6d98b60e6f6ab8d5f555ec2f8c318601fa8de7e6f97ab20a3c8f8f234 Author: Nvidia Corporation process: C:\Users\Utilisateur\AppData\Local\NVIDIA\NvBackend\ApplicationOntology\OAWrapper.exe
+ Dxgi ...(64) GetOutputBits 0...(83) GetOutputBits ...(299) CreateBitmapFromMemory ...(315) CreateStream ...(330) InitializeFromFilename ...(345) Initialize ...(360) Propbag ...(374) GetPixelFormat ...(389) SetPixelFormat ...(411) WriteSource ...(427)Frame Commit ...(443)Encode Commit ...(458)
+(Mon 1) DX11(473) : Each 60 at  file: 085.JPG- Zip CRC: 2f8eba173b811f181bd4be1643cff45cf2e6b1dd56c6ff6ab4f6b7e87d555d28  
+ Dxgi ...(60) GetOutputBits 0...(79) GetOutputBits ...(295) CreateBitmapFromMemory ...(312) CreateStream ...(326) InitializeFromFilename ...(341) Initialize ...(356) Propbag ...(371) GetPixelFormat ...(386) SetPixelFormat ...(408) WriteSource ...(423)Frame Commit ...(438)Encode Commit ...(454)
+(Mon 1) DX11(469) : Each 60 at  file: 086.JPG- Zip CRC: 398aaf04f8b92c82e802ed7504fc79661ce3b1516ec7ada5183c7eb7e1e0520d  
+ Dxgi ...(63) GetOutputBits 0...(82) GetOutputBits ...(299) CreateBitmapFromMemory ...(316) CreateStream ...(331) InitializeFromFilename ...(346) Initialize ...(362) Propbag ...(377) GetPixelFormat ...(392) SetPixelFormat ...(414) WriteSource ...(429)Frame Commit ...(445)Encode Commit ...(460)
+(Mon 1) DX11(476) : Each 60 at  file: 087.JPG- Zip CRC: ec4c4116671f23a7314c2f5f942b4903be4a6916581cb4dfd734ea0daedabfaa  
+SHAS2: de66a82ea4634b03a76ac11370c070d4a6aac1fa8d4ca907136beedcd279316a process: C:\Windows\System32\SearchProtocolHost.exe
+SHAS2: 3f09d87197a80251a55bf2d819bae9ab7b1791ac31e96413e0c06faa21a0a169 process: C:\Windows\System32\SearchFilterHost.exe
+SHAS2: 3f09d87197a80251a55bf2d819bae9ab7b1791ac31e96413e0c06faa21a0a169 process: C:\Windows\System32\SearchFilterHost.exe
+SHAS2: 3dc39da6d98b60e6f6ab8d5f555ec2f8c318601fa8de7e6f97ab20a3c8f8f234 Author: Nvidia Corporation process: C:\Users\Utilisateur\AppData\Local\NVIDIA\NvBackend\ApplicationOntology\OAWrapper.exe
+SHAS2: 3c1c6d813d2b031d988204155fc198fe4f32ff56c05dabbcfcd5486131f4fb9d process: C:\Windows\System32\conhost.exe
+ Dxgi ...(78) GetOutputBits 0...(101) GetOutputBits ...(321) CreateBitmapFromMemory ...(340) CreateStream ...(357) InitializeFromFilename ...(377) Initialize ...(395) Propbag ...(415) GetPixelFormat ...(432) SetPixelFormat ...(457) WriteSource ...(476)Frame Commit ...(495)Encode Commit ...(514)
+(Mon 1) DX11(532) : Each 60 at  file: 088.JPG- Zip CRC: f64ae2b95ca5fa072efea3e8ddb45d49890a420ea37d352c7c6079db25412069  
+ Dxgi ...(78) GetOutputBits 0...(101) GetOutputBits ...(321) CreateBitmapFromMemory ...(340) CreateStream ...(357) InitializeFromFilename ...(375) Initialize ...(394) Propbag ...(412) GetPixelFormat ...(430) SetPixelFormat ...(459) WriteSource ...(478)Frame Commit ...(496)Encode Commit ...(515)
+(Mon 1) DX11(532) : Each 60 at  file: 089.JPG- Zip CRC: e97b80aa378b198070fd1e22aa3e8756d4d3579c0e017e8b3194803f939a4fbb  
+ Dxgi ...(93) GetOutputBits 0...(116) GetOutputBits ...(335) CreateBitmapFromMemory ...(355) CreateStream ...(373) InitializeFromFilename ...(392) Initialize ...(410) Propbag ...(429) GetPixelFormat ...(446) SetPixelFormat ...(472) WriteSource ...(490)Frame Commit ...(508)Encode Commit ...(527)
+(Mon 1) DX11(548) : Each 60 at  file: 090.JPG- Zip CRC: 5a477f43396153f66cabc832f2de5e0be79030630801b205389374c9d814d07b  
+Drive: XPG SPECTRIX S20G serial: 
+:53:05 for Call of Duty Vanguard on x64
+SHAS2: 3dc39da6d98b60e6f6ab8d5f555ec2f8c318601fa8de7e6f97ab20a3c8f8f234 Author: Nvidia Corporation process: C:\Users\Utilisateur\AppData\Local\NVIDIA\NvBackend\ApplicationOntology\OAWrapper.exe
+SHAS2: 3c1c6d813d2b031d988204155fc198fe4f32ff56c05dabbcfcd5486131f4fb9d process: C:\Windows\System32\conhost.exe
+ Dxgi ...(80) GetOutputBits 0...(104) GetOutputBits ...(322) CreateBitmapFromMemory ...(340) CreateStream ...(358) InitializeFromFilename ...(377) Initialize ...(394) Propbag ...(412) GetPixelFormat ...(430) SetPixelFormat ...(456) WriteSource ...(474)Frame Commit ...(494)Encode Commit ...(513)
+(Mon 1) DX11(531) : Each 60 at  file: 091.JPG- Zip CRC: 83368fc3b0e92dc348582b78674c3ecea249a99f233b8e94c410b57000e65aff  
+ Dxgi ...(79) GetOutputBits 0...(103) GetOutputBits ...(323) CreateBitmapFromMemory ...(343) CreateStream ...(361) InitializeFromFilename ...(380) Initialize ...(399) Propbag ...(418) GetPixelFormat ...(437) SetPixelFormat ...(468) WriteSource ...(486)Frame Commit ...(505)Encode Commit ...(523)
+(Mon 1) DX11(542) : Each 60 at  file: 092.JPG- Zip CRC: ff006b7dd4dc3329b9353d371f8c4cc54f404159f568527604305b1d5909e9b6  
+SHAS2: 3dc39da6d98b60e6f6ab8d5f555ec2f8c318601fa8de7e6f97ab20a3c8f8f234 Author: Nvidia Corporation process: C:\Users\Utilisateur\AppData\Local\NVIDIA\NvBackend\ApplicationOntology\OAWrapper.exe
+SHAS2: 3c1c6d813d2b031d988204155fc198fe4f32ff56c05dabbcfcd5486131f4fb9d process: C:\Windows\System32\conhost.exe
+SHAS2: 3dc39da6d98b60e6f6ab8d5f555ec2f8c318601fa8de7e6f97ab20a3c8f8f234 Author: Nvidia Corporation process: C:\Users\Utilisateur\AppData\Local\NVIDIA\NvBackend\ApplicationOntology\OAWrapper.exe
+SHAS2: 3c1c6d813d2b031d988204155fc198fe4f32ff56c05dabbcfcd5486131f4fb9d process: C:\Windows\System32\conhost.exe
+ Dxgi ...(79) GetOutputBits 0...(103) GetOutputBits ...(323) CreateBitmapFromMemory ...(342) CreateStream ...(361) InitializeFromFilename ...(382) Initialize ...(401) Propbag ...(420) GetPixelFormat ...(441) SetPixelFormat ...(469) WriteSource ...(487)Frame Commit ...(508)Encode Commit ...(527)
+(Mon 1) DX11(545) : Each 60 at  file: 093.JPG- Zip CRC: 711d5d9882e2e30a99260cd59d1bcc5e5a58ab894b0b2358dec6071c6c3ed84c  
+ Dxgi ...(75) GetOutputBits 0...(99) GetOutputBits ...(317) CreateBitmapFromMemory ...(335) CreateStream ...(353) InitializeFromFilename ...(372) Initialize ...(391) Propbag ...(411) GetPixelFormat ...(427) SetPixelFormat ...(452) WriteSource ...(469)Frame Commit ...(489)Encode Commit ...(507)
+(Mon 1) DX11(524) : Each 60 at  file: 094.JPG- Zip CRC: 4b9e9c6551ae36db54a8f77be11eddfff0190674e277fbab73ad7eb246693f2b  
+SHAS2: 3dc39da6d98b60e6f6ab8d5f555ec2f8c318601fa8de7e6f97ab20a3c8f8f234 Author: Nvidia Corporation process: C:\Users\Utilisateur\AppData\Local\NVIDIA\NvBackend\ApplicationOntology\OAWrapper.exe
+SHAS2: 3c1c6d813d2b031d988204155fc198fe4f32ff56c05dabbcfcd5486131f4fb9d process: C:\Windows\System32\conhost.exe
+ Dxgi ...(77) GetOutputBits 0...(100) GetOutputBits ...(320) CreateBitmapFromMemory ...(340) CreateStream ...(359) InitializeFromFilename ...(377) Initialize ...(396) Propbag ...(413) GetPixelFormat ...(433) SetPixelFormat ...(460) WriteSource ...(478)Frame Commit ...(495)Encode Commit ...(514)
+(Mon 1) DX11(532) : Each 60 at  file: 095.JPG- Zip CRC: 87e425a82ef7eeab075a7e384c5b9f2aec4cae12ab9656a2811e1a6e8e0a180a  
+SHAS2: 417ae8819a51a2066f655d4f7212f2bb1549d65272c7dcfcb8535c6c64af1abd process: C:\Program Files\WindowsApps\microsoft.windowscommunicationsapps_16005.14326.20970.0_x64__8wekyb3d8bbwe\HxTsr.exe
+SHAS2: 3dc39da6d98b60e6f6ab8d5f555ec2f8c318601fa8de7e6f97ab20a3c8f8f234 Author: Nvidia Corporation process: C:\Users\Utilisateur\AppData\Local\NVIDIA\NvBackend\ApplicationOntology\OAWrapper.exe
+SHAS2: 3c1c6d813d2b031d988204155fc198fe4f32ff56c05dabbcfcd5486131f4fb9d process: C:\Windows\System32\conhost.exe
+ Dxgi ...(88) GetOutputBits 0...(112) GetOutputBits ...(332) CreateBitmapFromMemory ...(354) CreateStream ...(372) InitializeFromFilename ...(391) Initialize ...(409) Propbag ...(428) GetPixelFormat ...(447) SetPixelFormat ...(474) WriteSource ...(494)Frame Commit ...(512)Encode Commit ...(533)
+(Mon 1) DX11(554) : Each 60 at  file: 096.JPG- Zip CRC: 8e456e68f761799aaeac89f1a9f85c03b6515cf4401b09d54852c6cc9a3f3d06  
+ Dxgi ...(77) GetOutputBits 0...(106) GetOutputBits ...(325) CreateBitmapFromMemory ...(345) CreateStream ...(366) InitializeFromFilename ...(386) Initialize ...(405) Propbag ...(423) GetPixelFormat ...(441) SetPixelFormat ...(470) WriteSource ...(489)Frame Commit ...(508)Encode Commit ...(529)
+(Mon 1) DX11(547) : Each 60 at  file: 097.JPG- Zip CRC: d44c47f2921b2c56e05566d8f7cd073f2a90ebeb302adced1a0d3cae8131c7f7  
+SHAS2: de66a82ea4634b03a76ac11370c070d4a6aac1fa8d4ca907136beedcd279316a process: C:\Windows\System32\SearchProtocolHost.exe
+SHAS2: 3f09d87197a80251a55bf2d819bae9ab7b1791ac31e96413e0c06faa21a0a169 process: C:\Windows\System32\SearchFilterHost.exe
+SHAS2: 3f09d87197a80251a55bf2d819bae9ab7b1791ac31e96413e0c06faa21a0a169 process: C:\Windows\System32\SearchFilterHost.exe
+ Dxgi ...(62) GetOutputBits 0...(81) GetOutputBits ...(297) CreateBitmapFromMemory ...(314) CreateStream ...(329) InitializeFromFilename ...(344) Initialize ...(358) Propbag ...(373) GetPixelFormat ...(388) SetPixelFormat ...(409) WriteSource ...(424)Frame Commit ...(439)Encode Commit ...(454)
+(Mon 1) DX11(469) : Each 60 at  file: 098.JPG- Zip CRC: 7f16685b292f567e8d9678b4f7b3b06be6cfc30dde82ba93edc2f0d1fc22b7ff  
+ Dxgi ...(61) GetOutputBits 0...(80) GetOutputBits ...(297) CreateBitmapFromMemory ...(314) CreateStream ...(329) InitializeFromFilename ...(344) Initialize ...(359) Propbag ...(374) GetPixelFormat ...(390) SetPixelFormat ...(413) WriteSource ...(428)Frame Commit ...(444)Encode Commit ...(459)
+(Mon 1) DX11(474) : Each 60 at  file: 099.JPG- Zip CRC: 255d4c1c5daf72f5588459da49a3b9e0f5f11a0e4102338795deecbf2593205c  
+SHAS2: 3dc39da6d98b60e6f6ab8d5f555ec2f8c318601fa8de7e6f97ab20a3c8f8f234 Author: Nvidia Corporation process: C:\Users\Utilisateur\AppData\Local\NVIDIA\NvBackend\ApplicationOntology\OAWrapper.exe
+SHAS2: 3c1c6d813d2b031d988204155fc198fe4f32ff56c05dabbcfcd5486131f4fb9d process: C:\Windows\System32\conhost.exe
+ Dxgi ...(65) GetOutputBits 0...(84) GetOutputBits ...(300) CreateBitmapFromMemory ...(317) CreateStream ...(331) InitializeFromFilename ...(346) Initialize ...(361) Propbag ...(376) GetPixelFormat ...(391) SetPixelFormat ...(413) WriteSource ...(429)Frame Commit ...(444)Encode Commit ...(459)
+(Mon 1) DX11(475) : Each 60 at  file: 100.JPG- Zip CRC: b2dbfc45e187f2f95bd752d66d1418aa1f0200641306f793491704e031f4bcea  
+Drive: XPG SPECTRIX S20G serial: 
+:53:05 for Call of Duty Vanguard on x64
+ Dxgi ...(65) GetOutputBits 0...(84) GetOutputBits ...(299) CreateBitmapFromMemory ...(315) CreateStream ...(330) InitializeFromFilename ...(344) Initialize ...(358) Propbag ...(372) GetPixelFormat ...(386) SetPixelFormat ...(407) WriteSource ...(422)Frame Commit ...(437)Encode Commit ...(452)
+(Mon 1) DX11(466) : Each 60 at  file: 101.JPG- Zip CRC: bdba69b8e6513a00592b5a992128ec8e2c70baddda2d9a41b792290cb482765f  
+SHAS2: 3dc39da6d98b60e6f6ab8d5f555ec2f8c318601fa8de7e6f97ab20a3c8f8f234 Author: Nvidia Corporation process: C:\Users\Utilisateur\AppData\Local\NVIDIA\NvBackend\ApplicationOntology\OAWrapper.exe
+SHAS2: 3c1c6d813d2b031d988204155fc198fe4f32ff56c05dabbcfcd5486131f4fb9d process: C:\Windows\System32\conhost.exe
+ Dxgi ...(61) GetOutputBits 0...(80) GetOutputBits ...(295) CreateBitmapFromMemory ...(312) CreateStream ...(326) InitializeFromFilename ...(341) Initialize ...(356) Propbag ...(370) GetPixelFormat ...(384) SetPixelFormat ...(404) WriteSource ...(419)Frame Commit ...(434)Encode Commit ...(449)
+(Mon 1) DX11(464) : Each 60 at  file: 102.JPG- Zip CRC: 6f69e78aa2671ba1d3a1e26d57208938920f6751f320b868b92c67d270e4bbe8  
+ Dxgi ...(58) GetOutputBits 0...(77) GetOutputBits ...(292) CreateBitmapFromMemory ...(308) CreateStream ...(322) InitializeFromFilename ...(336) Initialize ...(350) Propbag ...(364) GetPixelFormat ...(379) SetPixelFormat ...(398) WriteSource ...(413)Frame Commit ...(428)Encode Commit ...(443)
+(Mon 1) DX11(457) : Each 60 at  file: 103.JPG- Zip CRC: 6f69e78aa2671ba1d3a1e26d57208938920f6751f320b868b92c67d270e4bbe8  
+ Dxgi ...(62) GetOutputBits 0...(81) GetOutputBits ...(298) CreateBitmapFromMemory ...(315) CreateStream ...(331) InitializeFromFilename ...(347) Initialize ...(363) Propbag ...(378) GetPixelFormat ...(392) SetPixelFormat ...(414) WriteSource ...(430)Frame Commit ...(446)Encode Commit ...(461)
+(Mon 1) DX11(476) : Each 60 at  file: 104.JPG- Zip CRC: 696f4a704a9accdd5cae480536272d934e2c95317e4d14691a30cceaf8da13cc  
+SHAS2: de66a82ea4634b03a76ac11370c070d4a6aac1fa8d4ca907136beedcd279316a process: C:\Windows\System32\SearchProtocolHost.exe
+SHAS2: 3f09d87197a80251a55bf2d819bae9ab7b1791ac31e96413e0c06faa21a0a169 process: C:\Windows\System32\SearchFilterHost.exe
+SHAS2: 3f09d87197a80251a55bf2d819bae9ab7b1791ac31e96413e0c06faa21a0a169 process: C:\Windows\System32\SearchFilterHost.exe
+ Dxgi ...(74) GetOutputBits 0...(97) GetOutputBits ...(315) CreateBitmapFromMemory ...(334) CreateStream ...(356) InitializeFromFilename ...(376) Initialize ...(393) Propbag ...(412) GetPixelFormat ...(431) SetPixelFormat ...(463) WriteSource ...(482)Frame Commit ...(502)Encode Commit ...(522)
+(Mon 1) DX11(540) : Each 60 at  file: 105.JPG- Zip CRC: ae08d2dad8006ada1f28c2bd796b50354166bc46fbd71f7d45510abc538223f7  
+ Dxgi ...(79) GetOutputBits 0...(101) GetOutputBits ...(320) CreateBitmapFromMemory ...(339) CreateStream ...(357) InitializeFromFilename ...(375) Initialize ...(394) Propbag ...(412) GetPixelFormat ...(430) SetPixelFormat ...(459) WriteSource ...(478)Frame Commit ...(495)Encode Commit ...(514)
+(Mon 1) DX11(532) : Each 60 at  file: 106.JPG- Zip CRC: dbfb70509ea07100b0786c03b3ce294ef97f1c6bc095f9da566eabe88365eb17  
+SHAS2: 3dc39da6d98b60e6f6ab8d5f555ec2f8c318601fa8de7e6f97ab20a3c8f8f234 Author: Nvidia Corporation process: C:\Users\Utilisateur\AppData\Local\NVIDIA\NvBackend\ApplicationOntology\OAWrapper.exe
+SHAS2: 3c1c6d813d2b031d988204155fc198fe4f32ff56c05dabbcfcd5486131f4fb9d process: C:\Windows\System32\conhost.exe
+ Dxgi ...(74) GetOutputBits 0...(97) GetOutputBits ...(316) CreateBitmapFromMemory ...(336) CreateStream ...(354) InitializeFromFilename ...(372) Initialize ...(391) Propbag ...(408) GetPixelFormat ...(427) SetPixelFormat ...(455) WriteSource ...(473)Frame Commit ...(491)Encode Commit ...(509)
+(Mon 1) DX11(527) : Each 60 at  file: 107.JPG- Zip CRC: b672aaa94f46c97cdd8978decf892515e5d217163c5a822fefab2b94095639af  
+SHAS2: 3dc39da6d98b60e6f6ab8d5f555ec2f8c318601fa8de7e6f97ab20a3c8f8f234 Author: Nvidia Corporation process: C:\Users\Utilisateur\AppData\Local\NVIDIA\NvBackend\ApplicationOntology\OAWrapper.exe
+SHAS2: de66a82ea4634b03a76ac11370c070d4a6aac1fa8d4ca907136beedcd279316a process: C:\Windows\System32\SearchProtocolHost.exe
+SHAS2: de66a82ea4634b03a76ac11370c070d4a6aac1fa8d4ca907136beedcd279316a process: C:\Windows\System32\SearchProtocolHost.exe
+ Dxgi ...(82) GetOutputBits 0...(105) GetOutputBits ...(324) CreateBitmapFromMemory ...(344) CreateStream ...(362) InitializeFromFilename ...(380) Initialize ...(398) Propbag ...(416) GetPixelFormat ...(433) SetPixelFormat ...(458) WriteSource ...(477)Frame Commit ...(495)Encode Commit ...(515)
+(Mon 1) DX11(534) : Each 60 at  file: 108.JPG- Zip CRC: 33471c7c3cd176ee04be17a8d9c891c453e112cc21d5479ee634969e4a75cea6  
+ Dxgi ...(78) GetOutputBits 0...(103) GetOutputBits ...(322) CreateBitmapFromMemory ...(341) CreateStream ...(361) InitializeFromFilename ...(380) Initialize ...(399) Propbag ...(417) GetPixelFormat ...(435) SetPixelFormat ...(462) WriteSource ...(480)Frame Commit ...(499)Encode Commit ...(518)
+(Mon 1) DX11(536) : Each 60 at  file: 109.JPG- Zip CRC: 4adbf96d51d5b9cca227b9c46080145365a4b909a14bf6558b87ffe641da5cda  
+ Dxgi ...(84) GetOutputBits 0...(110) GetOutputBits ...(329) CreateBitmapFromMemory ...(347) CreateStream ...(366) InitializeFromFilename ...(383) Initialize ...(404) Propbag ...(423) GetPixelFormat ...(441) SetPixelFormat ...(470) WriteSource ...(491)Frame Commit ...(510)Encode Commit ...(530)
+(Mon 1) DX11(548) : Each 60 at  file: 110.JPG- Zip CRC: a1f50e6b42a3b0942cb8a762fc912bb44ed5bdba2efccf840f2679d706a9e90f  
+Drive: XPG SPECTRIX S20G serial: 
+:53:05 for Call of Duty Vanguard on x64
+SHAS2: 3dc39da6d98b60e6f6ab8d5f555ec2f8c318601fa8de7e6f97ab20a3c8f8f234 Author: Nvidia Corporation process: C:\Users\Utilisateur\AppData\Local\NVIDIA\NvBackend\ApplicationOntology\OAWrapper.exe
+ Dxgi ...(75) GetOutputBits 0...(99) GetOutputBits ...(318) CreateBitmapFromMemory ...(337) CreateStream ...(355) InitializeFromFilename ...(372) Initialize ...(391) Propbag ...(408) GetPixelFormat ...(425) SetPixelFormat ...(453) WriteSource ...(472)Frame Commit ...(490)Encode Commit ...(511)
+(Mon 1) DX11(530) : Each 60 at  file: 111.JPG- Zip CRC: 388338a7a0b53d71a36bdba838f2821b735cac63948c357fff77e52943edf68e  
+SHAS2: 3dc39da6d98b60e6f6ab8d5f555ec2f8c318601fa8de7e6f97ab20a3c8f8f234 Author: Nvidia Corporation process: C:\Users\Utilisateur\AppData\Local\NVIDIA\NvBackend\ApplicationOntology\OAWrapper.exe
+ Dxgi ...(77) GetOutputBits 0...(100) GetOutputBits ...(320) CreateBitmapFromMemory ...(339) CreateStream ...(357) InitializeFromFilename ...(374) Initialize ...(392) Propbag ...(412) GetPixelFormat ...(432) SetPixelFormat ...(461) WriteSource ...(481)Frame Commit ...(501)Encode Commit ...(520)
+(Mon 1) DX11(540) : Each 60 at  file: 112.JPG- Zip CRC: d7761695d6887c29281a50735c8be3842a0fcdc74fc224f7a7ce4ab313d6bed2  
+ Dxgi ...(78) GetOutputBits 0...(102) GetOutputBits ...(321) CreateBitmapFromMemory ...(342) CreateStream ...(360) InitializeFromFilename ...(378) Initialize ...(397) Propbag ...(415) GetPixelFormat ...(434) SetPixelFormat ...(463) WriteSource ...(481)Frame Commit ...(499)Encode Commit ...(518)
+(Mon 1) DX11(536) : Each 60 at  file: 113.JPG- Zip CRC: c11039b066bf3dbc396cd50331870b1f5a64711e541701e50678aef79f7ff844  
+ Dxgi ...(75) GetOutputBits 0...(98) GetOutputBits ...(317) CreateBitmapFromMemory ...(336) CreateStream ...(355) InitializeFromFilename ...(373) Initialize ...(390) Propbag ...(407) GetPixelFormat ...(426) SetPixelFormat ...(454) WriteSource ...(472)Frame Commit ...(492)Encode Commit ...(511)
+(Mon 1) DX11(529) : Each 60 at  file: 114.JPG- Zip CRC: 0d4c5a056e6511e5e0ded41614a45a106446dc59ed2367d31000d4d82f55e01c  
+ Dxgi ...(84) GetOutputBits 0...(109) GetOutputBits ...(328) CreateBitmapFromMemory ...(348) CreateStream ...(366) InitializeFromFilename ...(384) Initialize ...(403) Propbag ...(421) GetPixelFormat ...(440) SetPixelFormat ...(468) WriteSource ...(487)Frame Commit ...(506)Encode Commit ...(527)
+(Mon 1) DX11(545) : Each 60 at  file: 115.JPG- Zip CRC: 814bc7ccae23fae3ea9ee9769e560504b8f37ecaf9cc2b82d09ac778956bad54  
+SHAS2: de66a82ea4634b03a76ac11370c070d4a6aac1fa8d4ca907136beedcd279316a process: C:\Windows\System32\SearchProtocolHost.exe
+SHAS2: 3f09d87197a80251a55bf2d819bae9ab7b1791ac31e96413e0c06faa21a0a169 process: C:\Windows\System32\SearchFilterHost.exe
+SHAS2: 3f09d87197a80251a55bf2d819bae9ab7b1791ac31e96413e0c06faa21a0a169 process: C:\Windows\System32\SearchFilterHost.exe
+ Dxgi ...(66) GetOutputBits 0...(88) GetOutputBits ...(307) CreateBitmapFromMemory ...(325) CreateStream ...(341) InitializeFromFilename ...(357) Initialize ...(372) Propbag ...(387) GetPixelFormat ...(403) SetPixelFormat ...(427) WriteSource ...(443)Frame Commit ...(459)Encode Commit ...(475)
+(Mon 1) DX11(491) : Each 60 at  file: 116.JPG- Zip CRC: 91914e1fc649057c7cbb113379f780ac74a06a9bc2fa0eaf1488a2751e019211  
+ Dxgi ...(66) GetOutputBits 0...(84) GetOutputBits ...(301) CreateBitmapFromMemory ...(318) CreateStream ...(332) InitializeFromFilename ...(348) Initialize ...(363) Propbag ...(378) GetPixelFormat ...(393) SetPixelFormat ...(416) WriteSource ...(431)Frame Commit ...(446)Encode Commit ...(461)
+(Mon 1) DX11(477) : Each 60 at  file: 117.JPG- Zip CRC: bd3a46d5f33115c72c1de8472bd6d150c706ca9cdd707b51eec82253dc85b212  
+ Dxgi ...(63) GetOutputBits 0...(82) GetOutputBits ...(298) CreateBitmapFromMemory ...(315) CreateStream ...(331) InitializeFromFilename ...(346) Initialize ...(361) Propbag ...(375) GetPixelFormat ...(390) SetPixelFormat ...(412) WriteSource ...(427)Frame Commit ...(442)Encode Commit ...(457)
+(Mon 1) DX11(472) : Each 60 at  file: 118.JPG- Zip CRC: f223f8074bce12ddce6bc68504d8fbb450fcc9d1f33dc31164a8d602c406962c  
+SHAS2: 3dc39da6d98b60e6f6ab8d5f555ec2f8c318601fa8de7e6f97ab20a3c8f8f234 Author: Nvidia Corporation process: C:\Users\Utilisateur\AppData\Local\NVIDIA\NvBackend\ApplicationOntology\OAWrapper.exe
+ Dxgi ...(61) GetOutputBits 0...(81) GetOutputBits ...(297) CreateBitmapFromMemory ...(314) CreateStream ...(330) InitializeFromFilename ...(345) Initialize ...(360) Propbag ...(374) GetPixelFormat ...(389) SetPixelFormat ...(410) WriteSource ...(425)Frame Commit ...(440)Encode Commit ...(457)
+(Mon 1) DX11(471) : Each 60 at  file: 119.JPG- Zip CRC: 23c707ec63bcee6ba311583e2e0bab5186fe17f69cd9efd02ac4a462a81e929d  
+ Dxgi ...(62) GetOutputBits 0...(82) GetOutputBits ...(299) CreateBitmapFromMemory ...(316) CreateStream ...(331) InitializeFromFilename ...(346) Initialize ...(361) Propbag ...(377) GetPixelFormat ...(392) SetPixelFormat ...(415) WriteSource ...(429)Frame Commit ...(445)Encode Commit ...(461)
+(Mon 1) DX11(476) : Each 60 at  file: 120.JPG- Zip CRC: 677030a4999ec2e1ed94bdb73bfb2ca54793b7132c23a092b0405ee96f3dd240  
+Drive: XPG SPECTRIX S20G serial: 
+:53:05 for Call of Duty Vanguard on x64
+ Dxgi ...(62) GetOutputBits 0...(82) GetOutputBits ...(298) CreateBitmapFromMemory ...(315) CreateStream ...(330) InitializeFromFilename ...(346) Initialize ...(361) Propbag ...(376) GetPixelFormat ...(390) SetPixelFormat ...(412) WriteSource ...(428)Frame Commit ...(442)Encode Commit ...(458)
+(Mon 1) DX11(473) : Each 60 at  file: 121.JPG- Zip CRC: c0838e811ae34992aa98851fdf82895ac7fb87b3ed7142e69539856ca10ebd78  
+ Dxgi ...(59) GetOutputBits 0...(79) GetOutputBits ...(296) CreateBitmapFromMemory ...(313) CreateStream ...(327) InitializeFromFilename ...(342) Initialize ...(358) Propbag ...(374) GetPixelFormat ...(389) SetPixelFormat ...(412) WriteSource ...(428)Frame Commit ...(443)Encode Commit ...(459)
+(Mon 1) DX11(474) : Each 60 at  file: 122.JPG- Zip CRC: 7beb61b7b371332b7d770170a2b38c03a31ead35f1e6803be4597e2fd37aa1b1  
+ Dxgi ...(59) GetOutputBits 0...(78) GetOutputBits ...(294) CreateBitmapFromMemory ...(310) CreateStream ...(325) InitializeFromFilename ...(339) Initialize ...(353) Propbag ...(367) GetPixelFormat ...(381) SetPixelFormat ...(402) WriteSource ...(417)Frame Commit ...(432)Encode Commit ...(446)
+(Mon 1) DX11(461) : Each 60 at  file: 123.JPG- Zip CRC: fe6732364d2b309ea417cdc72e5cd3fa224b75e5b388f4a4e6441a6922cc538f  
+ Dxgi ...(59) GetOutputBits 0...(77) GetOutputBits ...(293) CreateBitmapFromMemory ...(310) CreateStream ...(324) InitializeFromFilename ...(339) Initialize ...(353) Propbag ...(368) GetPixelFormat ...(382) SetPixelFormat ...(403) WriteSource ...(418)Frame Commit ...(432)Encode Commit ...(447)
+(Mon 1) DX11(461) : Each 60 at  file: 124.JPG- Zip CRC: ae5531afde28f62966bf8d537ddcad2cc2db22b8b42f4c884be6e65b8e66ce7c  
+ Dxgi ...(61) GetOutputBits 0...(80) GetOutputBits ...(298) CreateBitmapFromMemory ...(315) CreateStream ...(330) InitializeFromFilename ...(346) Initialize ...(361) Propbag ...(377) GetPixelFormat ...(392) SetPixelFormat ...(415) WriteSource ...(430)Frame Commit ...(446)Encode Commit ...(461)
+(Mon 1) DX11(477) : Each 60 at  file: 125.JPG- Zip CRC: f8f84004b385f7c9d53f6f108b663acd84cfdac7fad2bcafcd54c702f25324a4  
+SHAS2: de66a82ea4634b03a76ac11370c070d4a6aac1fa8d4ca907136beedcd279316a process: C:\Windows\System32\SearchProtocolHost.exe
+SHAS2: 3f09d87197a80251a55bf2d819bae9ab7b1791ac31e96413e0c06faa21a0a169 process: C:\Windows\System32\SearchFilterHost.exe
+SHAS2: 3f09d87197a80251a55bf2d819bae9ab7b1791ac31e96413e0c06faa21a0a169 process: C:\Windows\System32\SearchFilterHost.exe
+ Dxgi ...(80) GetOutputBits 0...(106) GetOutputBits ...(325) CreateBitmapFromMemory ...(346) CreateStream ...(364) InitializeFromFilename ...(383) Initialize ...(401) Propbag ...(419) GetPixelFormat ...(438) SetPixelFormat ...(465) WriteSource ...(482)Frame Commit ...(500)Encode Commit ...(519)
+(Mon 1) DX11(539) : Each 60 at  file: 126.JPG- Zip CRC: a35e042e8ae743dd3c4cba6109929cecd7e297582ffc305db2823b5b86b6cbb5  
+SHAS2: 3dc39da6d98b60e6f6ab8d5f555ec2f8c318601fa8de7e6f97ab20a3c8f8f234 Author: Nvidia Corporation process: C:\Users\Utilisateur\AppData\Local\NVIDIA\NvBackend\ApplicationOntology\OAWrapper.exe
+SHAS2: 3c1c6d813d2b031d988204155fc198fe4f32ff56c05dabbcfcd5486131f4fb9d process: C:\Windows\System32\conhost.exe
+SHAS2: 3dc39da6d98b60e6f6ab8d5f555ec2f8c318601fa8de7e6f97ab20a3c8f8f234 Author: Nvidia Corporation process: C:\Users\Utilisateur\AppData\Local\NVIDIA\NvBackend\ApplicationOntology\OAWrapper.exe
+ Dxgi ...(82) GetOutputBits 0...(106) GetOutputBits ...(325) CreateBitmapFromMemory ...(345) CreateStream ...(364) InitializeFromFilename ...(382) Initialize ...(400) Propbag ...(418) GetPixelFormat ...(436) SetPixelFormat ...(463) WriteSource ...(481)Frame Commit ...(499)Encode Commit ...(517)
+(Mon 1) DX11(535) : Each 60 at  file: 127.JPG- Zip CRC: 0f077ce1de5b80341769c480657aa143a6f152dd2b45e16b3192acac4575c86f  
+ Dxgi ...(78) GetOutputBits 0...(100) GetOutputBits ...(320) CreateBitmapFromMemory ...(341) CreateStream ...(359) InitializeFromFilename ...(378) Initialize ...(396) Propbag ...(414) GetPixelFormat ...(431) SetPixelFormat ...(460) WriteSource ...(479)Frame Commit ...(497)Encode Commit ...(517)
+(Mon 1) DX11(535) : Each 60 at  file: 128.JPG- Zip CRC: ad4278a0ccd529f9179bd182ba2373bb3d77d7a4fa590d90a8a187c4fb9c5731  
+ Dxgi ...(78) GetOutputBits 0...(101) GetOutputBits ...(320) CreateBitmapFromMemory ...(339) CreateStream ...(358) InitializeFromFilename ...(376) Initialize ...(393) Propbag ...(411) GetPixelFormat ...(430) SetPixelFormat ...(457) WriteSource ...(476)Frame Commit ...(494)Encode Commit ...(512)
+(Mon 1) DX11(531) : Each 60 at  file: 129.JPG- Zip CRC: e91a76a40fe37dc6a0300d229717f447c16ca5411ea24fa5663672809c56b6dd  
+SHAS2: 3dc39da6d98b60e6f6ab8d5f555ec2f8c318601fa8de7e6f97ab20a3c8f8f234 Author: Nvidia Corporation process: C:\Users\Utilisateur\AppData\Local\NVIDIA\NvBackend\ApplicationOntology\OAWrapper.exe
+SHAS2: 3c1c6d813d2b031d988204155fc198fe4f32ff56c05dabbcfcd5486131f4fb9d process: C:\Windows\System32\conhost.exe
+ Dxgi ...(82) GetOutputBits 0...(106) GetOutputBits ...(325) CreateBitmapFromMemory ...(346) CreateStream ...(365) InitializeFromFilename ...(384) Initialize ...(401) Propbag ...(420) GetPixelFormat ...(437) SetPixelFormat ...(464) WriteSource ...(482)Frame Commit ...(499)Encode Commit ...(518)
+(Mon 1) DX11(537) : Each 60 at  file: 130.JPG- Zip CRC: 20729b5af97fb8545af63471ff32a2495b710772ce797a44649d42af17fdc2c9  
+Drive: XPG SPECTRIX S20G serial: 
+:53:05 for Call of Duty Vanguard on x64
+SHAS2: 3dc39da6d98b60e6f6ab8d5f555ec2f8c318601fa8de7e6f97ab20a3c8f8f234 Author: Nvidia Corporation process: C:\Users\Utilisateur\AppData\Local\NVIDIA\NvBackend\ApplicationOntology\OAWrapper.exe
+SHAS2: 3c1c6d813d2b031d988204155fc198fe4f32ff56c05dabbcfcd5486131f4fb9d process: C:\Windows\System32\conhost.exe
+ Dxgi ...(77) GetOutputBits 0...(99) GetOutputBits ...(320) CreateBitmapFromMemory ...(340) CreateStream ...(359) InitializeFromFilename ...(379) Initialize ...(397) Propbag ...(415) GetPixelFormat ...(433) SetPixelFormat ...(460) WriteSource ...(482)Frame Commit ...(500)Encode Commit ...(520)
+(Mon 1) DX11(537) : Each 60 at  file: 131.JPG- Zip CRC: 05546efe25c69bc777f101ce4ff5d5d63e612a22e9e8012ebb499f0040c9d8d7  
+ Dxgi ...(76) GetOutputBits 0...(100) GetOutputBits ...(322) CreateBitmapFromMemory ...(342) CreateStream ...(361) InitializeFromFilename ...(380) Initialize ...(400) Propbag ...(419) GetPixelFormat ...(438) SetPixelFormat ...(466) WriteSource ...(485)Frame Commit ...(505)Encode Commit ...(526)
+(Mon 1) DX11(545) : Each 60 at  file: 132.JPG- Zip CRC: faaafe3256a6fbccf76b57bc5d1ef0c8b53b36e44f5f485595d1e7eae15fbee8  
+ Dxgi ...(77) GetOutputBits 0...(101) GetOutputBits ...(319) CreateBitmapFromMemory ...(339) CreateStream ...(357) InitializeFromFilename ...(376) Initialize ...(393) Propbag ...(411) GetPixelFormat ...(430) SetPixelFormat ...(458) WriteSource ...(477)Frame Commit ...(495)Encode Commit ...(512)
+(Mon 1) DX11(530) : Each 60 at  file: 133.JPG- Zip CRC: 1312f5e7352eaea91f9e31a5e9f9548c9416e155d3caa255e234fd7d580dd65f  
+ Dxgi ...(80) GetOutputBits 0...(102) GetOutputBits ...(322) CreateBitmapFromMemory ...(343) CreateStream ...(360) InitializeFromFilename ...(389) Initialize ...(408) Propbag ...(427) GetPixelFormat ...(446) SetPixelFormat ...(474) WriteSource ...(494)Frame Commit ...(513)Encode Commit ...(533)
+(Mon 1) DX11(552) : Each 60 at  file: 134.JPG- Zip CRC: 8c552b88a2c6f8b873bdb6bcc23c6339073b0c2c535257fac3457c65568659e9  
+SHAS2: de66a82ea4634b03a76ac11370c070d4a6aac1fa8d4ca907136beedcd279316a process: C:\Windows\System32\SearchProtocolHost.exe
+SHAS2: 3f09d87197a80251a55bf2d819bae9ab7b1791ac31e96413e0c06faa21a0a169 process: C:\Windows\System32\SearchFilterHost.exe
+SHAS2: 3f09d87197a80251a55bf2d819bae9ab7b1791ac31e96413e0c06faa21a0a169 process: C:\Windows\System32\SearchFilterHost.exe
+SHAS2: 3dc39da6d98b60e6f6ab8d5f555ec2f8c318601fa8de7e6f97ab20a3c8f8f234 Author: Nvidia Corporation process: C:\Users\Utilisateur\AppData\Local\NVIDIA\NvBackend\ApplicationOntology\OAWrapper.exe
+ Dxgi ...(60) GetOutputBits 0...(81) GetOutputBits ...(298) CreateBitmapFromMemory ...(315) CreateStream ...(330) InitializeFromFilename ...(346) Initialize ...(361) Propbag ...(377) GetPixelFormat ...(392) SetPixelFormat ...(415) WriteSource ...(430)Frame Commit ...(445)Encode Commit ...(461)
+(Mon 1) DX11(477) : Each 60 at  file: 135.JPG- Zip CRC: d1c87b261f07d63229e376034c3aa7eb09994183576dfc886a57d8894e29f004  
+ Dxgi ...(73) GetOutputBits 0...(94) GetOutputBits ...(310) CreateBitmapFromMemory ...(327) CreateStream ...(341) InitializeFromFilename ...(357) Initialize ...(372) Propbag ...(387) GetPixelFormat ...(402) SetPixelFormat ...(424) WriteSource ...(440)Frame Commit ...(456)Encode Commit ...(472)
+(Mon 1) DX11(488) : Each 60 at  file: 136.JPG- Zip CRC: 00b2761e8b3b3c735536eedfa7eb9e9db0cf79592db8f622c2ee85b5fa29ac59  
+SHAS2: 3dc39da6d98b60e6f6ab8d5f555ec2f8c318601fa8de7e6f97ab20a3c8f8f234 Author: Nvidia Corporation process: C:\Users\Utilisateur\AppData\Local\NVIDIA\NvBackend\ApplicationOntology\OAWrapper.exe
+SHAS2: 3c1c6d813d2b031d988204155fc198fe4f32ff56c05dabbcfcd5486131f4fb9d process: C:\Windows\System32\conhost.exe
+ Dxgi ...(61) GetOutputBits 0...(80) GetOutputBits ...(296) CreateBitmapFromMemory ...(313) CreateStream ...(328) InitializeFromFilename ...(343) Initialize ...(358) Propbag ...(373) GetPixelFormat ...(388) SetPixelFormat ...(411) WriteSource ...(427)Frame Commit ...(441)Encode Commit ...(457)
+(Mon 1) DX11(471) : Each 60 at  file: 137.JPG- Zip CRC: 9d79078e802318f027b6bf968779a6e27604eaf2ace32e79c5f4370970a5da31  
+ Dxgi ...(60) GetOutputBits 0...(81) GetOutputBits ...(297) CreateBitmapFromMemory ...(314) CreateStream ...(329) InitializeFromFilename ...(345) Initialize ...(360) Propbag ...(375) GetPixelFormat ...(390) SetPixelFormat ...(412) WriteSource ...(428)Frame Commit ...(443)Encode Commit ...(458)
+(Mon 1) DX11(474) : Each 60 at  file: 138.JPG- Zip CRC: 9d79078e802318f027b6bf968779a6e27604eaf2ace32e79c5f4370970a5da31  
+ Dxgi ...(60) GetOutputBits 0...(79) GetOutputBits ...(295) CreateBitmapFromMemory ...(312) CreateStream ...(327) InitializeFromFilename ...(341) Initialize ...(356) Propbag ...(371) GetPixelFormat ...(387) SetPixelFormat ...(411) WriteSource ...(427)Frame Commit ...(441)Encode Commit ...(457)
+(Mon 1) DX11(471) : Each 60 at  file: 139.JPG- Zip CRC: 9d79078e802318f027b6bf968779a6e27604eaf2ace32e79c5f4370970a5da31  
+ Dxgi ...(62) GetOutputBits 0...(80) GetOutputBits ...(296) CreateBitmapFromMemory ...(312) CreateStream ...(327) InitializeFromFilename ...(342) Initialize ...(357) Propbag ...(373) GetPixelFormat ...(388) SetPixelFormat ...(410) WriteSource ...(425)Frame Commit ...(439)Encode Commit ...(454)
+(Mon 1) DX11(469) : Each 60 at  file: 140.JPG- Zip CRC: 9bd664b04f60a04fbfeb420a83090e7d5b4eb23ec359f7532c38cb2c5bbd5244  
+Drive: XPG SPECTRIX S20G serial: 
+:53:05 for Call of Duty Vanguard on x64
+ Dxgi ...(62) GetOutputBits 0...(82) GetOutputBits ...(298) CreateBitmapFromMemory ...(315) CreateStream ...(331) InitializeFromFilename ...(346) Initialize ...(361) Propbag ...(376) GetPixelFormat ...(391) SetPixelFormat ...(414) WriteSource ...(430)Frame Commit ...(445)Encode Commit ...(461)
+(Mon 1) DX11(476) : Each 60 at  file: 141.JPG- Zip CRC: cf63160c7e5b51bc0faec860d4762139842a84bae857ac77a9452be4b5c2eae2  
+SHAS2: 3dc39da6d98b60e6f6ab8d5f555ec2f8c318601fa8de7e6f97ab20a3c8f8f234 Author: Nvidia Corporation process: C:\Users\Utilisateur\AppData\Local\NVIDIA\NvBackend\ApplicationOntology\OAWrapper.exe
+SHAS2: 3c1c6d813d2b031d988204155fc198fe4f32ff56c05dabbcfcd5486131f4fb9d process: C:\Windows\System32\conhost.exe
+SHAS2: 3dc39da6d98b60e6f6ab8d5f555ec2f8c318601fa8de7e6f97ab20a3c8f8f234 Author: Nvidia Corporation process: C:\Users\Utilisateur\AppData\Local\NVIDIA\NvBackend\ApplicationOntology\OAWrapper.exe
+ Dxgi ...(65) GetOutputBits 0...(84) GetOutputBits ...(300) CreateBitmapFromMemory ...(316) CreateStream ...(331) InitializeFromFilename ...(346) Initialize ...(362) Propbag ...(377) GetPixelFormat ...(391) SetPixelFormat ...(413) WriteSource ...(429)Frame Commit ...(444)Encode Commit ...(460)
+(Mon 1) DX11(476) : Each 60 at  file: 142.JPG- Zip CRC: 3a0e2599789f1b8937e1e940a16c4e9f339a8d07d4b232ef2d6ed010b4dd9d07  
+ Dxgi ...(63) GetOutputBits 0...(82) GetOutputBits ...(298) CreateBitmapFromMemory ...(315) CreateStream ...(330) InitializeFromFilename ...(345) Initialize ...(360) Propbag ...(374) GetPixelFormat ...(389) SetPixelFormat ...(411) WriteSource ...(426)Frame Commit ...(442)Encode Commit ...(457)
+(Mon 1) DX11(473) : Each 60 at  file: 143.JPG- Zip CRC: ded7ce3d807345f74c646b00a59fb4ee3204d9cc00f7c58aae49f4686d12fccc  
+ Dxgi ...(60) GetOutputBits 0...(79) GetOutputBits ...(295) CreateBitmapFromMemory ...(312) CreateStream ...(328) InitializeFromFilename ...(344) Initialize ...(359) Propbag ...(374) GetPixelFormat ...(389) SetPixelFormat ...(410) WriteSource ...(426)Frame Commit ...(440)Encode Commit ...(455)
+(Mon 1) DX11(470) : Each 60 at  file: 144.JPG- Zip CRC: c0a6e4c590d3c68bbda7754cfd9fab12add2b9970c1eb5e172f7113e406f2564  
+ Dxgi ...(59) GetOutputBits 0...(79) GetOutputBits ...(295) CreateBitmapFromMemory ...(312) CreateStream ...(327) InitializeFromFilename ...(343) Initialize ...(358) Propbag ...(373) GetPixelFormat ...(389) SetPixelFormat ...(410) WriteSource ...(425)Frame Commit ...(441)Encode Commit ...(457)
+(Mon 1) DX11(472) : Each 60 at  file: 145.JPG- Zip CRC: 49ad2c2413ceb079c8f776417a08a344347344fc9276da426c45dc6ca6ceb8d3  
+ Dxgi ...(62) GetOutputBits 0...(82) GetOutputBits ...(298) CreateBitmapFromMemory ...(315) CreateStream ...(330) InitializeFromFilename ...(346) Initialize ...(361) Propbag ...(375) GetPixelFormat ...(390) SetPixelFormat ...(411) WriteSource ...(426)Frame Commit ...(441)Encode Commit ...(456)
+(Mon 1) DX11(471) : Each 60 at  file: 146.JPG- Zip CRC: 7851c212c414b9a218afc35ab08a7c4cab80ffe5ed404bde820d8e96a482322a  
+ Dxgi ...(61) GetOutputBits 0...(80) GetOutputBits ...(296) CreateBitmapFromMemory ...(313) CreateStream ...(328) InitializeFromFilename ...(343) Initialize ...(358) Propbag ...(373) GetPixelFormat ...(388) SetPixelFormat ...(411) WriteSource ...(426)Frame Commit ...(441)Encode Commit ...(457)
+(Mon 1) DX11(471) : Each 60 at  file: 147.JPG- Zip CRC: aa9c5d2ad9dbc8d087fb23471818f74458157c745d63cd55ec4175aa90c5f3dc  
+ Dxgi ...(63) GetOutputBits 0...(82) GetOutputBits ...(298) CreateBitmapFromMemory ...(314) CreateStream ...(329) InitializeFromFilename ...(344) Initialize ...(359) Propbag ...(374) GetPixelFormat ...(389) SetPixelFormat ...(411) WriteSource ...(427)Frame Commit ...(443)Encode Commit ...(459)
+(Mon 1) DX11(475) : Each 60 at  file: 148.JPG- Zip CRC: 085c33f5cac652d15fbb0f1f9cc76cb303eb0231e3f5cb6066be7d7640284c30  
+SHAS2: 3dc39da6d98b60e6f6ab8d5f555ec2f8c318601fa8de7e6f97ab20a3c8f8f234 Author: Nvidia Corporation process: C:\Users\Utilisateur\AppData\Local\NVIDIA\NvBackend\ApplicationOntology\OAWrapper.exe
+SHAS2: 3c1c6d813d2b031d988204155fc198fe4f32ff56c05dabbcfcd5486131f4fb9d process: C:\Windows\System32\conhost.exe
+ Dxgi ...(60) GetOutputBits 0...(79) GetOutputBits ...(295) CreateBitmapFromMemory ...(312) CreateStream ...(327) InitializeFromFilename ...(342) Initialize ...(358) Propbag ...(373) GetPixelFormat ...(388) SetPixelFormat ...(411) WriteSource ...(426)Frame Commit ...(443)Encode Commit ...(459)
+(Mon 1) DX11(474) : Each 60 at  file: 149.JPG- Zip CRC: 9963a88a50d30acad60c4efe3bb76a79792993f0ffc1ba37ecee5e1a01911ec0  
+SHAS2: de66a82ea4634b03a76ac11370c070d4a6aac1fa8d4ca907136beedcd279316a process: C:\Windows\System32\SearchProtocolHost.exe
+SHAS2: 3f09d87197a80251a55bf2d819bae9ab7b1791ac31e96413e0c06faa21a0a169 process: C:\Windows\System32\SearchFilterHost.exe
+SHAS2: 3f09d87197a80251a55bf2d819bae9ab7b1791ac31e96413e0c06faa21a0a169 process: C:\Windows\System32\SearchFilterHost.exe
+SHAS2: 3dc39da6d98b60e6f6ab8d5f555ec2f8c318601fa8de7e6f97ab20a3c8f8f234 Author: Nvidia Corporation process: C:\Users\Utilisateur\AppData\Local\NVIDIA\NvBackend\ApplicationOntology\OAWrapper.exe
+SHAS2: 3c1c6d813d2b031d988204155fc198fe4f32ff56c05dabbcfcd5486131f4fb9d process: C:\Windows\System32\conhost.exe
+ Dxgi ...(65) GetOutputBits 0...(86) GetOutputBits ...(302) CreateBitmapFromMemory ...(319) CreateStream ...(335) InitializeFromFilename ...(351) Initialize ...(366) Propbag ...(382) GetPixelFormat ...(397) SetPixelFormat ...(421) WriteSource ...(437)Frame Commit ...(453)Encode Commit ...(469)
+(Mon 1) DX11(485) : Each 60 at  file: 150.JPG- Zip CRC: 56a639b87b6e8a35293aa557704b61a0df3699f7a2ae5718a69efb6a6bf63dc4  
+Drive: XPG SPECTRIX S20G serial: 
+:53:05 for Call of Duty Vanguard on x64
+ Dxgi ...(65) GetOutputBits 0...(85) GetOutputBits ...(301) CreateBitmapFromMemory ...(318) CreateStream ...(334) InitializeFromFilename ...(350) Initialize ...(366) Propbag ...(381) GetPixelFormat ...(397) SetPixelFormat ...(420) WriteSource ...(435)Frame Commit ...(451)Encode Commit ...(467)
+(Mon 1) DX11(482) : Each 60 at  file: 151.JPG- Zip CRC: 12e8a443a3b11d43b507942cc19c9ddf042ae72077d43e7e6acffaeffd22a118  
+SHAS2: 3f09d87197a80251a55bf2d819bae9ab7b1791ac31e96413e0c06faa21a0a169 process: C:\Windows\System32\SearchFilterHost.exe
+SHAS2: 3f09d87197a80251a55bf2d819bae9ab7b1791ac31e96413e0c06faa21a0a169 process: C:\Windows\System32\SearchFilterHost.exe
+ Dxgi ...(83) GetOutputBits 0...(104) GetOutputBits ...(326) CreateBitmapFromMemory ...(345) CreateStream ...(359) InitializeFromFilename ...(375) Initialize ...(390) Propbag ...(407) GetPixelFormat ...(427) SetPixelFormat ...(462) WriteSource ...(480)Frame Commit ...(498)Encode Commit ...(522)
+(Mon 1) DX11(541) : Each 60 at  file: 152.JPG- Zip CRC: e0fc2ea53d789be61ccab4373cd8edb742922a335c0dbbd214c9ca11dee3a0c8  
+ Dxgi ...(78) GetOutputBits 0...(101) GetOutputBits ...(319) CreateBitmapFromMemory ...(339) CreateStream ...(356) InitializeFromFilename ...(373) Initialize ...(391) Propbag ...(407) GetPixelFormat ...(425) SetPixelFormat ...(450) WriteSource ...(469)Frame Commit ...(486)Encode Commit ...(503)
+(Mon 1) DX11(519) : Each 60 at  file: 153.JPG- Zip CRC: a69352ef513eebb914aa03c4dea26ebe51d9c824496ecccc88c3bd885c325c58  
+SHAS2: 3c1c6d813d2b031d988204155fc198fe4f32ff56c05dabbcfcd5486131f4fb9d process: C:\Windows\System32\conhost.exe
+SHAS2: 3c1c6d813d2b031d988204155fc198fe4f32ff56c05dabbcfcd5486131f4fb9d process: C:\Windows\System32\conhost.exe
+SHAS2: 417ae8819a51a2066f655d4f7212f2bb1549d65272c7dcfcb8535c6c64af1abd process: C:\Program Files\WindowsApps\microsoft.windowscommunicationsapps_16005.14326.20970.0_x64__8wekyb3d8bbwe\HxTsr.exe
+ Dxgi ...(96) GetOutputBits 0...(121) GetOutputBits ...(346) CreateBitmapFromMemory ...(368) CreateStream ...(387) InitializeFromFilename ...(406) Initialize ...(427) Propbag ...(448) GetPixelFormat ...(468) SetPixelFormat ...(497) WriteSource ...(516)Frame Commit ...(534)Encode Commit ...(554)
+(Mon 1) DX11(574) : Each 60 at  file: 154.JPG- Zip CRC: 0e55308b5bd6808442bca0d874af93e1f31841c10cdd44edccaaa55acf8799cd  
+ Dxgi ...(66) GetOutputBits 0...(85) GetOutputBits ...(302) CreateBitmapFromMemory ...(319) CreateStream ...(334) InitializeFromFilename ...(350) Initialize ...(365) Propbag ...(380) GetPixelFormat ...(395) SetPixelFormat ...(418) WriteSource ...(434)Frame Commit ...(449)Encode Commit ...(465)
+(Mon 1) DX11(480) : Each 60 at  file: 155.JPG- Zip CRC: 28285050b92a4b51e37043b8b65ceead9b9e78641764a628dd9a7fda82ea6121  
+SHAS2: 3dc39da6d98b60e6f6ab8d5f555ec2f8c318601fa8de7e6f97ab20a3c8f8f234 Author: Nvidia Corporation process: C:\Users\Utilisateur\AppData\Local\NVIDIA\NvBackend\ApplicationOntology\OAWrapper.exe
+SHAS2: 3c1c6d813d2b031d988204155fc198fe4f32ff56c05dabbcfcd5486131f4fb9d process: C:\Windows\System32\conhost.exe
+SHAS2: de66a82ea4634b03a76ac11370c070d4a6aac1fa8d4ca907136beedcd279316a process: C:\Windows\System32\SearchProtocolHost.exe
+SHAS2: 3f09d87197a80251a55bf2d819bae9ab7b1791ac31e96413e0c06faa21a0a169 process: C:\Windows\System32\SearchFilterHost.exe
+SHAS2: 3f09d87197a80251a55bf2d819bae9ab7b1791ac31e96413e0c06faa21a0a169 process: C:\Windows\System32\SearchFilterHost.exe
+SHAS2: 3dc39da6d98b60e6f6ab8d5f555ec2f8c318601fa8de7e6f97ab20a3c8f8f234 Author: Nvidia Corporation process: C:\Users\Utilisateur\AppData\Local\NVIDIA\NvBackend\ApplicationOntology\OAWrapper.exe
+ Dxgi ...(79) GetOutputBits 0...(101) GetOutputBits ...(321) CreateBitmapFromMemory ...(340) CreateStream ...(358) InitializeFromFilename ...(377) Initialize ...(396) Propbag ...(415) GetPixelFormat ...(435) SetPixelFormat ...(462) WriteSource ...(480)Frame Commit ...(498)Encode Commit ...(521)
+(Mon 1) DX11(540) : Each 60 at  file: 156.JPG- Zip CRC: 3ad6efbd32acdf39234a93ebdf47a644b9f639497fb0de64e66dea4a788e6d32  
+ Dxgi ...(82) GetOutputBits 0...(108) GetOutputBits ...(327) CreateBitmapFromMemory ...(348) CreateStream ...(367) InitializeFromFilename ...(386) Initialize ...(404) Propbag ...(423) GetPixelFormat ...(440) SetPixelFormat ...(467) WriteSource ...(485)Frame Commit ...(503)Encode Commit ...(521)
+(Mon 1) DX11(540) : Each 60 at  file: 157.JPG- Zip CRC: 4a424a89d4ac516a664a03f518a91d0d57ae96e824e25eaa8aec823cdc57f784  
+ Dxgi ...(77) GetOutputBits 0...(100) GetOutputBits ...(319) CreateBitmapFromMemory ...(340) CreateStream ...(358) InitializeFromFilename ...(378) Initialize ...(397) Propbag ...(416) GetPixelFormat ...(434) SetPixelFormat ...(461) WriteSource ...(480)Frame Commit ...(499)Encode Commit ...(519)
+(Mon 1) DX11(537) : Each 60 at  file: 158.JPG- Zip CRC: 3e5389840bdf650a8eb40ee441c8d5ab65eac4c1bed63389c3b3cb2583b3749c  
+ Dxgi ...(81) GetOutputBits 0...(103) GetOutputBits ...(322) CreateBitmapFromMemory ...(345) CreateStream ...(363) InitializeFromFilename ...(381) Initialize ...(400) Propbag ...(419) GetPixelFormat ...(437) SetPixelFormat ...(464) WriteSource ...(486)Frame Commit ...(505)Encode Commit ...(524)
+(Mon 1) DX11(543) : Each 60 at  file: 159.JPG- Zip CRC: d8e36efc4b64d7650749e4655093c4018bcf1e714cd21f193bf9845083f06939  
+SHAS2: 3dc39da6d98b60e6f6ab8d5f555ec2f8c318601fa8de7e6f97ab20a3c8f8f234 Author: Nvidia Corporation process: C:\Users\Utilisateur\AppData\Local\NVIDIA\NvBackend\ApplicationOntology\OAWrapper.exe
+SHAS2: 3c1c6d813d2b031d988204155fc198fe4f32ff56c05dabbcfcd5486131f4fb9d process: C:\Windows\System32\conhost.exe
+ Dxgi ...(71) GetOutputBits 0...(94) GetOutputBits ...(313) CreateBitmapFromMemory ...(334) CreateStream ...(353) InitializeFromFilename ...(372) Initialize ...(390) Propbag ...(408) GetPixelFormat ...(425) SetPixelFormat ...(454) WriteSource ...(473)Frame Commit ...(492)Encode Commit ...(510)
+(Mon 1) DX11(528) : Each 60 at  file: 160.JPG- Zip CRC: ddaf9c6d163e92da110ed8a8fe505228f303e66c3c05aa3defea4b93fb934647  
+Drive: XPG SPECTRIX S20G serial: 
+:53:05 for Call of Duty Vanguard on x64
+SHAS2: 3dc39da6d98b60e6f6ab8d5f555ec2f8c318601fa8de7e6f97ab20a3c8f8f234 Author: Nvidia Corporation process: C:\Users\Utilisateur\AppData\Local\NVIDIA\NvBackend\ApplicationOntology\OAWrapper.exe
+ Dxgi ...(79) GetOutputBits 0...(103) GetOutputBits ...(322) CreateBitmapFromMemory ...(341) CreateStream ...(359) InitializeFromFilename ...(378) Initialize ...(396) Propbag ...(413) GetPixelFormat ...(432) SetPixelFormat ...(459) WriteSource ...(478)Frame Commit ...(496)Encode Commit ...(516)
+(Mon 1) DX11(534) : Each 60 at  file: 161.JPG- Zip CRC: 0a14a3fdfdca299e179899ce51f37db8af400d5ee275701b90550d07f221305e  
+ Dxgi ...(76) GetOutputBits 0...(99) GetOutputBits ...(319) CreateBitmapFromMemory ...(338) CreateStream ...(358) InitializeFromFilename ...(377) Initialize ...(398) Propbag ...(419) GetPixelFormat ...(437) SetPixelFormat ...(463) WriteSource ...(480)Frame Commit ...(498)Encode Commit ...(517)
+(Mon 1) DX11(535) : Each 60 at  file: 162.JPG- Zip CRC: 65d1052cfb59e93852a8363b187e865af94646dd7a46db43bb6fb14c650c4345  
+SHAS2: 3dc39da6d98b60e6f6ab8d5f555ec2f8c318601fa8de7e6f97ab20a3c8f8f234 Author: Nvidia Corporation process: C:\Users\Utilisateur\AppData\Local\NVIDIA\NvBackend\ApplicationOntology\OAWrapper.exe
+ Dxgi ...(79) GetOutputBits 0...(102) GetOutputBits ...(322) CreateBitmapFromMemory ...(342) CreateStream ...(361) InitializeFromFilename ...(380) Initialize ...(397) Propbag ...(415) GetPixelFormat ...(433) SetPixelFormat ...(463) WriteSource ...(482)Frame Commit ...(500)Encode Commit ...(520)
+(Mon 1) DX11(539) : Each 60 at  file: 163.JPG- Zip CRC: 142fe8cbb13e501b61f4094fd8e476dc22950e379765cebbd6a34bb02811efde  
+ Dxgi ...(83) GetOutputBits 0...(108) GetOutputBits ...(328) CreateBitmapFromMemory ...(347) CreateStream ...(367) InitializeFromFilename ...(386) Initialize ...(404) Propbag ...(422) GetPixelFormat ...(440) SetPixelFormat ...(469) WriteSource ...(488)Frame Commit ...(506)Encode Commit ...(524)
+(Mon 1) DX11(542) : Each 60 at  file: 164.JPG- Zip CRC: 2a16ecad5339f72cf4cdd3e8f854ee22b16104e1abe6191d55102792490b8ada  
+SHAS2: 3dc39da6d98b60e6f6ab8d5f555ec2f8c318601fa8de7e6f97ab20a3c8f8f234 Author: Nvidia Corporation process: C:\Users\Utilisateur\AppData\Local\NVIDIA\NvBackend\ApplicationOntology\OAWrapper.exe
+ Dxgi ...(75) GetOutputBits 0...(97) GetOutputBits ...(316) CreateBitmapFromMemory ...(338) CreateStream ...(357) InitializeFromFilename ...(377) Initialize ...(396) Propbag ...(414) GetPixelFormat ...(433) SetPixelFormat ...(459) WriteSource ...(477)Frame Commit ...(495)Encode Commit ...(514)
+(Mon 1) DX11(531) : Each 60 at  file: 165.JPG- Zip CRC: d780e5d74cab3e2995cff1fb7df3df978743e436fffbdebf40f2a313002dbe2d  
+ Dxgi ...(85) GetOutputBits 0...(109) GetOutputBits ...(329) CreateBitmapFromMemory ...(349) CreateStream ...(368) InitializeFromFilename ...(386) Initialize ...(403) Propbag ...(421) GetPixelFormat ...(440) SetPixelFormat ...(469) WriteSource ...(490)Frame Commit ...(508)Encode Commit ...(528)
+(Mon 1) DX11(547) : Each 60 at  file: 166.JPG- Zip CRC: aae05135f5fde2a5b08e8a547f696102f6d26b1b303741866c33539d83563c01  
+ Dxgi ...(83) GetOutputBits 0...(112) GetOutputBits ...(332) CreateBitmapFromMemory ...(352) CreateStream ...(372) InitializeFromFilename ...(393) Initialize ...(411) Propbag ...(429) GetPixelFormat ...(447) SetPixelFormat ...(474) WriteSource ...(494)Frame Commit ...(513)Encode Commit ...(531)
+(Mon 1) DX11(549) : Each 60 at  file: 167.JPG- Zip CRC: bad7476bfe435f4c3e7b6634a78ff9557f4a18f601dda9bb1f5f2394f851a13c  
+ Dxgi ...(79) GetOutputBits 0...(103) GetOutputBits ...(322) CreateBitmapFromMemory ...(342) CreateStream ...(360) InitializeFromFilename ...(379) Initialize ...(396) Propbag ...(415) GetPixelFormat ...(433) SetPixelFormat ...(461) WriteSource ...(480)Frame Commit ...(499)Encode Commit ...(518)
+(Mon 1) DX11(537) : Each 60 at  file: 168.JPG- Zip CRC: 2622819e881bf2bcc82dd12fa6dfa34f3a4d9364caa37843723c91533a789ac0  
+ Dxgi ...(91) GetOutputBits 0...(115) GetOutputBits ...(334) CreateBitmapFromMemory ...(353) CreateStream ...(372) InitializeFromFilename ...(390) Initialize ...(408) Propbag ...(426) GetPixelFormat ...(446) SetPixelFormat ...(473) WriteSource ...(491)Frame Commit ...(509)Encode Commit ...(529)
+(Mon 1) DX11(548) : Each 60 at  file: 169.JPG- Zip CRC: 1b410e34d6b1e44b1159df0d209c711f2960a934e5ccd267a310331c9e92c215  
+ Dxgi ...(76) GetOutputBits 0...(100) GetOutputBits ...(319) CreateBitmapFromMemory ...(338) CreateStream ...(353) InitializeFromFilename ...(372) Initialize ...(390) Propbag ...(409) GetPixelFormat ...(427) SetPixelFormat ...(454) WriteSource ...(471)Frame Commit ...(489)Encode Commit ...(508)
+(Mon 1) DX11(526) : Each 60 at  file: 170.JPG- Zip CRC: 4c1f6b8fad4c19d6dd81aff799a09a66da8c989c178dd6e4c84fa688edf54d5a  
+Drive: XPG SPECTRIX S20G serial: 
+:53:05 for Call of Duty Vanguard on x64
+SHAS2: 4169efdf81b61fac802a5f1086ccf78c1ce8b66712378fe4102425624138f280 process: C:\Windows\System32\MusNotification.exe
+SHAS2: 0e780c139223b7a307789774de2eda31f533e6bb78044b81eea6e44429ce4fcf process: C:\Windows\System32\MusNotificationUx.exe
+SHAS2: 4169efdf81b61fac802a5f1086ccf78c1ce8b66712378fe4102425624138f280 process: C:\Windows\System32\MusNotification.exe
+SHAS2: 0e780c139223b7a307789774de2eda31f533e6bb78044b81eea6e44429ce4fcf process: C:\Windows\System32\MusNotificationUx.exe
+ Dxgi ...(77) GetOutputBits 0...(103) GetOutputBits ...(323) CreateBitmapFromMemory ...(343) CreateStream ...(360) InitializeFromFilename ...(379) Initialize ...(397) Propbag ...(416) GetPixelFormat ...(434) SetPixelFormat ...(462) WriteSource ...(481)Frame Commit ...(501)Encode Commit ...(520)
+(Mon 1) DX11(538) : Each 60 at  file: 171.JPG- Zip CRC: 0c46edc9b3a07c97c4452ab131bdd39cfc08d1df06d9aa38ac34dffbfaff75ea  
+SHAS2: 3dc39da6d98b60e6f6ab8d5f555ec2f8c318601fa8de7e6f97ab20a3c8f8f234 Author: Nvidia Corporation process: C:\Users\Utilisateur\AppData\Local\NVIDIA\NvBackend\ApplicationOntology\OAWrapper.exe
+SHAS2: de66a82ea4634b03a76ac11370c070d4a6aac1fa8d4ca907136beedcd279316a process: C:\Windows\System32\SearchProtocolHost.exe
+SHAS2: 3f09d87197a80251a55bf2d819bae9ab7b1791ac31e96413e0c06faa21a0a169 process: C:\Windows\System32\SearchFilterHost.exe
+SHAS2: 3f09d87197a80251a55bf2d819bae9ab7b1791ac31e96413e0c06faa21a0a169 process: C:\Windows\System32\SearchFilterHost.exe
+SHAS2: 3dc39da6d98b60e6f6ab8d5f555ec2f8c318601fa8de7e6f97ab20a3c8f8f234 Author: Nvidia Corporation process: C:\Users\Utilisateur\AppData\Local\NVIDIA\NvBackend\ApplicationOntology\OAWrapper.exe
+SHAS2: 3c1c6d813d2b031d988204155fc198fe4f32ff56c05dabbcfcd5486131f4fb9d process: C:\Windows\System32\conhost.exe
+ Dxgi ...(66) GetOutputBits 0...(84) GetOutputBits ...(301) CreateBitmapFromMemory ...(317) CreateStream ...(332) InitializeFromFilename ...(347) Initialize ...(363) Propbag ...(378) GetPixelFormat ...(393) SetPixelFormat ...(415) WriteSource ...(430)Frame Commit ...(445)Encode Commit ...(460)
+(Mon 1) DX11(476) : Each 60 at  file: 172.JPG- Zip CRC: cbe8eba6175bf6d24dab127f88c5b2be969632b7b65797ff56a2566d1079cd24  
+ Dxgi ...(60) GetOutputBits 0...(80) GetOutputBits ...(297) CreateBitmapFromMemory ...(314) CreateStream ...(329) InitializeFromFilename ...(344) Initialize ...(360) Propbag ...(375) GetPixelFormat ...(390) SetPixelFormat ...(412) WriteSource ...(428)Frame Commit ...(443)Encode Commit ...(459)
+(Mon 1) DX11(474) : Each 60 at  file: 173.JPG- Zip CRC: d1162928220ad496dc7be14342916632695dc443bd9c7563ba5e816fdc622f36  
+ Dxgi ...(74) GetOutputBits 0...(98) GetOutputBits ...(316) CreateBitmapFromMemory ...(333) CreateStream ...(347) InitializeFromFilename ...(362) Initialize ...(378) Propbag ...(392) GetPixelFormat ...(408) SetPixelFormat ...(432) WriteSource ...(447)Frame Commit ...(463)Encode Commit ...(479)
+(Mon 1) DX11(495) : Each 60 at  file: 174.JPG- Zip CRC: 2bc6e04d823862ece39387271e35ce17c6c7e090dd181abe048537a9dde6f6fe  
+ Dxgi ...(62) GetOutputBits 0...(82) GetOutputBits ...(299) CreateBitmapFromMemory ...(316) CreateStream ...(331) InitializeFromFilename ...(346) Initialize ...(363) Propbag ...(379) GetPixelFormat ...(394) SetPixelFormat ...(416) WriteSource ...(432)Frame Commit ...(447)Encode Commit ...(462)
+(Mon 1) DX11(478) : Each 60 at  file: 175.JPG- Zip CRC: 763e2fb094540443555195c3771f71afce408f12f6da9e5c021d98a271e1f11e  
+SHAS2: de66a82ea4634b03a76ac11370c070d4a6aac1fa8d4ca907136beedcd279316a process: C:\Windows\System32\SearchProtocolHost.exe
+SHAS2: 3f09d87197a80251a55bf2d819bae9ab7b1791ac31e96413e0c06faa21a0a169 process: C:\Windows\System32\SearchFilterHost.exe
+SHAS2: 3f09d87197a80251a55bf2d819bae9ab7b1791ac31e96413e0c06faa21a0a169 process: C:\Windows\System32\SearchFilterHost.exe
+ Dxgi ...(79) GetOutputBits 0...(102) GetOutputBits ...(321) CreateBitmapFromMemory ...(340) CreateStream ...(358) InitializeFromFilename ...(377) Initialize ...(395) Propbag ...(413) GetPixelFormat ...(431) SetPixelFormat ...(461) WriteSource ...(480)Frame Commit ...(499)Encode Commit ...(519)
+(Mon 1) DX11(536) : Each 60 at  file: 176.JPG- Zip CRC: 353035785c18960c6a275018fb98d3caece72f222b222f4203119445248144a1  
+ Dxgi ...(80) GetOutputBits 0...(103) GetOutputBits ...(322) CreateBitmapFromMemory ...(340) CreateStream ...(358) InitializeFromFilename ...(376) Initialize ...(395) Propbag ...(413) GetPixelFormat ...(432) SetPixelFormat ...(462) WriteSource ...(480)Frame Commit ...(499)Encode Commit ...(521)
+(Mon 1) DX11(539) : Each 60 at  file: 177.JPG- Zip CRC: 910a6a80f9b874f748b27ea9e0e5507c1d62e5c32e3370f4cd3b399d9d5e7028  
+ Dxgi ...(74) GetOutputBits 0...(102) GetOutputBits ...(321) CreateBitmapFromMemory ...(341) CreateStream ...(359) InitializeFromFilename ...(378) Initialize ...(395) Propbag ...(414) GetPixelFormat ...(433) SetPixelFormat ...(459) WriteSource ...(478)Frame Commit ...(497)Encode Commit ...(516)
+(Mon 1) DX11(533) : Each 60 at  file: 178.JPG- Zip CRC: 49862729098f450d2af9f3321023494e470d7274b6f4b71a36c8d3c994237e0d  
+SHAS2: 3dc39da6d98b60e6f6ab8d5f555ec2f8c318601fa8de7e6f97ab20a3c8f8f234 Author: Nvidia Corporation process: C:\Users\Utilisateur\AppData\Local\NVIDIA\NvBackend\ApplicationOntology\OAWrapper.exe
+SHAS2: 3c1c6d813d2b031d988204155fc198fe4f32ff56c05dabbcfcd5486131f4fb9d process: C:\Windows\System32\conhost.exe
+ Dxgi ...(74) GetOutputBits 0...(97) GetOutputBits ...(317) CreateBitmapFromMemory ...(337) CreateStream ...(355) InitializeFromFilename ...(375) Initialize ...(394) Propbag ...(413) GetPixelFormat ...(432) SetPixelFormat ...(460) WriteSource ...(478)Frame Commit ...(497)Encode Commit ...(516)
+(Mon 1) DX11(534) : Each 60 at  file: 179.JPG- Zip CRC: 5879c9f42c1518776ae95bfc4cf2eaec796df659cd3492bd38251a9b665aae28  
+SHAS2: 3dc39da6d98b60e6f6ab8d5f555ec2f8c318601fa8de7e6f97ab20a3c8f8f234 Author: Nvidia Corporation process: C:\Users\Utilisateur\AppData\Local\NVIDIA\NvBackend\ApplicationOntology\OAWrapper.exe
+ Dxgi ...(72) GetOutputBits 0...(97) GetOutputBits ...(317) CreateBitmapFromMemory ...(337) CreateStream ...(355) InitializeFromFilename ...(375) Initialize ...(393) Propbag ...(412) GetPixelFormat ...(429) SetPixelFormat ...(458) WriteSource ...(478)Frame Commit ...(497)Encode Commit ...(516)
+(Mon 1) DX11(533) : Each 60 at  file: 180.JPG- Zip CRC: 610f135e2b779d019da330258fc3337513738524399bb702db1e8f156a33be29  
+Drive: XPG SPECTRIX S20G serial: 
+:53:05 for Call of Duty Vanguard on x64
+ Dxgi ...(77) GetOutputBits 0...(100) GetOutputBits ...(319) CreateBitmapFromMemory ...(338) CreateStream ...(357) InitializeFromFilename ...(376) Initialize ...(394) Propbag ...(413) GetPixelFormat ...(430) SetPixelFormat ...(457) WriteSource ...(476)Frame Commit ...(494)Encode Commit ...(513)
+(Mon 1) DX11(531) : Each 60 at  file: 181.JPG- Zip CRC: 2f33d19589e05f0714c14fa031f7d94b5de435285b44b06b9b2d89d71efec7c8  
+ Dxgi ...(78) GetOutputBits 0...(102) GetOutputBits ...(322) CreateBitmapFromMemory ...(342) CreateStream ...(361) InitializeFromFilename ...(380) Initialize ...(398) Propbag ...(416) GetPixelFormat ...(435) SetPixelFormat ...(464) WriteSource ...(481)Frame Commit ...(501)Encode Commit ...(520)
+(Mon 1) DX11(541) : Each 60 at  file: 182.JPG- Zip CRC: 5aaac6d40e2f65c9dd71efcbed58f1b75e08abcf5cf3ffbf504e01b6b82989c7  
+ Dxgi ...(77) GetOutputBits 0...(100) GetOutputBits ...(320) CreateBitmapFromMemory ...(341) CreateStream ...(361) InitializeFromFilename ...(379) Initialize ...(398) Propbag ...(416) GetPixelFormat ...(435) SetPixelFormat ...(463) WriteSource ...(483)Frame Commit ...(501)Encode Commit ...(520)
+(Mon 1) DX11(538) : Each 60 at  file: 183.JPG- Zip CRC: 69a291327ffd93062d0eb4c62e18501b0766d907d58454a10f693a14ad90ae6c  
+ Dxgi ...(80) GetOutputBits 0...(104) GetOutputBits ...(323) CreateBitmapFromMemory ...(341) CreateStream ...(360) InitializeFromFilename ...(377) Initialize ...(395) Propbag ...(413) GetPixelFormat ...(430) SetPixelFormat ...(458) WriteSource ...(478)Frame Commit ...(496)Encode Commit ...(515)
+(Mon 1) DX11(533) : Each 60 at  file: 184.JPG- Zip CRC: 52dac6110cd5b462b6e2f9b7088e242c66eb8d2ea45f06c24e1689f4bd1fa6c2  
+SHAS2: 3dc39da6d98b60e6f6ab8d5f555ec2f8c318601fa8de7e6f97ab20a3c8f8f234 Author: Nvidia Corporation process: C:\Users\Utilisateur\AppData\Local\NVIDIA\NvBackend\ApplicationOntology\OAWrapper.exe
+SHAS2: 3dc39da6d98b60e6f6ab8d5f555ec2f8c318601fa8de7e6f97ab20a3c8f8f234 Author: Nvidia Corporation process: C:\Users\Utilisateur\AppData\Local\NVIDIA\NvBackend\ApplicationOntology\OAWrapper.exe
+SHAS2: 3c1c6d813d2b031d988204155fc198fe4f32ff56c05dabbcfcd5486131f4fb9d process: C:\Windows\System32\conhost.exe
+ Dxgi ...(77) GetOutputBits 0...(98) GetOutputBits ...(316) CreateBitmapFromMemory ...(337) CreateStream ...(356) InitializeFromFilename ...(374) Initialize ...(391) Propbag ...(410) GetPixelFormat ...(429) SetPixelFormat ...(455) WriteSource ...(474)Frame Commit ...(492)Encode Commit ...(511)
+(Mon 1) DX11(529) : Each 60 at  file: 185.JPG- Zip CRC: c680235b4481289cbfa574e449c2294f55248b4a07d6498d290c2984da931f94  
+ Dxgi ...(75) GetOutputBits 0...(98) GetOutputBits ...(321) CreateBitmapFromMemory ...(343) CreateStream ...(362) InitializeFromFilename ...(383) Initialize ...(402) Propbag ...(421) GetPixelFormat ...(440) SetPixelFormat ...(468) WriteSource ...(488)Frame Commit ...(507)Encode Commit ...(525)
+(Mon 1) DX11(543) : Each 60 at  file: 186.JPG- Zip CRC: 056bdd5160748eea1fdadad290579fce04a04773160063e1c2f2307120332b41  
+ Dxgi ...(77) GetOutputBits 0...(101) GetOutputBits ...(320) CreateBitmapFromMemory ...(340) CreateStream ...(359) InitializeFromFilename ...(378) Initialize ...(396) Propbag ...(414) GetPixelFormat ...(433) SetPixelFormat ...(460) WriteSource ...(479)Frame Commit ...(498)Encode Commit ...(517)
+(Mon 1) DX11(537) : Each 60 at  file: 187.JPG- Zip CRC: 4e3587c8e043e7a92a975009a4b2f89baa485fd3176b13c466540383bd903034  
+SHAS2: 3c1c6d813d2b031d988204155fc198fe4f32ff56c05dabbcfcd5486131f4fb9d process: C:\Windows\System32\conhost.exe
+ Dxgi ...(77) GetOutputBits 0...(101) GetOutputBits ...(320) CreateBitmapFromMemory ...(339) CreateStream ...(357) InitializeFromFilename ...(376) Initialize ...(393) Propbag ...(411) GetPixelFormat ...(432) SetPixelFormat ...(456) WriteSource ...(476)Frame Commit ...(494)Encode Commit ...(513)
+(Mon 1) DX11(531) : Each 60 at  file: 188.JPG- Zip CRC: 49d3352acc0d15e527d217ba75f6796df001be8af121e1536d7b75ae7e2daf65  
+ Dxgi ...(78) GetOutputBits 0...(102) GetOutputBits ...(321) CreateBitmapFromMemory ...(342) CreateStream ...(360) InitializeFromFilename ...(380) Initialize ...(398) Propbag ...(415) GetPixelFormat ...(433) SetPixelFormat ...(462) WriteSource ...(479)Frame Commit ...(497)Encode Commit ...(519)
+(Mon 1) DX11(537) : Each 60 at  file: 189.JPG- Zip CRC: f5e59db2f74861fda86edb4cf6f8434870c780c9590542c41288d6eaf32655b1  
+SHAS2: 3dc39da6d98b60e6f6ab8d5f555ec2f8c318601fa8de7e6f97ab20a3c8f8f234 Author: Nvidia Corporation process: C:\Users\Utilisateur\AppData\Local\NVIDIA\NvBackend\ApplicationOntology\OAWrapper.exe
+ Dxgi ...(79) GetOutputBits 0...(106) GetOutputBits ...(327) CreateBitmapFromMemory ...(346) CreateStream ...(365) InitializeFromFilename ...(384) Initialize ...(406) Propbag ...(428) GetPixelFormat ...(446) SetPixelFormat ...(475) WriteSource ...(493)Frame Commit ...(513)Encode Commit ...(533)
+(Mon 1) DX11(551) : Each 60 at  file: 190.JPG- Zip CRC: ff3589ecc5103377e18e8493397a061fe9fbe27b323aa1f1027a7b5e099cb753  
+Drive: XPG SPECTRIX S20G serial: 
+:53:05 for Call of Duty Vanguard on x64
+ Dxgi ...(86) GetOutputBits 0...(108) GetOutputBits ...(328) CreateBitmapFromMemory ...(347) CreateStream ...(366) InitializeFromFilename ...(386) Initialize ...(405) Propbag ...(423) GetPixelFormat ...(442) SetPixelFormat ...(467) WriteSource ...(486)Frame Commit ...(504)Encode Commit ...(524)
+(Mon 1) DX11(542) : Each 60 at  file: 191.JPG- Zip CRC: 33b5685e3efa2d4403e7ed427b99669f5218b33fcedbc7ec1ee534a3bfeaa442  
+ Dxgi ...(79) GetOutputBits 0...(105) GetOutputBits ...(323) CreateBitmapFromMemory ...(341) CreateStream ...(359) InitializeFromFilename ...(378) Initialize ...(397) Propbag ...(416) GetPixelFormat ...(434) SetPixelFormat ...(461) WriteSource ...(479)Frame Commit ...(497)Encode Commit ...(517)
+(Mon 1) DX11(536) : Each 60 at  file: 192.JPG- Zip CRC: 368a73ebaa45817c6ced550b5efc8e1bbe994d8f2d7d6b0c8e71ec142acd73f2  
+ Dxgi ...(77) GetOutputBits 0...(104) GetOutputBits ...(323) CreateBitmapFromMemory ...(342) CreateStream ...(359) InitializeFromFilename ...(379) Initialize ...(396) Propbag ...(416) GetPixelFormat ...(434) SetPixelFormat ...(466) WriteSource ...(484)Frame Commit ...(503)Encode Commit ...(522)
+(Mon 1) DX11(540) : Each 60 at  file: 193.JPG- Zip CRC: 0a0568a5cd01f42559af939dc0c949dfc57a714a5c72c518dcd5ef02d56565ab  
+SHAS2: de66a82ea4634b03a76ac11370c070d4a6aac1fa8d4ca907136beedcd279316a process: C:\Windows\System32\SearchProtocolHost.exe
+SHAS2: 3f09d87197a80251a55bf2d819bae9ab7b1791ac31e96413e0c06faa21a0a169 process: C:\Windows\System32\SearchFilterHost.exe
+SHAS2: 3f09d87197a80251a55bf2d819bae9ab7b1791ac31e96413e0c06faa21a0a169 process: C:\Windows\System32\SearchFilterHost.exe
+SHAS2: 3dc39da6d98b60e6f6ab8d5f555ec2f8c318601fa8de7e6f97ab20a3c8f8f234 Author: Nvidia Corporation process: C:\Users\Utilisateur\AppData\Local\NVIDIA\NvBackend\ApplicationOntology\OAWrapper.exe
+SHAS2: 3c1c6d813d2b031d988204155fc198fe4f32ff56c05dabbcfcd5486131f4fb9d process: C:\Windows\System32\conhost.exe
+ Dxgi ...(61) GetOutputBits 0...(81) GetOutputBits ...(297) CreateBitmapFromMemory ...(314) CreateStream ...(329) InitializeFromFilename ...(345) Initialize ...(360) Propbag ...(375) GetPixelFormat ...(390) SetPixelFormat ...(411) WriteSource ...(428)Frame Commit ...(444)Encode Commit ...(459)
+(Mon 1) DX11(475) : Each 60 at  file: 194.JPG- Zip CRC: 2f657fa634e4f1ea18607fdde5c1879eaf5b5ab5c1645615460288363d7f0e97  
+ Dxgi ...(61) GetOutputBits 0...(79) GetOutputBits ...(296) CreateBitmapFromMemory ...(313) CreateStream ...(328) InitializeFromFilename ...(344) Initialize ...(361) Propbag ...(377) GetPixelFormat ...(392) SetPixelFormat ...(415) WriteSource ...(431)Frame Commit ...(447)Encode Commit ...(463)
+(Mon 1) DX11(479) : Each 60 at  file: 195.JPG- Zip CRC: 1178346e451450029d1f401b7e9b40aeb5acef6e8406f7f19907a7526cd8b6ed  
+ Dxgi ...(60) GetOutputBits 0...(79) GetOutputBits ...(295) CreateBitmapFromMemory ...(312) CreateStream ...(326) InitializeFromFilename ...(342) Initialize ...(357) Propbag ...(372) GetPixelFormat ...(387) SetPixelFormat ...(409) WriteSource ...(425)Frame Commit ...(440)Encode Commit ...(456)
+(Mon 1) DX11(471) : Each 60 at  file: 196.JPG- Zip CRC: b5a236a79350a567d0e56a0eef2fe8f9d9a5907adb2580a80423a50539298012  
+ Dxgi ...(66) GetOutputBits 0...(85) GetOutputBits ...(302) CreateBitmapFromMemory ...(319) CreateStream ...(334) InitializeFromFilename ...(349) Initialize ...(365) Propbag ...(380) GetPixelFormat ...(395) SetPixelFormat ...(418) WriteSource ...(433)Frame Commit ...(449)Encode Commit ...(465)
+(Mon 1) DX11(480) : Each 60 at  file: 197.JPG- Zip CRC: 0592b8e08117a00ff0066635b907a5d861c354da23904994cbf2ef30b94999d5  
+ Dxgi ...(60) GetOutputBits 0...(80) GetOutputBits ...(297) CreateBitmapFromMemory ...(314) CreateStream ...(330) InitializeFromFilename ...(346) Initialize ...(362) Propbag ...(377) GetPixelFormat ...(392) SetPixelFormat ...(414) WriteSource ...(430)Frame Commit ...(447)Encode Commit ...(463)
+(Mon 1) DX11(478) : Each 60 at  file: 198.JPG- Zip CRC: 02cf1872398ae2d33527336b97d7100a3ef979e9c57dc9a9cff1e2e5958da873  
+SHAS2: 3dc39da6d98b60e6f6ab8d5f555ec2f8c318601fa8de7e6f97ab20a3c8f8f234 Author: Nvidia Corporation process: C:\Users\Utilisateur\AppData\Local\NVIDIA\NvBackend\ApplicationOntology\OAWrapper.exe
+SHAS2: 3c1c6d813d2b031d988204155fc198fe4f32ff56c05dabbcfcd5486131f4fb9d process: C:\Windows\System32\conhost.exe
+ Dxgi ...(66) GetOutputBits 0...(85) GetOutputBits ...(303) CreateBitmapFromMemory ...(320) CreateStream ...(336) InitializeFromFilename ...(351) Initialize ...(366) Propbag ...(382) GetPixelFormat ...(397) SetPixelFormat ...(418) WriteSource ...(434)Frame Commit ...(450)Encode Commit ...(466)
+(Mon 1) DX11(481) : Each 60 at  file: 199.JPG- Zip CRC: 1e9cdabe18ef47f34de0dba8ea8d8dc6e4e49ebf64f62c48df71a2a616331636  
+SHAS2: 3dc39da6d98b60e6f6ab8d5f555ec2f8c318601fa8de7e6f97ab20a3c8f8f234 Author: Nvidia Corporation process: C:\Users\Utilisateur\AppData\Local\NVIDIA\NvBackend\ApplicationOntology\OAWrapper.exe
+SHAS2: 3c1c6d813d2b031d988204155fc198fe4f32ff56c05dabbcfcd5486131f4fb9d process: C:\Windows\System32\conhost.exe
+ Dxgi ...(61) GetOutputBits 0...(81) GetOutputBits ...(297) CreateBitmapFromMemory ...(314) CreateStream ...(328) InitializeFromFilename ...(344) Initialize ...(359) Propbag ...(373) GetPixelFormat ...(388) SetPixelFormat ...(411) WriteSource ...(426)Frame Commit ...(441)Encode Commit ...(456)
+(Mon 1) DX11(471) : Each 60 at  file: 200.JPG- Zip CRC: fe349cb81b86ddc8b182309d2f19afc25b09ad191a6692515de8b7fd97253b2e  
+Drive: XPG SPECTRIX S20G serial: 
+:53:05 for Call of Duty Vanguard on x64
+ Dxgi ...(62) GetOutputBits 0...(82) GetOutputBits ...(299) CreateBitmapFromMemory ...(316) CreateStream ...(331) InitializeFromFilename ...(346) Initialize ...(362) Propbag ...(377) GetPixelFormat ...(393) SetPixelFormat ...(415) WriteSource ...(431)Frame Commit ...(446)Encode Commit ...(462)
+(Mon 1) DX11(477) : Each 60 at  file: 201.JPG- Zip CRC: 7057e74a118d8ba19af5a4047bcf73b79e7f8811f79ceea0b8ab4cbcf72b75ce  
+ Dxgi ...(64) GetOutputBits 0...(83) GetOutputBits ...(300) CreateBitmapFromMemory ...(317) CreateStream ...(332) InitializeFromFilename ...(347) Initialize ...(362) Propbag ...(377) GetPixelFormat ...(392) SetPixelFormat ...(415) WriteSource ...(430)Frame Commit ...(446)Encode Commit ...(462)
+(Mon 1) DX11(476) : Each 60 at  file: 202.JPG- Zip CRC: c942a59489d17e3af0c7a72cd0cf18ba65b62b4f9e9fd456543b6c19b785d19d  
+ Dxgi ...(60) GetOutputBits 0...(79) GetOutputBits ...(297) CreateBitmapFromMemory ...(315) CreateStream ...(330) InitializeFromFilename ...(346) Initialize ...(361) Propbag ...(376) GetPixelFormat ...(392) SetPixelFormat ...(414) WriteSource ...(431)Frame Commit ...(447)Encode Commit ...(463)
+(Mon 1) DX11(479) : Each 60 at  file: 203.JPG- Zip CRC: da484c401c4799b6f2e7760032b1aed6db9b0547841112b8b9c8b84c91d2ebf9  
+ Dxgi ...(60) GetOutputBits 0...(79) GetOutputBits ...(296) CreateBitmapFromMemory ...(313) CreateStream ...(329) InitializeFromFilename ...(344) Initialize ...(359) Propbag ...(374) GetPixelFormat ...(388) SetPixelFormat ...(411) WriteSource ...(426)Frame Commit ...(441)Encode Commit ...(456)
+(Mon 1) DX11(471) : Each 60 at  file: 204.JPG- Zip CRC: af8259b31ef5dbae354516ccaabc164f26b7bd04e56f7106d90123790b5dc356  
+ Dxgi ...(63) GetOutputBits 0...(83) GetOutputBits ...(300) CreateBitmapFromMemory ...(317) CreateStream ...(333) InitializeFromFilename ...(349) Initialize ...(365) Propbag ...(380) GetPixelFormat ...(396) SetPixelFormat ...(418) WriteSource ...(434)Frame Commit ...(450)Encode Commit ...(467)
+(Mon 1) DX11(485) : Each 60 at  file: 205.JPG- Zip CRC: c8c8fccefcbce3bc941151c756f9780869c7e7e89838a68b5f2f920b4c98f1ca  
+SHAS2: de66a82ea4634b03a76ac11370c070d4a6aac1fa8d4ca907136beedcd279316a process: C:\Windows\System32\SearchProtocolHost.exe
+SHAS2: 3f09d87197a80251a55bf2d819bae9ab7b1791ac31e96413e0c06faa21a0a169 process: C:\Windows\System32\SearchFilterHost.exe
+SHAS2: 3f09d87197a80251a55bf2d819bae9ab7b1791ac31e96413e0c06faa21a0a169 process: C:\Windows\System32\SearchFilterHost.exe
+ Dxgi ...(62) GetOutputBits 0...(81) GetOutputBits ...(297) CreateBitmapFromMemory ...(314) CreateStream ...(328) InitializeFromFilename ...(343) Initialize ...(359) Propbag ...(374) GetPixelFormat ...(388) SetPixelFormat ...(410) WriteSource ...(425)Frame Commit ...(440)Encode Commit ...(456)
+(Mon 1) DX11(472) : Each 60 at  file: 206.JPG- Zip CRC: 7b45b907725c6b161d37fb548108e03ef3e041fb5161da0008382685a960b714  
+ Dxgi ...(61) GetOutputBits 0...(80) GetOutputBits ...(297) CreateBitmapFromMemory ...(314) CreateStream ...(330) InitializeFromFilename ...(345) Initialize ...(361) Propbag ...(378) GetPixelFormat ...(392) SetPixelFormat ...(413) WriteSource ...(429)Frame Commit ...(445)Encode Commit ...(460)
+(Mon 1) DX11(475) : Each 60 at  file: 207.JPG- Zip CRC: 4b7b9b6d7abe5d4af7de5c7c9e145fb2ac77fe2e29a62b4f31871788714ad10a  
+SHAS2: 3dc39da6d98b60e6f6ab8d5f555ec2f8c318601fa8de7e6f97ab20a3c8f8f234 Author: Nvidia Corporation process: C:\Users\Utilisateur\AppData\Local\NVIDIA\NvBackend\ApplicationOntology\OAWrapper.exe
+SHAS2: 3c1c6d813d2b031d988204155fc198fe4f32ff56c05dabbcfcd5486131f4fb9d process: C:\Windows\System32\conhost.exe
+ Dxgi ...(61) GetOutputBits 0...(80) GetOutputBits ...(296) CreateBitmapFromMemory ...(313) CreateStream ...(328) InitializeFromFilename ...(344) Initialize ...(360) Propbag ...(376) GetPixelFormat ...(391) SetPixelFormat ...(412) WriteSource ...(427)Frame Commit ...(443)Encode Commit ...(458)
+(Mon 1) DX11(473) : Each 60 at  file: 208.JPG- Zip CRC: 4dd85c6dffe068a3dcdd1df4081c90fd863370e2b989c2117828ba09b21dce86  
+ Dxgi ...(61) GetOutputBits 0...(80) GetOutputBits ...(297) CreateBitmapFromMemory ...(314) CreateStream ...(330) InitializeFromFilename ...(345) Initialize ...(361) Propbag ...(376) GetPixelFormat ...(391) SetPixelFormat ...(414) WriteSource ...(430)Frame Commit ...(445)Encode Commit ...(461)
+(Mon 1) DX11(477) : Each 60 at  file: 209.JPG- Zip CRC: a69a064310036513cd3159179f88e915e9addae5f6aea52a2eed566df3b3e682  
+SHAS2: 3dc39da6d98b60e6f6ab8d5f555ec2f8c318601fa8de7e6f97ab20a3c8f8f234 Author: Nvidia Corporation process: C:\Users\Utilisateur\AppData\Local\NVIDIA\NvBackend\ApplicationOntology\OAWrapper.exe
+SHAS2: 3c1c6d813d2b031d988204155fc198fe4f32ff56c05dabbcfcd5486131f4fb9d process: C:\Windows\System32\conhost.exe
+SHAS2: de66a82ea4634b03a76ac11370c070d4a6aac1fa8d4ca907136beedcd279316a process: C:\Windows\System32\SearchProtocolHost.exe
+SHAS2: 3f09d87197a80251a55bf2d819bae9ab7b1791ac31e96413e0c06faa21a0a169 process: C:\Windows\System32\SearchFilterHost.exe
+SHAS2: 3f09d87197a80251a55bf2d819bae9ab7b1791ac31e96413e0c06faa21a0a169 process: C:\Windows\System32\SearchFilterHost.exe
+ Dxgi ...(82) GetOutputBits 0...(108) GetOutputBits ...(330) CreateBitmapFromMemory ...(350) CreateStream ...(370) InitializeFromFilename ...(388) Initialize ...(408) Propbag ...(427) GetPixelFormat ...(445) SetPixelFormat ...(473) WriteSource ...(491)Frame Commit ...(510)Encode Commit ...(528)
+(Mon 1) DX11(547) : Each 60 at  file: 210.JPG- Zip CRC: c9d2b8ea26e4cd1b18a4e9621a6a68c14ae33a5002c07b175412cd82e6e4c217  
+Drive: XPG SPECTRIX S20G serial: 
+:53:05 for Call of Duty Vanguard on x64
+SHAS2: 417ae8819a51a2066f655d4f7212f2bb1549d65272c7dcfcb8535c6c64af1abd process: C:\Program Files\WindowsApps\microsoft.windowscommunicationsapps_16005.14326.20970.0_x64__8wekyb3d8bbwe\HxTsr.exe
+ Dxgi ...(77) GetOutputBits 0...(101) GetOutputBits ...(321) CreateBitmapFromMemory ...(340) CreateStream ...(359) InitializeFromFilename ...(379) Initialize ...(399) Propbag ...(417) GetPixelFormat ...(437) SetPixelFormat ...(465) WriteSource ...(484)Frame Commit ...(502)Encode Commit ...(521)
+(Mon 1) DX11(540) : Each 60 at  file: 211.JPG- Zip CRC: 89ec50236b49426798f4d92c227811e3c65e2ebf2dcd19a1126f4af0cc43142f  
+ Dxgi ...(74) GetOutputBits 0...(96) GetOutputBits ...(315) CreateBitmapFromMemory ...(334) CreateStream ...(353) InitializeFromFilename ...(373) Initialize ...(390) Propbag ...(408) GetPixelFormat ...(427) SetPixelFormat ...(454) WriteSource ...(471)Frame Commit ...(489)Encode Commit ...(508)
+(Mon 1) DX11(526) : Each 60 at  file: 212.JPG- Zip CRC: 7fb0b9d8069ebcd11e18a3cfe6d51ac54619d4295f3d87a43ca475eba3ce4532  
+ Dxgi ...(75) GetOutputBits 0...(98) GetOutputBits ...(317) CreateBitmapFromMemory ...(337) CreateStream ...(355) InitializeFromFilename ...(375) Initialize ...(394) Propbag ...(413) GetPixelFormat ...(431) SetPixelFormat ...(459) WriteSource ...(478)Frame Commit ...(497)Encode Commit ...(517)
+(Mon 1) DX11(536) : Each 60 at  file: 213.JPG- Zip CRC: 5ae99acf8d89e9dc29adef2303842e145e45dbd68e2055a565ec7a0ce14136c6  
+ Dxgi ...(82) GetOutputBits 0...(106) GetOutputBits ...(325) CreateBitmapFromMemory ...(344) CreateStream ...(363) InitializeFromFilename ...(381) Initialize ...(402) Propbag ...(421) GetPixelFormat ...(439) SetPixelFormat ...(466) WriteSource ...(484)Frame Commit ...(502)Encode Commit ...(521)
+(Mon 1) DX11(539) : Each 60 at  file: 214.JPG- Zip CRC: ba7dffab54007d33d38de44b0fd82abd5d1372079816d2dc424d80b9ee108f98  
+SHAS2: 3dc39da6d98b60e6f6ab8d5f555ec2f8c318601fa8de7e6f97ab20a3c8f8f234 Author: Nvidia Corporation process: C:\Users\Utilisateur\AppData\Local\NVIDIA\NvBackend\ApplicationOntology\OAWrapper.exe
+SHAS2: 3c1c6d813d2b031d988204155fc198fe4f32ff56c05dabbcfcd5486131f4fb9d process: C:\Windows\System32\conhost.exe
+SHAS2: 3dc39da6d98b60e6f6ab8d5f555ec2f8c318601fa8de7e6f97ab20a3c8f8f234 Author: Nvidia Corporation process: C:\Users\Utilisateur\AppData\Local\NVIDIA\NvBackend\ApplicationOntology\OAWrapper.exe
+SHAS2: 3c1c6d813d2b031d988204155fc198fe4f32ff56c05dabbcfcd5486131f4fb9d process: C:\Windows\System32\conhost.exe
+ Dxgi ...(84) GetOutputBits 0...(109) GetOutputBits ...(328) CreateBitmapFromMemory ...(348) CreateStream ...(367) InitializeFromFilename ...(390) Initialize ...(408) Propbag ...(428) GetPixelFormat ...(447) SetPixelFormat ...(476) WriteSource ...(494)Frame Commit ...(513)Encode Commit ...(532)
+(Mon 1) DX11(551) : Each 60 at  file: 215.JPG- Zip CRC: a0f1a772ae698e2d4c4b1b3f38047a28d319d7aea096ce8bb835ab2cd7d08ba0  
+ Dxgi ...(77) GetOutputBits 0...(101) GetOutputBits ...(320) CreateBitmapFromMemory ...(340) CreateStream ...(359) InitializeFromFilename ...(377) Initialize ...(395) Propbag ...(414) GetPixelFormat ...(432) SetPixelFormat ...(459) WriteSource ...(478)Frame Commit ...(497)Encode Commit ...(515)
+(Mon 1) DX11(534) : Each 60 at  file: 216.JPG- Zip CRC: 9b76aa80fa6e5a0da7623a6ec155447dd08f753823de7645933f32e3edd68371  
+SHAS2: 3dc39da6d98b60e6f6ab8d5f555ec2f8c318601fa8de7e6f97ab20a3c8f8f234 Author: Nvidia Corporation process: C:\Users\Utilisateur\AppData\Local\NVIDIA\NvBackend\ApplicationOntology\OAWrapper.exe
+SHAS2: 3c1c6d813d2b031d988204155fc198fe4f32ff56c05dabbcfcd5486131f4fb9d process: C:\Windows\System32\conhost.exe
+ Dxgi ...(79) GetOutputBits 0...(103) GetOutputBits ...(324) CreateBitmapFromMemory ...(344) CreateStream ...(363) InitializeFromFilename ...(382) Initialize ...(400) Propbag ...(417) GetPixelFormat ...(435) SetPixelFormat ...(462) WriteSource ...(481)Frame Commit ...(499)Encode Commit ...(517)
+(Mon 1) DX11(535) : Each 60 at  file: 217.JPG- Zip CRC: da9a62d5167f09d3e99dad0895e8fa2b9d2bb3c655a0984c445554741351f7ec  
+ Dxgi ...(78) GetOutputBits 0...(100) GetOutputBits ...(319) CreateBitmapFromMemory ...(338) CreateStream ...(357) InitializeFromFilename ...(377) Initialize ...(396) Propbag ...(417) GetPixelFormat ...(436) SetPixelFormat ...(465) WriteSource ...(483)Frame Commit ...(504)Encode Commit ...(524)
+(Mon 1) DX11(543) : Each 60 at  file: 218.JPG- Zip CRC: d75d54d1af01e40428e768297cad5dbb16d089a30715f381148c15b2c2e3550d  
+ Dxgi ...(74) GetOutputBits 0...(99) GetOutputBits ...(318) CreateBitmapFromMemory ...(337) CreateStream ...(357) InitializeFromFilename ...(376) Initialize ...(396) Propbag ...(413) GetPixelFormat ...(432) SetPixelFormat ...(457) WriteSource ...(476)Frame Commit ...(495)Encode Commit ...(513)
+(Mon 1) DX11(532) : Each 60 at  file: 219.JPG- Zip CRC: 110ad9bcad63c1e1c4d9bbd61be0e3c35be136615d4a2dd2ae739e8ac43c2231  
+ Dxgi ...(102) GetOutputBits 0...(126) GetOutputBits ...(345) CreateBitmapFromMemory ...(365) CreateStream ...(384) InitializeFromFilename ...(403) Initialize ...(421) Propbag ...(439) GetPixelFormat ...(457) SetPixelFormat ...(482) WriteSource ...(502)Frame Commit ...(520)Encode Commit ...(539)
+(Mon 1) DX11(557) : Each 60 at  file: 220.JPG- Zip CRC: 40386b5ce12222b52b817358ffa5561810e33771731f300374ea8f11d65c1a75  
+Drive: XPG SPECTRIX S20G serial: 
+:53:05 for Call of Duty Vanguard on x64
+SHAS2: de66a82ea4634b03a76ac11370c070d4a6aac1fa8d4ca907136beedcd279316a process: C:\Windows\System32\SearchProtocolHost.exe
+SHAS2: de66a82ea4634b03a76ac11370c070d4a6aac1fa8d4ca907136beedcd279316a process: C:\Windows\System32\SearchProtocolHost.exe
+ Dxgi ...(61) GetOutputBits 0...(81) GetOutputBits ...(299) CreateBitmapFromMemory ...(317) CreateStream ...(332) InitializeFromFilename ...(348) Initialize ...(364) Propbag ...(379) GetPixelFormat ...(395) SetPixelFormat ...(419) WriteSource ...(435)Frame Commit ...(451)Encode Commit ...(467)
+(Mon 1) DX11(483) : Each 60 at  file: 221.JPG- Zip CRC: 61d2887210b16691b7961b0e8c6b9f3b5867c4141944d8804b1f5cee18bb42f5  
+ Dxgi ...(61) GetOutputBits 0...(82) GetOutputBits ...(298) CreateBitmapFromMemory ...(315) CreateStream ...(329) InitializeFromFilename ...(343) Initialize ...(357) Propbag ...(371) GetPixelFormat ...(386) SetPixelFormat ...(408) WriteSource ...(422)Frame Commit ...(436)Encode Commit ...(451)
+(Mon 1) DX11(465) : Each 60 at  file: 222.JPG- Zip CRC: 00373c3dbdc56beac9093f6e050392a3cbbdd5d9f460fd7dfccb9939968fde31  
+SHAS2: de66a82ea4634b03a76ac11370c070d4a6aac1fa8d4ca907136beedcd279316a process: C:\Windows\System32\SearchProtocolHost.exe
+SHAS2: 3f09d87197a80251a55bf2d819bae9ab7b1791ac31e96413e0c06faa21a0a169 process: C:\Windows\System32\SearchFilterHost.exe
+SHAS2: 3f09d87197a80251a55bf2d819bae9ab7b1791ac31e96413e0c06faa21a0a169 process: C:\Windows\System32\SearchFilterHost.exe
+ Dxgi ...(78) GetOutputBits 0...(102) GetOutputBits ...(320) CreateBitmapFromMemory ...(339) CreateStream ...(358) InitializeFromFilename ...(377) Initialize ...(396) Propbag ...(415) GetPixelFormat ...(433) SetPixelFormat ...(459) WriteSource ...(477)Frame Commit ...(496)Encode Commit ...(516)
+(Mon 1) DX11(533) : Each 60 at  file: 223.JPG- Zip CRC: 210aedb56b49207b1034eb4075549b608bbb9bf413f3a96dfa1c03590cb444f6  
+ Dxgi ...(75) GetOutputBits 0...(101) GetOutputBits ...(320) CreateBitmapFromMemory ...(341) CreateStream ...(360) InitializeFromFilename ...(380) Initialize ...(399) Propbag ...(417) GetPixelFormat ...(436) SetPixelFormat ...(464) WriteSource ...(481)Frame Commit ...(499)Encode Commit ...(517)
+(Mon 1) DX11(535) : Each 60 at  file: 224.JPG- Zip CRC: a839472399bea8a28f043dcdf4d209cedc6886807146866e0f6fef32fd2022ac  
+SHAS2: 3dc39da6d98b60e6f6ab8d5f555ec2f8c318601fa8de7e6f97ab20a3c8f8f234 Author: Nvidia Corporation process: C:\Users\Utilisateur\AppData\Local\NVIDIA\NvBackend\ApplicationOntology\OAWrapper.exe
+ Dxgi ...(78) GetOutputBits 0...(105) GetOutputBits ...(325) CreateBitmapFromMemory ...(344) CreateStream ...(362) InitializeFromFilename ...(380) Initialize ...(399) Propbag ...(417) GetPixelFormat ...(436) SetPixelFormat ...(462) WriteSource ...(480)Frame Commit ...(498)Encode Commit ...(517)
+(Mon 1) DX11(536) : Each 60 at  file: 225.JPG- Zip CRC: 2c88f6d945500159620b877ec0b904ca20428fd1c7208d3fbf171436a0f970ee  
+ Dxgi ...(77) GetOutputBits 0...(104) GetOutputBits ...(323) CreateBitmapFromMemory ...(343) CreateStream ...(361) InitializeFromFilename ...(379) Initialize ...(397) Propbag ...(416) GetPixelFormat ...(436) SetPixelFormat ...(464) WriteSource ...(483)Frame Commit ...(502)Encode Commit ...(523)
+(Mon 1) DX11(542) : Each 60 at  file: 226.JPG- Zip CRC: 11784bb5380f683d3dbf216415ad1cd4a14108f2ac6b392241e3a0f0b87715a8  
+ Dxgi ...(75) GetOutputBits 0...(98) GetOutputBits ...(318) CreateBitmapFromMemory ...(337) CreateStream ...(355) InitializeFromFilename ...(373) Initialize ...(390) Propbag ...(409) GetPixelFormat ...(428) SetPixelFormat ...(454) WriteSource ...(472)Frame Commit ...(491)Encode Commit ...(508)
+(Mon 1) DX11(526) : Each 60 at  file: 227.JPG- Zip CRC: 0046b87fc82356e35238a966e49b3491e733f7928be5ab6a692b4fe18110fa59  
+SHAS2: 3dc39da6d98b60e6f6ab8d5f555ec2f8c318601fa8de7e6f97ab20a3c8f8f234 Author: Nvidia Corporation process: C:\Users\Utilisateur\AppData\Local\NVIDIA\NvBackend\ApplicationOntology\OAWrapper.exe
+ Dxgi ...(74) GetOutputBits 0...(99) GetOutputBits ...(318) CreateBitmapFromMemory ...(336) CreateStream ...(355) InitializeFromFilename ...(373) Initialize ...(391) Propbag ...(408) GetPixelFormat ...(427) SetPixelFormat ...(453) WriteSource ...(473)Frame Commit ...(494)Encode Commit ...(513)
+(Mon 1) DX11(531) : Each 60 at  file: 228.JPG- Zip CRC: dedb62ff9fdc392f62df4f56e448423422ef57ca047be93658e20c377ad387a6  
+SHAS2: 3dc39da6d98b60e6f6ab8d5f555ec2f8c318601fa8de7e6f97ab20a3c8f8f234 Author: Nvidia Corporation process: C:\Users\Utilisateur\AppData\Local\NVIDIA\NvBackend\ApplicationOntology\OAWrapper.exe
+SHAS2: 3c1c6d813d2b031d988204155fc198fe4f32ff56c05dabbcfcd5486131f4fb9d process: C:\Windows\System32\conhost.exe
+ Dxgi ...(78) GetOutputBits 0...(99) GetOutputBits ...(317) CreateBitmapFromMemory ...(335) CreateStream ...(354) InitializeFromFilename ...(372) Initialize ...(390) Propbag ...(407) GetPixelFormat ...(424) SetPixelFormat ...(449) WriteSource ...(468)Frame Commit ...(486)Encode Commit ...(507)
+(Mon 1) DX11(525) : Each 60 at  file: 229.JPG- Zip CRC: f929b337bd318eacb2ef8801e1b8810fdca6184390930141bc920237af854150  
+ Dxgi ...(77) GetOutputBits 0...(101) GetOutputBits ...(321) CreateBitmapFromMemory ...(341) CreateStream ...(360) InitializeFromFilename ...(379) Initialize ...(397) Propbag ...(417) GetPixelFormat ...(433) SetPixelFormat ...(460) WriteSource ...(479)Frame Commit ...(496)Encode Commit ...(518)
+(Mon 1) DX11(539) : Each 60 at  file: 230.JPG- Zip CRC: 26a0abe70dd54b9cfe2313b20b7bb68014d9bbaec7287679e785a25de04e588a  
+Drive: XPG SPECTRIX S20G serial: 
+:53:05 for Call of Duty Vanguard on x64
+ Dxgi ...(86) GetOutputBits 0...(109) GetOutputBits ...(328) CreateBitmapFromMemory ...(347) CreateStream ...(365) InitializeFromFilename ...(385) Initialize ...(403) Propbag ...(420) GetPixelFormat ...(441) SetPixelFormat ...(469) WriteSource ...(486)Frame Commit ...(505)Encode Commit ...(525)
+(Mon 1) DX11(543) : Each 60 at  file: 231.JPG- Zip CRC: aa222e286e005d8d91df5d566da26fdd836fb3bf612a87811df9edf7b05dbfed  
+ Dxgi ...(77) GetOutputBits 0...(98) GetOutputBits ...(317) CreateBitmapFromMemory ...(336) CreateStream ...(354) InitializeFromFilename ...(372) Initialize ...(389) Propbag ...(406) GetPixelFormat ...(423) SetPixelFormat ...(448) WriteSource ...(465)Frame Commit ...(481)Encode Commit ...(497)
+(Mon 1) DX11(510) : Each 60 at  file: 232.JPG- Zip CRC: 848b96b23ced80d431d6b4ef5122ea98aadab6656e547011790559f2693ba461  
+ Dxgi ...(80) GetOutputBits 0...(103) GetOutputBits ...(321) CreateBitmapFromMemory ...(339) CreateStream ...(356) InitializeFromFilename ...(376) Initialize ...(396) Propbag ...(414) GetPixelFormat ...(431) SetPixelFormat ...(458) WriteSource ...(476)Frame Commit ...(495)Encode Commit ...(515)
+(Mon 1) DX11(533) : Each 60 at  file: 233.JPG- Zip CRC: 490e9a7ec6935c305d726b83995db5a3dfa246bc7165404a4c1f07fb4dda0f5c  
+ Dxgi ...(76) GetOutputBits 0...(101) GetOutputBits ...(320) CreateBitmapFromMemory ...(341) CreateStream ...(359) InitializeFromFilename ...(378) Initialize ...(396) Propbag ...(416) GetPixelFormat ...(433) SetPixelFormat ...(462) WriteSource ...(480)Frame Commit ...(498)Encode Commit ...(517)
+(Mon 1) DX11(537) : Each 60 at  file: 234.JPG- Zip CRC: 728a63b47e2199c550154454ac9443bf109be7f5ac86bfadb1a633360fbf908b  
+ Dxgi ...(80) GetOutputBits 0...(108) GetOutputBits ...(330) CreateBitmapFromMemory ...(349) CreateStream ...(369) InitializeFromFilename ...(388) Initialize ...(406) Propbag ...(424) GetPixelFormat ...(442) SetPixelFormat ...(467) WriteSource ...(486)Frame Commit ...(505)Encode Commit ...(526)
+(Mon 1) DX11(546) : Each 60 at  file: 235.JPG- Zip CRC: 04196cae2d46d2b9997bed1adc00a98d171b04e39a5fe7192e49ea02f30cf65d  
+SHAS2: 3c1c6d813d2b031d988204155fc198fe4f32ff56c05dabbcfcd5486131f4fb9d process: C:\Windows\System32\conhost.exe
+ Dxgi ...(77) GetOutputBits 0...(99) GetOutputBits ...(319) CreateBitmapFromMemory ...(338) CreateStream ...(356) InitializeFromFilename ...(375) Initialize ...(394) Propbag ...(414) GetPixelFormat ...(434) SetPixelFormat ...(462) WriteSource ...(482)Frame Commit ...(502)Encode Commit ...(523)
+(Mon 1) DX11(541) : Each 60 at  file: 236.JPG- Zip CRC: 8a60dc31d81d08fe9f8655a950546b55c0ce21c0ceb1ddf5ffe293e685493809  
+ Dxgi ...(80) GetOutputBits 0...(104) GetOutputBits ...(323) CreateBitmapFromMemory ...(344) CreateStream ...(362) InitializeFromFilename ...(381) Initialize ...(400) Propbag ...(419) GetPixelFormat ...(438) SetPixelFormat ...(464) WriteSource ...(482)Frame Commit ...(501)Encode Commit ...(520)
+(Mon 1) DX11(538) : Each 60 at  file: 237.JPG- Zip CRC: cdab1ff4e14d0b035ac2202891e6835421f1573746ff25e6a4db8f89b393904e  
+ Dxgi ...(72) GetOutputBits 0...(96) GetOutputBits ...(315) CreateBitmapFromMemory ...(334) CreateStream ...(352) InitializeFromFilename ...(370) Initialize ...(388) Propbag ...(405) GetPixelFormat ...(423) SetPixelFormat ...(449) WriteSource ...(468)Frame Commit ...(486)Encode Commit ...(506)
+(Mon 1) DX11(522) : Each 60 at  file: 238.JPG- Zip CRC: 7465c61b4335bc9b0213702f8de4c7611f2e87283c75abaedd8d365d5a87ea1c  
+ Dxgi ...(75) GetOutputBits 0...(102) GetOutputBits ...(322) CreateBitmapFromMemory ...(343) CreateStream ...(361) InitializeFromFilename ...(380) Initialize ...(398) Propbag ...(416) GetPixelFormat ...(433) SetPixelFormat ...(462) WriteSource ...(480)Frame Commit ...(498)Encode Commit ...(516)
+(Mon 1) DX11(534) : Each 60 at  file: 239.JPG- Zip CRC: eec90deec9edef7f3f0dac2d37eb9e5e4fb0560cac47eb485476cdd62934ccd2  
+ Dxgi ...(78) GetOutputBits 0...(101) GetOutputBits ...(322) CreateBitmapFromMemory ...(341) CreateStream ...(360) InitializeFromFilename ...(378) Initialize ...(395) Propbag ...(413) GetPixelFormat ...(431) SetPixelFormat ...(457) WriteSource ...(475)Frame Commit ...(493)Encode Commit ...(511)
+(Mon 1) DX11(527) : Each 60 at  file: 240.JPG- Zip CRC: e4b46c430b539c4016d947f2b8cf499ac834109b24582435a183119568f7f3b7  
+Drive: XPG SPECTRIX S20G serial: 
+:53:05 for Call of Duty Vanguard on x64
+ Dxgi ...(89) GetOutputBits 0...(117) GetOutputBits ...(338) CreateBitmapFromMemory ...(360) CreateStream ...(378) InitializeFromFilename ...(397) Initialize ...(415) Propbag ...(433) GetPixelFormat ...(450) SetPixelFormat ...(478) WriteSource ...(496)Frame Commit ...(516)Encode Commit ...(534)
+(Mon 1) DX11(552) : Each 60 at  file: 241.JPG- Zip CRC: 243ac266ddb7b4d66597db8e45be012e7d254299430c0abdc78139969c71bbe0  
+ Dxgi ...(81) GetOutputBits 0...(104) GetOutputBits ...(324) CreateBitmapFromMemory ...(346) CreateStream ...(368) InitializeFromFilename ...(388) Initialize ...(408) Propbag ...(428) GetPixelFormat ...(450) SetPixelFormat ...(480) WriteSource ...(501)Frame Commit ...(522)Encode Commit ...(544)
+(Mon 1) DX11(565) : Each 60 at  file: 242.JPG- Zip CRC: 79209ee6104d8c92dfbde004bc1159ae547456dbfea1afc4ac215f142b11fad7  
+SHAS2: 3dc39da6d98b60e6f6ab8d5f555ec2f8c318601fa8de7e6f97ab20a3c8f8f234 Author: Nvidia Corporation process: C:\Users\Utilisateur\AppData\Local\NVIDIA\NvBackend\ApplicationOntology\OAWrapper.exe
+SHAS2: 3c1c6d813d2b031d988204155fc198fe4f32ff56c05dabbcfcd5486131f4fb9d process: C:\Windows\System32\conhost.exe
+ Dxgi ...(93) GetOutputBits 0...(117) GetOutputBits ...(337) CreateBitmapFromMemory ...(357) CreateStream ...(374) InitializeFromFilename ...(393) Initialize ...(411) Propbag ...(429) GetPixelFormat ...(448) SetPixelFormat ...(476) WriteSource ...(494)Frame Commit ...(513)Encode Commit ...(532)
+(Mon 1) DX11(551) : Each 60 at  file: 243.JPG- Zip CRC: 64bff2ccde54cba35e108cdc505adcb8acc4c869e4a7195596d0b0aead37f208  
+ Dxgi ...(77) GetOutputBits 0...(101) GetOutputBits ...(320) CreateBitmapFromMemory ...(338) CreateStream ...(357) InitializeFromFilename ...(375) Initialize ...(393) Propbag ...(410) GetPixelFormat ...(428) SetPixelFormat ...(455) WriteSource ...(473)Frame Commit ...(490)Encode Commit ...(509)
+(Mon 1) DX11(527) : Each 60 at  file: 244.JPG- Zip CRC: c477eb8efc29486ff14ef9de415052a88ad1578856180d530ab3473eb0dd00ea  
+SHAS2: 3dc39da6d98b60e6f6ab8d5f555ec2f8c318601fa8de7e6f97ab20a3c8f8f234 Author: Nvidia Corporation process: C:\Users\Utilisateur\AppData\Local\NVIDIA\NvBackend\ApplicationOntology\OAWrapper.exe
+SHAS2: 3c1c6d813d2b031d988204155fc198fe4f32ff56c05dabbcfcd5486131f4fb9d process: C:\Windows\System32\conhost.exe
+ Dxgi ...(83) GetOutputBits 0...(103) GetOutputBits ...(322) CreateBitmapFromMemory ...(341) CreateStream ...(359) InitializeFromFilename ...(377) Initialize ...(395) Propbag ...(414) GetPixelFormat ...(431) SetPixelFormat ...(457) WriteSource ...(475)Frame Commit ...(492)Encode Commit ...(510)
+(Mon 1) DX11(527) : Each 60 at  file: 245.JPG- Zip CRC: 9ccde912363459611b36c4fdf2b97c1d2f443a362d0696524bf1799902f5f1d5  
+SHAS2: de66a82ea4634b03a76ac11370c070d4a6aac1fa8d4ca907136beedcd279316a process: C:\Windows\System32\SearchProtocolHost.exe
+SHAS2: 3f09d87197a80251a55bf2d819bae9ab7b1791ac31e96413e0c06faa21a0a169 process: C:\Windows\System32\SearchFilterHost.exe
+SHAS2: 3f09d87197a80251a55bf2d819bae9ab7b1791ac31e96413e0c06faa21a0a169 process: C:\Windows\System32\SearchFilterHost.exe
+ Dxgi ...(61) GetOutputBits 0...(80) GetOutputBits ...(297) CreateBitmapFromMemory ...(314) CreateStream ...(330) InitializeFromFilename ...(345) Initialize ...(360) Propbag ...(376) GetPixelFormat ...(391) SetPixelFormat ...(414) WriteSource ...(429)Frame Commit ...(445)Encode Commit ...(461)
+(Mon 1) DX11(477) : Each 60 at  file: 246.JPG- Zip CRC: 2a7ba2ca7c281975db35a18dd41587c1f47fee822e36b95582306d3016ffaff3  
+ Dxgi ...(65) GetOutputBits 0...(84) GetOutputBits ...(300) CreateBitmapFromMemory ...(317) CreateStream ...(332) InitializeFromFilename ...(347) Initialize ...(363) Propbag ...(378) GetPixelFormat ...(393) SetPixelFormat ...(415) WriteSource ...(430)Frame Commit ...(446)Encode Commit ...(462)
+(Mon 1) DX11(477) : Each 60 at  file: 247.JPG- Zip CRC: 4864d3161db4791121fb26ae086276fa355bb755e176379ad776648c2f400f8f  
+ Dxgi ...(58) GetOutputBits 0...(76) GetOutputBits ...(291) CreateBitmapFromMemory ...(306) CreateStream ...(320) InitializeFromFilename ...(334) Initialize ...(348) Propbag ...(361) GetPixelFormat ...(375) SetPixelFormat ...(395) WriteSource ...(409)Frame Commit ...(423)Encode Commit ...(437)
+(Mon 1) DX11(451) : Each 60 at  file: 248.JPG- Zip CRC: 7cb24700e87d12aa924bbc30c5de7fbb4b8e9abb432e841048f3a03bbcf418f0  
+
+Monitor stoppped at ping:133
+ping:113ms
+
+Processes statistics  ping:113
+PID	Running Time	Kernel Time	User Time	Name
+904	12:04:48:35 	00:00:39 	00:00:34 	lsass.exe
+1028	12:04:48:35 	00:00:00 	00:00:00 	fontdrvhost.exe
+1076	12:04:48:35 	00:00:00 	00:00:00 	WUDFHost.exe
+2572	12:04:48:34 	00:00:00 	00:00:00 	dashost.exe
+4036	12:04:48:34 	00:00:00 	00:00:00 	spoolsv.exe
+4124	12:04:48:34 	00:22:52 	00:06:54 	wmiprvse.exe
+4308	12:04:48:34 	00:00:00 	00:00:00 	WLANExt.exe
+4456	12:04:48:34 	00:00:00 	00:00:00 	conhost.exe
+4488	12:04:48:34 	00:00:00 	00:00:00 	AnyDesk.exe
+4520	12:04:48:34 	00:00:00 	00:00:00 	RtkAudUService64.exe
+4648	12:04:48:34 	00:00:03 	00:00:09 	OriginWebHelperService.exe
+4752	12:04:43:04 	00:00:05 	00:00:03 	NVDisplay.Container.exe
+4564	12:04:43:02 	00:00:07 	00:00:07 	nvcontainer.exe
+13612	12:02:18:28 	00:00:21 	00:00:20 	mousocoreworker.exe
+15956	10:05:32:18 	00:00:15 	00:00:27 	SearchIndexer.exe
+7380	10:05:32:18 	00:00:00 	00:00:00 	armsvc.exe
+15228	08:06:28:31 	00:00:00 	00:00:00 	service.exe
+12540	02:08:04:17 	00:00:00 	00:00:01 	lghub_updater.exe
+18816	00:11:18:05 	00:00:00 	00:00:00 	WinLogon.exe
+20636	00:11:18:05 	00:00:00 	00:00:00 	fontdrvhost.exe
+12692	00:11:18:05 	00:10:49 	00:23:37 	dwm.exe
+18448	00:11:18:02 	00:00:01 	00:00:02 	NVDisplay.Container.exe
+17800	00:08:57:22 	00:00:00 	00:00:00 	nvcontainer.exe
+10740	00:08:57:22 	00:00:01 	00:00:01 	sihost.exe
+6184	00:08:57:22 	00:00:14 	00:00:56 	nvcontainer.exe
+14748	00:08:57:22 	00:00:00 	00:00:00 	taskhostw.exe
+6512	00:08:57:21 	00:00:28 	00:00:16 	Explorer.EXE
+5600	00:08:57:21 	00:00:01 	00:00:01 	NVIDIA Web Helper.exe
+7272	00:08:57:21 	00:00:00 	00:00:00 	conhost.exe
+11256	00:08:57:21 	00:00:00 	00:00:00 	taskhostw.exe
+6548	00:08:57:19 	00:00:01 	00:00:02 	StartMenuExperienceHost.exe
+16352	00:08:57:19 	00:00:02 	00:00:01 	ctfmon.exe
+19772	00:08:57:19 	00:00:00 	00:00:00 	RuntimeBroker.exe
+15668	00:08:57:18 	00:00:03 	00:00:12 	SearchApp.exe
+12192	00:08:57:18 	00:00:01 	00:00:01 	RuntimeBroker.exe
+9780	00:08:57:17 	00:00:00 	00:00:00 	nvsphelper64.exe
+22744	00:08:57:17 	00:00:04 	00:00:02 	NVIDIA Share.exe
+14592	00:08:57:17 	00:00:00 	00:00:00 	NVIDIA Share.exe
+1876	00:08:57:17 	00:00:00 	00:00:02 	NVIDIA Share.exe
+18112	00:08:57:17 	00:00:01 	00:00:00 	PhoneExperienceHost.exe
+24868	00:08:57:16 	00:00:00 	00:00:00 	RuntimeBroker.exe
+7216	00:08:57:09 	00:00:01 	00:00:00 	RuntimeBroker.exe
+19988	00:08:57:07 	00:00:00 	00:00:00 	SecurityHealthSystray.exe
+2260	00:08:57:07 	00:00:00 	00:00:00 	RtkAudUService64.exe
+9152	00:08:57:06 	00:00:17 	00:00:09 	Discord.exe
+11592	00:08:57:06 	00:00:00 	00:00:00 	Discord.exe
+3512	00:08:57:06 	00:00:18 	00:02:00 	Discord.exe
+6372	00:08:57:06 	00:00:02 	00:00:05 	Discord.exe
+12508	00:08:57:05 	00:00:12 	00:00:37 	Agent.exe
+7332	00:08:57:05 	00:00:00 	00:00:00 	conhost.exe
+8460	00:08:57:05 	00:03:29 	00:07:33 	Discord.exe
+16216	00:08:57:03 	00:00:00 	00:00:00 	Discord.exe
+11596	00:08:57:03 	00:00:00 	00:00:00 	lghub.exe
+1780	00:08:57:03 	00:00:07 	00:00:08 	lghub_agent.exe
+18224	00:08:57:03 	00:00:00 	00:00:00 	lghub.exe
+19244	00:08:57:03 	00:00:00 	00:00:00 	lghub.exe
+17560	00:08:57:02 	00:01:02 	00:00:12 	NZXT CAM.exe
+7096	00:08:57:02 	00:00:00 	00:00:00 	unsecapp.exe
+12340	00:08:57:01 	00:00:00 	00:00:00 	NZXT CAM.exe
+436	00:08:57:01 	00:00:00 	00:00:00 	NZXT CAM.exe
+8048	00:08:57:01 	00:00:00 	00:00:00 	NZXT CAM.exe
+22512	00:08:57:01 	00:03:29 	00:09:10 	steam.exe
+24568	00:08:57:00 	00:01:20 	00:22:48 	NZXT CAM.exe
+13492	00:08:57:00 	00:00:00 	00:00:00 	cam_helper.exe
+14288	00:08:57:00 	00:00:00 	00:00:00 	conhost.exe
+10860	00:08:57:00 	00:00:00 	00:00:00 	cam_helper.exe
+7492	00:08:57:00 	00:17:32 	00:00:48 	cam_helper.exe
+26296	00:08:56:59 	00:00:53 	00:00:07 	steamwebhelper.exe
+8976	00:08:56:59 	00:00:00 	00:00:00 	steamservice.exe
+5948	00:08:56:59 	00:00:00 	00:00:00 	steamwebhelper.exe
+12904	00:08:56:59 	00:00:00 	00:00:00 	steamwebhelper.exe
+2312	00:08:56:59 	00:00:00 	00:00:00 	steamwebhelper.exe
+2860	00:08:56:57 	00:00:00 	00:00:00 	AnyDesk.exe
+18124	00:08:56:45 	00:00:00 	00:00:00 	steamwebhelper.exe
+24492	00:08:56:45 	00:00:00 	00:00:00 	steamwebhelper.exe
+13452	00:08:56:45 	00:00:00 	00:00:02 	steamwebhelper.exe
+9568	00:08:54:49 	00:00:00 	00:00:00 	ShellExperienceHost.exe
+5220	00:08:54:49 	00:00:00 	00:00:00 	RuntimeBroker.exe
+16812	00:08:54:29 	00:00:00 	00:00:00 	TextInputHost.exe
+25804	00:08:54:29 	00:00:00 	00:00:00 	DllHost.exe
+14212	00:08:47:17 	00:00:00 	00:00:00 	UserOOBEBroker.exe
+8248	00:08:42:10 	00:00:00 	00:00:00 	SystemSettings.exe
+12792	00:08:42:10 	00:00:00 	00:00:00 	ApplicationFrameHost.exe
+5732	00:08:33:33 	00:00:10 	00:00:46 	Battle.net.exe
+18668	00:08:33:32 	00:00:07 	00:00:31 	Battle.net.exe
+17956	00:08:33:31 	00:00:01 	00:00:02 	Battle.net.exe
+4276	00:07:46:08 	00:00:02 	00:00:35 	Battle.net.exe
+26316	00:07:46:07 	00:00:00 	00:00:08 	Battle.net.exe
+25852	00:07:46:05 	00:00:00 	00:00:01 	Battle.net.exe
+3048	00:07:39:21 	00:09:11 	00:03:06 	AUDIODG.EXE
+25252	00:04:46:09 	00:00:00 	00:00:00 	Video.UI.exe
+17980	00:04:46:09 	00:00:00 	00:00:00 	RuntimeBroker.exe
+12200	00:04:33:11 	00:00:00 	00:00:00 	msedge.exe
+13800	00:04:33:11 	00:00:00 	00:00:00 	msedge.exe
+10168	00:04:33:10 	00:00:00 	00:00:00 	msedge.exe
+21464	00:04:33:10 	00:00:00 	00:00:00 	msedge.exe
+23396	00:04:33:10 	00:00:00 	00:00:00 	msedge.exe
+24372	00:04:32:10 	00:02:11 	00:00:17 	MossX64.exe
+ 7682 keystroke, 98 Patterns found
+
+ sequence [SPACE] [RIGHT CLICK] : interval distribution
+    ^  201 events
+ 20 |         X                                                                                                                                  
+ 18 |         X     X                                                                                                                            
+ 16 |         X  X  X  X     X                                                                                                                   
+ 14 |   X  X  X  X  X  X     X                                                                                                                   
+ 12 |   X  X  X  X  X  X     X                                                                                                                   
+ 10 |   X  X  X  X  X  X     X                                                                                                                   
+  8 |   X  X  X  X  X  X  X  X                                                                                                                   
+  6 |   X  X  X  X  X  X  X  X  X                                                                                                                
+  4 |   X  X  X  X  X  X  X  X  X            X                                                                                                   
+  2 |   X  XXXXX X  XX XX XX XX XX X  XX X  XX   X           X   X     X                                                                         
+  --+ -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- > 140 ms
+    0    5    10   15   20   25   30   35   40   45   50   55   60   65   70   75   80   85   90   95   100  105  110  115  120  125  130  135
+
+ sequence [RIGHT CLICK] [D] : interval distribution
+    ^  105 events
+ 12 |      X                                                                                                                                     
+ 10 |      X                                                                                                                                     
+  9 |      X                                                                                                                                     
+  8 |      X  X        X  X                                                                                                                      
+  7 |   X  X  X  X     X  X                                                                                                                      
+  6 |   X  X  X  X  X  X  X                                                                                                                      
+  4 |   X  X  X  X  X  X  X  X  X     X                                                                                                          
+  3 |   X  X  X  X  X  X  X  X  X  X  X                                      X                                                                   
+  2 |   XX XX X  X  X  X  X  X  X  X  X  X        X  X      X                X                                                                   
+  1 |   XX XX X  X  X  X  XX X  XX X  X  X XXX    X  X     XX          X     X     X  XX       XX    X     X  X          X                       
+  --+ -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- > 140 ms
+    0    5    10   15   20   25   30   35   40   45   50   55   60   65   70   75   80   85   90   95   100  105  110  115  120  125  130  135
+
+ sequence [Q] [RIGHT CLICK] : interval distribution
+    ^  118 events
+  8 |                     X                                                                                                                      
+  7 |      X              X                                                                                                                      
+  6 |      X        X     X                                                                                                                      
+  5 |   X  X        X     X                                      X                                                                               
+  4 |   X  X        X     X                       X              X                                                                               
+  4 |   X  X        X     X                       X              X                                                                               
+  3 |   X  X  X  X  X  X  X                       X              X                    X        X              X                                  
+  2 |   X  X  X  X  X  X  X     X  X  X     X   X X     X  X     X     X        X   X X  X  X  X     X        X                             X    
+  1 |   X  X  XX X  X  XX XX XX X  X  X  X  X  XX XXXXX X  X  XX X     XX X  XX X  XX X  X  X  X   X X  X  X XX X XXXX X  X   X X   X X XX  X  X 
+  0 |   X  X  XX X  X  XX XX XX X  X  X  X  X  XX XXXXX X  X  XX X     XX X  XX X  XX X  X  X  X   X X  X  X XX X XXXX X  X   X X   X X XX  X  X 
+  --+ -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- > 140 ms
+    0    5    10   15   20   25   30   35   40   45   50   55   60   65   70   75   80   85   90   95   100  105  110  115  120  125  130  135
+
+ sequence [RIGHT CLICK] [SPACE] : interval distribution
+    ^  54 events
+ 14 |      X                                                                                                                                     
+ 12 |   X  X                                                                                                                                     
+ 11 |   X  X                                                                                                                                     
+  9 |   X  X                                                                                                                                     
+  8 |   X  X                                                                                                                                     
+  7 |   X  X                                                                                                                                     
+  5 |   X  X  X  X  X                                                                                                                            
+  4 |   X  X  X  X  X                                                                                                                            
+  2 |   XX XX X  X  X  X                                                                                                                         
+  1 |   XXXXX X  XX X  XX    X                                                                                                                   
+  --+ -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- > 140 ms
+    0    5    10   15   20   25   30   35   40   45   50   55   60   65   70   75   80   85   90   95   100  105  110  115  120  125  130  135
+
+ sequence [SPACE] [Q] : interval distribution
+    ^  91 events
+  9 |                                       X                                                                                                    
+  8 |                           X           X                                                                                                    
+  7 |                           X           X                                                                                                    
+  6 |            X              X           X                                                                                                    
+  5 |            X              X           X                                                                                                    
+  4 |         X  X  X  X  X     X  X  X     X                                                                                                    
+  3 |         X  X  X  X  X     X  X  X     X  X                                                                                                 
+  2 |      X XXX X  X  X  X  X  X  X  X     XX XX    X        X  X     X                                                                         
+  1 |   X  X XXX XX XX X  XX XX XX XX XX X  XX XX X  X     X  X  X  X  X  X   X       X      X                 X    X  X           X             
+  0 |   X  X XXX XX XX X  XX XX XX XX XX X  XX XX X  X     X  X  X  X  X  X   X       X      X                 X    X  X           X             
+  --+ -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- > 140 ms
+    0    5    10   15   20   25   30   35   40   45   50   55   60   65   70   75   80   85   90   95   100  105  110  115  120  125  130  135
+
+ sequence [D] [RIGHT CLICK] : interval distribution
+    ^  139 events
+ 10 |   X                                                                                                                                        
+  9 |   X                                                                                                                                        
+  8 |   X                                                                                                                                        
+  7 |   X                                                                                                                                        
+  6 |   X  X     X                                                                                                                               
+  5 |   X  X  X  X     X                             X                       X                                            X                      
+  4 |   X  X  X  X     X     X                       X                       X  X  X  X                                   X                      
+  3 |   X  X  X  X     X  X  X     X           X     X           X   X       X  X  X  X           X                 X     X                      
+  2 |   X  X  X  X  X  X  X  X  X  X     X     X  X  X     X     X   X       XX X  X  X  X        X      X X  X  X  X     X                      
+  1 |   X  X  XX XX XX X  X  XX XX X   X XX X  X  XX X   X X  XX X  XX    X  XXXX  X  XXXX   X    X   X XX XX X  X  X  X  XXXXX  X X   X XX    X 
+  --+ -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- > 140 ms
+    0    5    10   15   20   25   30   35   40   45   50   55   60   65   70   75   80   85   90   95   100  105  110  115  120  125  130  135
+
+ sequence [SPACE] [D] : interval distribution
+    ^  91 events
+  9 |                        X                                                                                                                   
+  8 |                        X                                                                                                                   
+  7 |         X              X                                                                                                                   
+  6 |      X  X  X           X                                                                                                                   
+  5 |      X  X  X           X        X                                                                                                          
+  4 |   X  X  X  X  X     X  X  X     X              X                                                                                           
+  3 |   X  X  X  X  X     X  X  X     X     X        X                                                                                           
+  2 |   X  X  X  X  X     X  X  X  X  XX    X     X  X                       X                                   X                               
+  1 |   X  X  X  X  XX XX X  X  XXXX  XX   XX  X  XX X  X  XX     XXX  XX    X  X  X     X            X      X   X      XX   X                   
+  0 |   X  X  X  X  XX XX X  X  XXXX  XX   XX  X  XX X  X  XX     XXX  XX    X  X  X     X            X      X   X      XX   X                   
+  --+ -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- > 140 ms
+    0    5    10   15   20   25   30   35   40   45   50   55   60   65   70   75   80   85   90   95   100  105  110  115  120  125  130  135
+
+ sequence [RIGHT CLICK] [Q] : interval distribution
+    ^  134 events
+ 12 |      X     X                                                                                                                               
+ 10 |   X  X     X        X                                                                                                                      
+  9 |   X  X     X        X                                                                                                                      
+  8 |   X  X     X        X  X                                                                                                                   
+  7 |   X  X     X     X  X  X                                                                                                                   
+  6 |   X  X     X     X  X  X                                                                                                                   
+  4 |   X  X     X  X  X  XX X  X     X                                                                                                          
+  3 |   XX X     X  X  XX XX X  XX X  X  X                                                                                                       
+  2 |   XX XX X  XX XX XX XX X  XX X  X  X  X        XX    X           X                                                                         
+  1 |   XX XX XX XX XX XXXXX XXXXX X  X  XX X    X   XX  X XX X  XX XX X  X  XX  X     X X                   X         XX       X  X             
+  --+ -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- > 140 ms
+    0    5    10   15   20   25   30   35   40   45   50   55   60   65   70   75   80   85   90   95   100  105  110  115  120  125  130  135
+
+ sequence [LEFT CLICK] [Q] : interval distribution
+    ^  69 events
+  3 |                                                                              X                                                             
+  2 |      X  X        X  X  X           X     X     X                       X     X                          X           X        X             
+  2 |      X  X        X  X  X           X     X     X                       X     X                          X           X        X             
+  2 |      X  X        X  X  X           X     X     X                       X     X                          X           X        X             
+  1 |   X  XX X  X     X  X  X  XX X     X  X  X  X  X     X  XX  XXXX X  XX X  X  X  XX XXXXX XX X     XX    X  X  XX    XX       X      X XXXXX
+  1 |   X  XX X  X     X  X  X  XX X     X  X  X  X  X     X  XX  XXXX X  XX X  X  X  XX XXXXX XX X     XX    X  X  XX    XX       X      X XXXXX
+  1 |   X  XX X  X     X  X  X  XX X     X  X  X  X  X     X  XX  XXXX X  XX X  X  X  XX XXXXX XX X     XX    X  X  XX    XX       X      X XXXXX
+  0 |   X  XX X  X     X  X  X  XX X     X  X  X  X  X     X  XX  XXXX X  XX X  X  X  XX XXXXX XX X     XX    X  X  XX    XX       X      X XXXXX
+  0 |   X  XX X  X     X  X  X  XX X     X  X  X  X  X     X  XX  XXXX X  XX X  X  X  XX XXXXX XX X     XX    X  X  XX    XX       X      X XXXXX
+  0 |   X  XX X  X     X  X  X  XX X     X  X  X  X  X     X  XX  XXXX X  XX X  X  X  XX XXXXX XX X     XX    X  X  XX    XX       X      X XXXXX
+  --+ -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- > 140 ms
+    0    5    10   15   20   25   30   35   40   45   50   55   60   65   70   75   80   85   90   95   100  105  110  115  120  125  130  135
+
+ sequence [Q] [LEFT CLICK] : interval distribution
+    ^  49 events
+  3 |         X  X                                                                       X                                                       
+  2 |         X  X              X     X  X                  X             X              X               X                      X                
+  2 |         X  X              X     X  X                  X             X              X               X                      X                
+  2 |         X  X              X     X  X                  X             X              X               X                      X                
+  1 |         X  X     X     X  X     X XX           X   X  X    X  X  X  X     XX X  X  X     X  X X    X X X X X  X   X X  X  XX             X 
+  1 |         X  X     X     X  X     X XX           X   X  X    X  X  X  X     XX X  X  X     X  X X    X X X X X  X   X X  X  XX             X 
+  1 |         X  X     X     X  X     X XX           X   X  X    X  X  X  X     XX X  X  X     X  X X    X X X X X  X   X X  X  XX             X 
+  0 |         X  X     X     X  X     X XX           X   X  X    X  X  X  X     XX X  X  X     X  X X    X X X X X  X   X X  X  XX             X 
+  0 |         X  X     X     X  X     X XX           X   X  X    X  X  X  X     XX X  X  X     X  X X    X X X X X  X   X X  X  XX             X 
+  0 |         X  X     X     X  X     X XX           X   X  X    X  X  X  X     XX X  X  X     X  X X    X X X X X  X   X X  X  XX             X 
+  --+ -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- > 140 ms
+    0    5    10   15   20   25   30   35   40   45   50   55   60   65   70   75   80   85   90   95   100  105  110  115  120  125  130  135
+
+ sequence [LEFT CLICK] [D] : interval distribution
+    ^  64 events
+  5 |                                                         X                                                                                  
+  4 |                                                         X                                                                                  
+  4 |                                                         X                                                                                  
+  3 |                  X                          X     X     X              X     X                                      X                      
+  3 |                  X                          X     X     X              X     X                                      X                      
+  2 |            X  X  X                          X     X  X  X     X        X     X           X  X                    X  X                 X    
+  2 |            X  X  X                          X     X  X  X     X        X     X           X  X                    X  X                 X    
+  1 |      X     X  X XX           X     XXX X X  X     X  X  X  XX X  X     X     X  X XX  X  X  X  X  X     X  X  X  X  X  X     X X      X  X 
+  1 |      X     X  X XX           X     XXX X X  X     X  X  X  XX X  X     X     X  X XX  X  X  X  X  X     X  X  X  X  X  X     X X      X  X 
+  0 |      X     X  X XX           X     XXX X X  X     X  X  X  XX X  X     X     X  X XX  X  X  X  X  X     X  X  X  X  X  X     X X      X  X 
+  --+ -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- > 140 ms
+    0    5    10   15   20   25   30   35   40   45   50   55   60   65   70   75   80   85   90   95   100  105  110  115  120  125  130  135
+
+ sequence [D] [LEFT CLICK] : interval distribution
+    ^  57 events
+  5 |                                                                                                                                          X 
+  4 |                              X                    X                                                                                      X 
+  4 |                              X                    X                                                                                      X 
+  3 |      X                       X  X                 X                                                                          X           X 
+  3 |      X                       X  X                 X                                                                          X           X 
+  2 |   X  X        X              X  X        X     X  X                                                                       X  X           X 
+  2 |   X  X        X              X  X        X     X  X                                                                       X  X           X 
+  1 |   X  X     X  X  X     X     XX X        X  XX X  X  X  X  X           X              X  X   XX   X X  X    X   X  X  X   X  X     X  XX X 
+  1 |   X  X     X  X  X     X     XX X        X  XX X  X  X  X  X           X              X  X   XX   X X  X    X   X  X  X   X  X     X  XX X 
+  0 |   X  X     X  X  X     X     XX X        X  XX X  X  X  X  X           X              X  X   XX   X X  X    X   X  X  X   X  X     X  XX X 
+  --+ -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- > 140 ms
+    0    5    10   15   20   25   30   35   40   45   50   55   60   65   70   75   80   85   90   95   100  105  110  115  120  125  130  135
+
+ Mouse down moves ( no recoil )  
+    ^  events 112  
+  96 | X                                                                                                                                                    
+  86 | X                                                                                                                                                    
+  76 | X                                                                                                                                                    
+  67 | X                                                                                                                                                    
+  57 | X                                                                                                                                                    
+  48 | X                                                                                                                                                    
+  38 | X                                                                                                                                                    
+  28 | X                                                                                                                                                    
+  19 | X                                                                                                                                                    
+   9 | XX                                                                                                                                                   
+   --+ -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- > 150 px moves
+     0    5    10   15   20   25   30   35   40   45   50   55   60   65   70   75   80   85   90   95   100  105  110  115  120  125  130  135  140  145
+ 
+Global log CRC: 9ade71f0e3de2306aafc444289f4d60aa5cb4c8779ecd8953debeae512a75d7c

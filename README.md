@@ -1,5 +1,5 @@
 # Moss Process Analysis
-(Warning : this is a first version and may be unstable.)
+(Warning : this is a first version that may be unstable and may be subject to change.)
 
 This script allows to process the list of processes used by the client in the log file.
 
